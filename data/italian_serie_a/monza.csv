@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-04T16:00Z,Monza,Lazio,Draw,2.0,2.0,2.0 - 2.0,U-Power Stadium,10454,5400.0 + 420.0
+Italian Serie A,2024-04-27T13:00Z,Lecce,Monza,Draw,1.0,1.0,1.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,27167,5400.0 + 480.0
+Italian Serie A,2024-04-21T18:45Z,Monza,Atalanta,Atalanta,1.0,2.0,1.0 - 2.0,U-Power Stadium,13983,5400.0 + 360.0
+Italian Serie A,2024-04-13T18:45Z,Bologna,Monza,Draw,0.0,0.0,0.0 - 0.0,Renato Dall'Ara,26903,5400.0 + 360.0
+Italian Serie A,2024-04-07T13:00Z,Monza,Napoli,Napoli,2.0,4.0,2.0 - 4.0,U-Power Stadium,13169,5400.0 + 300.0
+Italian Serie A,2024-03-30T14:00Z,Torino,Monza,Torino,1.0,0.0,1.0 - 0.0,Olimpico Grande Torino,24286,5400.0 + 360.0
+Italian Serie A,2024-03-16T14:00Z,Monza,Cagliari,Monza,1.0,0.0,1.0 - 0.0,U-Power Stadium,14145,5400.0 + 360.0
+Italian Serie A,2024-03-09T19:45Z,Genoa,Monza,Monza,2.0,3.0,2.0 - 3.0,Luigi Ferraris,31171,5400.0 + 360.0
+Italian Serie A,2024-03-02T17:00Z,Monza,AS Roma,AS Roma,1.0,4.0,1.0 - 4.0,U-Power Stadium,14188,5400.0 + 300.0
+Italian Serie A,2024-02-24T17:00Z,Salernitana,Monza,Monza,0.0,2.0,0.0 - 2.0,Arechi,18560,5400.0 + 300.0
+Italian Serie A,2024-02-18T19:45Z,Monza,AC Milan,Monza,4.0,2.0,4.0 - 2.0,U-Power Stadium,14319,5400.0 + 480.0
+Italian Serie A,2024-02-11T14:00Z,Monza,Hellas Verona,Draw,0.0,0.0,0.0 - 0.0,U-Power Stadium,10885,5400.0 + 360.0
+Italian Serie A,2024-02-03T14:00Z,Udinese,Monza,Draw,0.0,0.0,0.0 - 0.0,Bluenergy Stadium,11373,5400.0 + 240.0
+Italian Serie A,2024-01-28T14:00Z,Monza,Sassuolo,Monza,1.0,0.0,1.0 - 0.0,U-Power Stadium,9982,5400.0 + 600.0
+Italian Serie A,2024-01-21T14:00Z,Empoli,Monza,Empoli,3.0,0.0,3.0 - 0.0,Stadio Carlo Castellani – Computer Gross Arena,7650,5400.0 + 300.0
+Italian Serie A,2024-01-13T19:45Z,Monza,Internazionale,Internazionale,1.0,5.0,1.0 - 5.0,U-Power Stadium,14670,5400.0 + 180.0
+Italian Serie A,2024-01-06T14:00Z,Frosinone,Monza,Monza,2.0,3.0,2.0 - 3.0,Benito Stirpe,13146,5400.0 + 360.0
+Italian Serie A,2023-12-29T17:30Z,Napoli,Monza,Draw,0.0,0.0,0.0 - 0.0,Diego Armando Maradona,50636,5400.0 + 420.0
+Italian Serie A,2023-12-22T19:45Z,Monza,Fiorentina,Fiorentina,0.0,1.0,0.0 - 1.0,U-Power Stadium,10120,5400.0 + 360.0
+Italian Serie A,2023-12-17T11:30Z,AC Milan,Monza,AC Milan,3.0,0.0,3.0 - 0.0,Stadio Giuseppe Meazza,70538,5400.0 + 240.0
+Italian Serie A,2023-12-10T14:00Z,Monza,Genoa,Monza,1.0,0.0,1.0 - 0.0,U-Power Stadium,13283,5400.0 + 300.0
+Italian Serie A,2023-12-01T19:45Z,Monza,Juventus,Juventus,1.0,2.0,1.0 - 2.0,U-Power Stadium,15148,5400.0 + 480.0
+Italian Serie A,2023-11-26T11:30Z,Cagliari,Monza,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16291,5400.0 + 240.0
+Italian Serie A,2023-11-11T19:45Z,Monza,Torino,Draw,1.0,1.0,1.0 - 1.0,U-Power Stadium,11777,5400.0 + 300.0
+Italian Serie A,2023-11-05T11:30Z,Hellas Verona,Monza,Monza,1.0,3.0,1.0 - 3.0,Stadio Marcantonio Bentegodi,17505,5400.0 + 300.0
+Italian Serie A,2023-10-29T14:00Z,Monza,Udinese,Draw,1.0,1.0,1.0 - 1.0,U-Power Stadium,10311,5400.0 + 360.0
+Italian Serie A,2023-10-22T10:30Z,AS Roma,Monza,AS Roma,1.0,0.0,1.0 - 0.0,Olimpico,62022,5400.0 + 660.0
+Italian Serie A,2023-10-08T10:30Z,Monza,Salernitana,Monza,3.0,0.0,3.0 - 0.0,U-Power Stadium,12494,5400.0 + 300.0
+Italian Serie A,2023-10-02T16:30Z,Sassuolo,Monza,Monza,0.0,1.0,0.0 - 1.0,MAPEI Stadium - Città del Tricolore,10165,5400.0 + 420.0
+Italian Serie A,2023-09-28T16:30Z,Monza,Bologna,Draw,0.0,0.0,0.0 - 0.0,U-Power Stadium,8930,5400.0 + 360.0
+Italian Serie A,2023-09-23T18:45Z,Lazio,Monza,Draw,1.0,1.0,1.0 - 1.0,Olimpico,37500,5400.0 + 300.0
+Italian Serie A,2023-09-17T13:00Z,Monza,Lecce,Draw,1.0,1.0,1.0 - 1.0,U-Power Stadium,13074,5400.0 + 540.0
+Italian Serie A,2023-09-02T18:45Z,Atalanta,Monza,Atalanta,3.0,0.0,3.0 - 0.0,Gewiss Stadium,14985,5400.0 + 240.0
+Italian Serie A,2023-08-26T16:30Z,Monza,Empoli,Monza,2.0,0.0,2.0 - 0.0,U-Power Stadium,8155,5400.0 + 540.0
+Italian Serie A,2023-08-19T18:45Z,Internazionale,Monza,Internazionale,2.0,0.0,2.0 - 0.0,Stadio Giuseppe Meazza,72509,5400.0 + 420.0

@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T14:00Z,Burnley,Newcastle United,Newcastle United,1.0,4.0,1.0 - 4.0,Turf Moor,21781,5400.0 + 360.0
+English Premier League,2024-04-27T14:00Z,Manchester United,Burnley,Draw,1.0,1.0,1.0 - 1.0,Old Trafford,73571,5400.0 + 420.0
+English Premier League,2024-04-20T14:00Z,Sheffield United,Burnley,Burnley,1.0,4.0,1.0 - 4.0,Bramall Lane,28964,5400.0 + 540.0
+English Premier League,2024-04-13T14:00Z,Burnley,Brighton & Hove Albion,Draw,1.0,1.0,1.0 - 1.0,Turf Moor,20687,5400.0 + 480.0
+English Premier League,2024-04-06T14:00Z,Everton,Burnley,Everton,1.0,0.0,1.0 - 0.0,Goodison Park,39125,5400.0 + 360.0
+English Premier League,2024-04-02T18:45Z,Burnley,Wolverhampton Wanderers,Draw,1.0,1.0,1.0 - 1.0,Turf Moor,21528,5400.0 + 300.0
+English Premier League,2024-03-30T15:00Z,Chelsea,Burnley,Draw,2.0,2.0,2.0 - 2.0,Stamford Bridge,39535,5400.0 + 360.0
+English Premier League,2024-03-16T15:00Z,Burnley,Brentford,Burnley,2.0,1.0,2.0 - 1.0,Turf Moor,20431,5400.0 + 780.0
+English Premier League,2024-03-10T14:00Z,West Ham United,Burnley,Draw,2.0,2.0,2.0 - 2.0,London Stadium,62441,5400.0 + 540.0
+English Premier League,2024-03-03T13:00Z,Burnley,AFC Bournemouth,AFC Bournemouth,0.0,2.0,0.0 - 2.0,Turf Moor,19713,5400.0 + 420.0
+English Premier League,2024-02-24T15:00Z,Crystal Palace,Burnley,Crystal Palace,3.0,0.0,3.0 - 0.0,Selhurst Park,24042,5400.0 + 840.0
+English Premier League,2024-02-17T15:00Z,Burnley,Arsenal,Arsenal,0.0,5.0,0.0 - 5.0,Turf Moor,21311,5400.0 + 660.0
+English Premier League,2024-02-10T15:00Z,Liverpool,Burnley,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,59896,5400.0 + 540.0
+English Premier League,2024-02-03T15:00Z,Burnley,Fulham,Draw,2.0,2.0,2.0 - 2.0,Turf Moor,20203,5400.0 + 420.0
+English Premier League,2024-01-31T19:30Z,Manchester City,Burnley,Manchester City,3.0,1.0,3.0 - 1.0,Etihad Stadium,53099,5400.0 + 360.0
+English Premier League,2024-01-12T19:45Z,Burnley,Luton Town,Draw,1.0,1.0,1.0 - 1.0,Turf Moor,20155,5400.0 + 480.0
+English Premier League,2023-12-30T15:00Z,Aston Villa,Burnley,Aston Villa,3.0,2.0,3.0 - 2.0,Villa Park,41613,5400.0 + 660.0
+English Premier League,2023-12-26T17:30Z,Burnley,Liverpool,Liverpool,0.0,2.0,0.0 - 2.0,Turf Moor,21624,5400.0 + 360.0
+English Premier League,2023-12-23T15:00Z,Fulham,Burnley,Burnley,0.0,2.0,0.0 - 2.0,Craven Cottage,23598,5400.0 + 420.0
+English Premier League,2023-12-16T17:30Z,Burnley,Everton,Everton,0.0,2.0,0.0 - 2.0,Turf Moor,21413,5400.0 + 180.0
+English Premier League,2023-12-09T15:00Z,Brighton & Hove Albion,Burnley,Draw,1.0,1.0,1.0 - 1.0,American Express Stadium,31511,5400.0 + 540.0
+English Premier League,2023-12-05T19:30Z,Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers,1.0,0.0,1.0 - 0.0,Molineux Stadium,30439,5400.0 + 360.0
+English Premier League,2023-12-02T15:00Z,Burnley,Sheffield United,Burnley,5.0,0.0,5.0 - 0.0,Turf Moor,20891,5400.0 + 300.0
+English Premier League,2023-11-25T15:00Z,Burnley,West Ham United,West Ham United,1.0,2.0,1.0 - 2.0,Turf Moor,21319,5400.0 + 540.0
+English Premier League,2023-11-11T15:00Z,Arsenal,Burnley,Arsenal,3.0,1.0,3.0 - 1.0,Emirates Stadium,60232,5400.0 + 660.0
+English Premier League,2023-11-04T15:00Z,Burnley,Crystal Palace,Crystal Palace,0.0,2.0,0.0 - 2.0,Turf Moor,21578,5400.0 + 420.0
+English Premier League,2023-10-28T14:00Z,AFC Bournemouth,Burnley,AFC Bournemouth,2.0,1.0,2.0 - 1.0,Vitality Stadium,11152,5400.0 + 720.0
+English Premier League,2023-10-21T14:00Z,Brentford,Burnley,Brentford,3.0,0.0,3.0 - 0.0,Gtech Community Stadium,17029,5400.0 + 480.0
+English Premier League,2023-10-07T14:00Z,Burnley,Chelsea,Chelsea,1.0,4.0,1.0 - 4.0,Turf Moor,21654,5400.0 + 480.0
+English Premier League,2023-10-03T18:30Z,Luton Town,Burnley,Burnley,1.0,2.0,1.0 - 2.0,Kenilworth Road,10918,5400.0 + 480.0
+English Premier League,2023-09-30T14:00Z,Newcastle United,Burnley,Newcastle United,2.0,0.0,2.0 - 0.0,St. James' Park,52163,5400.0 + 420.0
+English Premier League,2023-09-23T19:00Z,Burnley,Manchester United,Manchester United,0.0,1.0,0.0 - 1.0,Turf Moor,21593,5400.0 + 300.0
+English Premier League,2023-09-18T18:45Z,Nottingham Forest,Burnley,Draw,1.0,1.0,1.0 - 1.0,The City Ground,28958,5400.0 + 600.0
+English Premier League,2023-09-02T14:00Z,Burnley,Tottenham Hotspur,Tottenham Hotspur,2.0,5.0,2.0 - 5.0,Turf Moor,21750,5400.0 + 480.0
+English Premier League,2023-08-27T13:00Z,Burnley,Aston Villa,Aston Villa,1.0,3.0,1.0 - 3.0,Turf Moor,21591,5400.0 + 360.0
+English Premier League,2023-08-11T19:00Z,Burnley,Manchester City,Manchester City,0.0,3.0,0.0 - 3.0,Turf Moor,21572,5400.0 + 540.0

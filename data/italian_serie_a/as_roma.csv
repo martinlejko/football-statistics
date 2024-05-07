@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T18:45Z,AS Roma,Juventus,Draw,1.0,1.0,1.0 - 1.0,Olimpico,63996,5400.0 + 360.0
+Italian Serie A,2024-04-28T16:00Z,Napoli,AS Roma,Draw,2.0,2.0,2.0 - 2.0,Diego Armando Maradona,45000,5400.0 + 360.0
+Italian Serie A,2024-04-25T18:00Z,Udinese,AS Roma,AS Roma,1.0,2.0,1.0 - 2.0,Bluenergy Stadium,24947,5400.0 + 420.0
+Italian Serie A,2024-04-22T16:30Z,AS Roma,Bologna,Bologna,1.0,3.0,1.0 - 3.0,Olimpico,63850,5400.0 + 420.0
+Italian Serie A,2024-04-06T16:00Z,AS Roma,Lazio,AS Roma,1.0,0.0,1.0 - 0.0,Olimpico,64513,5400.0 + 420.0
+Italian Serie A,2024-04-01T16:00Z,Lecce,AS Roma,Draw,0.0,0.0,0.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,29031,5400.0 + 300.0
+Italian Serie A,2024-03-17T17:00Z,AS Roma,Sassuolo,AS Roma,1.0,0.0,1.0 - 0.0,Olimpico,66871,5400.0 + 240.0
+Italian Serie A,2024-03-10T19:45Z,Fiorentina,AS Roma,Draw,2.0,2.0,2.0 - 2.0,Artemio Franchi,30438,5400.0 + 360.0
+Italian Serie A,2024-03-02T17:00Z,Monza,AS Roma,AS Roma,1.0,4.0,1.0 - 4.0,U-Power Stadium,14188,5400.0 + 300.0
+Italian Serie A,2024-02-26T17:30Z,AS Roma,Torino,AS Roma,3.0,2.0,3.0 - 2.0,Olimpico,61595,5400.0 + 360.0
+Italian Serie A,2024-02-18T17:00Z,Frosinone,AS Roma,AS Roma,0.0,3.0,0.0 - 3.0,Benito Stirpe,16056,5400.0 + 240.0
+Italian Serie A,2024-02-10T17:00Z,AS Roma,Internazionale,Internazionale,2.0,4.0,2.0 - 4.0,Olimpico,65044,5400.0 + 360.0
+Italian Serie A,2024-02-05T19:45Z,AS Roma,Cagliari,AS Roma,4.0,0.0,4.0 - 0.0,Olimpico,61755,5400.0 + 120.0
+Italian Serie A,2024-01-29T19:45Z,Salernitana,AS Roma,AS Roma,1.0,2.0,1.0 - 2.0,Arechi,18038,5400.0 + 360.0
+Italian Serie A,2024-01-20T17:00Z,AS Roma,Hellas Verona,AS Roma,2.0,1.0,2.0 - 1.0,Olimpico,61857,5400.0 + 360.0
+Italian Serie A,2024-01-14T19:45Z,AC Milan,AS Roma,AC Milan,3.0,1.0,3.0 - 1.0,Stadio Giuseppe Meazza,74198,5400.0 + 360.0
+Italian Serie A,2024-01-07T19:45Z,AS Roma,Atalanta,Draw,1.0,1.0,1.0 - 1.0,Olimpico,60022,5400.0 + 360.0
+Italian Serie A,2023-12-30T19:45Z,Juventus,AS Roma,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,41503,5400.0 + 420.0
+Italian Serie A,2023-12-23T19:45Z,AS Roma,Napoli,AS Roma,2.0,0.0,2.0 - 0.0,Olimpico,62141,5400.0 + 420.0
+Italian Serie A,2023-12-17T17:00Z,Bologna,AS Roma,Bologna,2.0,0.0,2.0 - 0.0,Renato Dall'Ara,25579,5400.0 + 240.0
+Italian Serie A,2023-12-10T19:45Z,AS Roma,Fiorentina,Draw,1.0,1.0,1.0 - 1.0,Olimpico,60932,5400.0 + 420.0
+Italian Serie A,2023-12-03T17:00Z,Sassuolo,AS Roma,AS Roma,1.0,2.0,1.0 - 2.0,MAPEI Stadium - Città del Tricolore,19113,5400.0 + 480.0
+Italian Serie A,2023-11-26T17:00Z,AS Roma,Udinese,AS Roma,3.0,1.0,3.0 - 1.0,Olimpico,61616,5400.0 + 360.0
+Italian Serie A,2023-11-12T17:00Z,Lazio,AS Roma,Draw,0.0,0.0,0.0 - 0.0,Olimpico,63000,5400.0 + 180.0
+Italian Serie A,2023-11-05T17:00Z,AS Roma,Lecce,AS Roma,2.0,1.0,2.0 - 1.0,Olimpico,64790,5400.0 + 540.0
+Italian Serie A,2023-10-29T17:00Z,Internazionale,AS Roma,Internazionale,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,75573,5400.0 + 360.0
+Italian Serie A,2023-10-22T10:30Z,AS Roma,Monza,AS Roma,1.0,0.0,1.0 - 0.0,Olimpico,62022,5400.0 + 660.0
+Italian Serie A,2023-10-08T16:00Z,Cagliari,AS Roma,AS Roma,1.0,4.0,1.0 - 4.0,Unipol Domus,16307,5400.0 + 300.0
+Italian Serie A,2023-10-01T18:45Z,AS Roma,Frosinone,AS Roma,2.0,0.0,2.0 - 0.0,Olimpico,62638,5400.0 + 540.0
+Italian Serie A,2023-09-28T18:45Z,Genoa,AS Roma,Genoa,4.0,1.0,4.0 - 1.0,Luigi Ferraris,32961,5400.0 + 360.0
+Italian Serie A,2023-09-24T18:45Z,Torino,AS Roma,Draw,1.0,1.0,1.0 - 1.0,Olimpico Grande Torino,23299,5400.0 + 360.0
+Italian Serie A,2023-09-17T18:45Z,AS Roma,Empoli,AS Roma,7.0,0.0,7.0 - 0.0,Olimpico,61443,5400.0 + 240.0
+Italian Serie A,2023-09-01T18:45Z,AS Roma,AC Milan,AC Milan,1.0,2.0,1.0 - 2.0,Olimpico,61960,5400.0 + 480.0
+Italian Serie A,2023-08-26T18:45Z,Hellas Verona,AS Roma,Hellas Verona,2.0,1.0,2.0 - 1.0,Stadio Marcantonio Bentegodi,23147,5400.0 + 840.0
+Italian Serie A,2023-08-20T16:30Z,AS Roma,Salernitana,Draw,2.0,2.0,2.0 - 2.0,Olimpico,62050,5400.0 + 420.0

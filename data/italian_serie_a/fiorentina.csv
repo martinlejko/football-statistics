@@ -1,0 +1,35 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T13:00Z,Hellas Verona,Fiorentina,Hellas Verona,2.0,1.0,2.0 - 1.0,Stadio Marcantonio Bentegodi,27821,5400.0 + 480.0
+Italian Serie A,2024-04-28T18:45Z,Fiorentina,Sassuolo,Fiorentina,5.0,1.0,5.0 - 1.0,Artemio Franchi,22575,5400.0 + 60.0
+Italian Serie A,2024-04-21T16:00Z,Salernitana,Fiorentina,Fiorentina,0.0,2.0,0.0 - 2.0,Arechi,14597,5400.0 + 360.0
+Italian Serie A,2024-04-15T16:30Z,Fiorentina,Genoa,Draw,1.0,1.0,1.0 - 1.0,Artemio Franchi,25120,5400.0 + 480.0
+Italian Serie A,2024-04-07T18:45Z,Juventus,Fiorentina,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,37994,5400.0 + 300.0
+Italian Serie A,2024-03-30T19:45Z,Fiorentina,AC Milan,AC Milan,1.0,2.0,1.0 - 2.0,Artemio Franchi,34273,5400.0 + 420.0
+Italian Serie A,2024-03-10T19:45Z,Fiorentina,AS Roma,Draw,2.0,2.0,2.0 - 2.0,Artemio Franchi,30438,5400.0 + 360.0
+Italian Serie A,2024-03-02T19:45Z,Torino,Fiorentina,Draw,0.0,0.0,0.0 - 0.0,Olimpico Grande Torino,22845,5400.0 + 360.0
+Italian Serie A,2024-02-26T19:45Z,Fiorentina,Lazio,Fiorentina,2.0,1.0,2.0 - 1.0,Artemio Franchi,25190,5400.0 + 360.0
+Italian Serie A,2024-02-18T14:00Z,Empoli,Fiorentina,Draw,1.0,1.0,1.0 - 1.0,Stadio Carlo Castellani – Computer Gross Arena,12490,5400.0 + 300.0
+Italian Serie A,2024-02-14T18:00Z,Bologna,Fiorentina,Bologna,2.0,0.0,2.0 - 0.0,Renato Dall'Ara,25684,5400.0 + 480.0
+Italian Serie A,2024-02-11T11:30Z,Fiorentina,Frosinone,Fiorentina,5.0,1.0,5.0 - 1.0,Artemio Franchi,25397,5400.0 + 240.0
+Italian Serie A,2024-02-02T19:45Z,Lecce,Fiorentina,Lecce,3.0,2.0,3.0 - 2.0,Stadio Ettore Giardiniero - Via del Mare,24778,5400.0 + 480.0
+Italian Serie A,2024-01-28T19:45Z,Fiorentina,Internazionale,Internazionale,0.0,1.0,0.0 - 1.0,Artemio Franchi,35084,5400.0 + 360.0
+Italian Serie A,2024-01-14T17:00Z,Fiorentina,Udinese,Draw,2.0,2.0,2.0 - 2.0,Artemio Franchi,23686,5400.0 + 360.0
+Italian Serie A,2024-01-06T19:45Z,Sassuolo,Fiorentina,Sassuolo,1.0,0.0,1.0 - 0.0,MAPEI Stadium - Città del Tricolore,15759,5400.0 + 480.0
+Italian Serie A,2023-12-29T17:30Z,Fiorentina,Torino,Fiorentina,1.0,0.0,1.0 - 0.0,Artemio Franchi,32915,5400.0 + 420.0
+Italian Serie A,2023-12-22T19:45Z,Monza,Fiorentina,Fiorentina,0.0,1.0,0.0 - 1.0,U-Power Stadium,10120,5400.0 + 360.0
+Italian Serie A,2023-12-17T14:00Z,Fiorentina,Hellas Verona,Fiorentina,1.0,0.0,1.0 - 0.0,Artemio Franchi,26311,5400.0 + 300.0
+Italian Serie A,2023-12-10T19:45Z,AS Roma,Fiorentina,Draw,1.0,1.0,1.0 - 1.0,Olimpico,60932,5400.0 + 420.0
+Italian Serie A,2023-12-03T14:00Z,Fiorentina,Salernitana,Fiorentina,3.0,0.0,3.0 - 0.0,Artemio Franchi,26286,5400.0 + 180.0
+Italian Serie A,2023-11-25T19:45Z,AC Milan,Fiorentina,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,73074,5400.0 + 480.0
+Italian Serie A,2023-11-12T14:00Z,Fiorentina,Bologna,Fiorentina,2.0,1.0,2.0 - 1.0,Artemio Franchi,29750,5400.0 + 420.0
+Italian Serie A,2023-11-05T19:45Z,Fiorentina,Juventus,Juventus,0.0,1.0,0.0 - 1.0,Artemio Franchi,38225,5400.0 + 360.0
+Italian Serie A,2023-10-30T19:45Z,Lazio,Fiorentina,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,35000,5400.0 + 360.0
+Italian Serie A,2023-10-23T18:45Z,Fiorentina,Empoli,Empoli,0.0,2.0,0.0 - 2.0,Artemio Franchi,29105,5400.0 + 360.0
+Italian Serie A,2023-10-08T18:45Z,Napoli,Fiorentina,Fiorentina,1.0,3.0,1.0 - 3.0,Diego Armando Maradona,47500,5400.0 + 360.0
+Italian Serie A,2023-10-02T18:45Z,Fiorentina,Cagliari,Fiorentina,3.0,0.0,3.0 - 0.0,Artemio Franchi,27309,5400.0 + 360.0
+Italian Serie A,2023-09-28T16:30Z,Frosinone,Fiorentina,Draw,1.0,1.0,1.0 - 1.0,Benito Stirpe,14755,5400.0 + 360.0
+Italian Serie A,2023-09-24T13:00Z,Udinese,Fiorentina,Fiorentina,0.0,2.0,0.0 - 2.0,Bluenergy Stadium,21229,5400.0 + 300.0
+Italian Serie A,2023-09-17T16:00Z,Fiorentina,Atalanta,Fiorentina,3.0,2.0,3.0 - 2.0,Artemio Franchi,32100,5400.0 + 540.0
+Italian Serie A,2023-09-03T16:30Z,Internazionale,Fiorentina,Internazionale,4.0,0.0,4.0 - 0.0,Stadio Giuseppe Meazza,72739,5400.0 + 300.0
+Italian Serie A,2023-08-27T16:30Z,Fiorentina,Lecce,Draw,2.0,2.0,2.0 - 2.0,Artemio Franchi,34604,5400.0 + 540.0
+Italian Serie A,2023-08-19T18:45Z,Genoa,Fiorentina,Fiorentina,1.0,4.0,1.0 - 4.0,Luigi Ferraris,33045,5400.0 + 240.0

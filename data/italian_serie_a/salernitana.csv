@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-06T16:00Z,Salernitana,Atalanta,Atalanta,1.0,2.0,1.0 - 2.0,Arechi,0,5400.0 + 300.0
+Italian Serie A,2024-04-26T18:45Z,Frosinone,Salernitana,Frosinone,3.0,0.0,3.0 - 0.0,Benito Stirpe,13728,5400.0 + 240.0
+Italian Serie A,2024-04-21T16:00Z,Salernitana,Fiorentina,Fiorentina,0.0,2.0,0.0 - 2.0,Arechi,14597,5400.0 + 360.0
+Italian Serie A,2024-04-12T18:45Z,Lazio,Salernitana,Lazio,4.0,1.0,4.0 - 1.0,Olimpico,36000,5400.0 + 300.0
+Italian Serie A,2024-04-05T18:45Z,Salernitana,Sassuolo,Draw,2.0,2.0,2.0 - 2.0,Arechi,14306,5400.0 + 480.0
+Italian Serie A,2024-04-01T10:30Z,Bologna,Salernitana,Bologna,3.0,0.0,3.0 - 0.0,Renato Dall'Ara,27255,5400.0 + 300.0
+Italian Serie A,2024-03-16T17:00Z,Salernitana,Lecce,Lecce,0.0,1.0,0.0 - 1.0,Arechi,15376,5400.0 + 420.0
+Italian Serie A,2024-03-09T14:00Z,Cagliari,Salernitana,Cagliari,4.0,2.0,4.0 - 2.0,Unipol Domus,16118,5400.0 + 300.0
+Italian Serie A,2024-03-02T14:00Z,Udinese,Salernitana,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,20369,5400.0 + 240.0
+Italian Serie A,2024-02-24T17:00Z,Salernitana,Monza,Monza,0.0,2.0,0.0 - 2.0,Arechi,18560,5400.0 + 300.0
+Italian Serie A,2024-02-16T20:00Z,Internazionale,Salernitana,Internazionale,4.0,0.0,4.0 - 0.0,Stadio Giuseppe Meazza,72609,5400.0 + 0.0
+Italian Serie A,2024-02-09T19:45Z,Salernitana,Empoli,Empoli,1.0,3.0,1.0 - 3.0,Arechi,18173,5400.0 + 420.0
+Italian Serie A,2024-02-04T11:30Z,Torino,Salernitana,Draw,0.0,0.0,0.0 - 0.0,Olimpico Grande Torino,24461,5400.0 + 360.0
+Italian Serie A,2024-01-29T19:45Z,Salernitana,AS Roma,AS Roma,1.0,2.0,1.0 - 2.0,Arechi,18038,5400.0 + 360.0
+Italian Serie A,2024-01-21T17:00Z,Salernitana,Genoa,Genoa,1.0,2.0,1.0 - 2.0,Arechi,17440,5400.0 + 420.0
+Italian Serie A,2024-01-13T14:00Z,Napoli,Salernitana,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,40000,5400.0 + 660.0
+Italian Serie A,2024-01-07T17:00Z,Salernitana,Juventus,Juventus,1.0,2.0,1.0 - 2.0,Arechi,29405,5400.0 + 420.0
+Italian Serie A,2023-12-30T17:00Z,Hellas Verona,Salernitana,Salernitana,0.0,1.0,0.0 - 1.0,Stadio Marcantonio Bentegodi,18181,5400.0 + 360.0
+Italian Serie A,2023-12-22T19:45Z,Salernitana,AC Milan,Draw,2.0,2.0,2.0 - 2.0,Arechi,23467,5400.0 + 360.0
+Italian Serie A,2023-12-18T19:45Z,Atalanta,Salernitana,Atalanta,4.0,1.0,4.0 - 1.0,Gewiss Stadium,14264,5400.0 + 300.0
+Italian Serie A,2023-12-10T17:00Z,Salernitana,Bologna,Bologna,1.0,2.0,1.0 - 2.0,Arechi,16650,5400.0 + 480.0
+Italian Serie A,2023-12-03T14:00Z,Fiorentina,Salernitana,Fiorentina,3.0,0.0,3.0 - 0.0,Artemio Franchi,26286,5400.0 + 180.0
+Italian Serie A,2023-11-25T14:00Z,Salernitana,Lazio,Salernitana,2.0,1.0,2.0 - 1.0,Arechi,16700,5400.0 + 360.0
+Italian Serie A,2023-11-10T17:30Z,Sassuolo,Salernitana,Draw,2.0,2.0,2.0 - 2.0,MAPEI Stadium - Città del Tricolore,10495,5400.0 + 300.0
+Italian Serie A,2023-11-04T14:00Z,Salernitana,Napoli,Napoli,0.0,2.0,0.0 - 2.0,Arechi,16812,5400.0 + 300.0
+Italian Serie A,2023-10-27T18:45Z,Genoa,Salernitana,Genoa,1.0,0.0,1.0 - 0.0,Luigi Ferraris,30904,5400.0 + 360.0
+Italian Serie A,2023-10-22T13:00Z,Salernitana,Cagliari,Draw,2.0,2.0,2.0 - 2.0,Arechi,17409,5400.0 + 720.0
+Italian Serie A,2023-10-08T10:30Z,Monza,Salernitana,Monza,3.0,0.0,3.0 - 0.0,U-Power Stadium,12494,5400.0 + 300.0
+Italian Serie A,2023-09-30T18:45Z,Salernitana,Internazionale,Internazionale,0.0,4.0,0.0 - 4.0,Arechi,28085,5400.0 + 120.0
+Italian Serie A,2023-09-27T16:30Z,Empoli,Salernitana,Empoli,1.0,0.0,1.0 - 0.0,Stadio Carlo Castellani – Computer Gross Arena,7979,5400.0 + 420.0
+Italian Serie A,2023-09-22T16:30Z,Salernitana,Frosinone,Draw,1.0,1.0,1.0 - 1.0,Arechi,16217,5400.0 + 360.0
+Italian Serie A,2023-09-18T16:30Z,Salernitana,Torino,Torino,0.0,3.0,0.0 - 3.0,Arechi,15480,5400.0 + 420.0
+Italian Serie A,2023-09-03T18:45Z,Lecce,Salernitana,Lecce,2.0,0.0,2.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,28052,5400.0 + 780.0
+Italian Serie A,2023-08-28T16:30Z,Salernitana,Udinese,Draw,1.0,1.0,1.0 - 1.0,Arechi,20000,5400.0 + 420.0
+Italian Serie A,2023-08-20T16:30Z,AS Roma,Salernitana,Draw,2.0,2.0,2.0 - 2.0,Olimpico,62050,5400.0 + 420.0

@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-04T16:00Z,Monza,Lazio,Draw,2.0,2.0,2.0 - 2.0,U-Power Stadium,10454,5400.0 + 420.0
+Italian Serie A,2024-04-27T18:45Z,Lazio,Hellas Verona,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,39000,5400.0 + 300.0
+Italian Serie A,2024-04-19T16:30Z,Genoa,Lazio,Lazio,0.0,1.0,0.0 - 1.0,Luigi Ferraris,30697,5400.0 + 300.0
+Italian Serie A,2024-04-12T18:45Z,Lazio,Salernitana,Lazio,4.0,1.0,4.0 - 1.0,Olimpico,36000,5400.0 + 300.0
+Italian Serie A,2024-04-06T16:00Z,AS Roma,Lazio,AS Roma,1.0,0.0,1.0 - 0.0,Olimpico,64513,5400.0 + 420.0
+Italian Serie A,2024-03-30T17:00Z,Lazio,Juventus,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,57000,5400.0 + 300.0
+Italian Serie A,2024-03-16T19:45Z,Frosinone,Lazio,Lazio,2.0,3.0,2.0 - 3.0,Benito Stirpe,15780,5400.0 + 600.0
+Italian Serie A,2024-03-11T19:45Z,Lazio,Udinese,Udinese,1.0,2.0,1.0 - 2.0,Olimpico,34000,5400.0 + 720.0
+Italian Serie A,2024-03-01T19:45Z,Lazio,AC Milan,AC Milan,0.0,1.0,0.0 - 1.0,Olimpico,50500,5400.0 + 480.0
+Italian Serie A,2024-02-26T19:45Z,Fiorentina,Lazio,Fiorentina,2.0,1.0,2.0 - 1.0,Artemio Franchi,25190,5400.0 + 360.0
+Italian Serie A,2024-02-22T19:45Z,Torino,Lazio,Lazio,0.0,2.0,0.0 - 2.0,Olimpico Grande Torino,22742,5400.0 + 420.0
+Italian Serie A,2024-02-18T11:30Z,Lazio,Bologna,Bologna,1.0,2.0,1.0 - 2.0,Olimpico,43500,5400.0 + 300.0
+Italian Serie A,2024-02-10T14:00Z,Cagliari,Lazio,Lazio,1.0,3.0,1.0 - 3.0,Unipol Domus,16155,5400.0 + 300.0
+Italian Serie A,2024-02-04T17:00Z,Atalanta,Lazio,Atalanta,3.0,1.0,3.0 - 1.0,Gewiss Stadium,14492,5400.0 + 300.0
+Italian Serie A,2024-01-28T17:00Z,Lazio,Napoli,Draw,0.0,0.0,0.0 - 0.0,Olimpico,33000,5400.0 + 360.0
+Italian Serie A,2024-01-14T11:30Z,Lazio,Lecce,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,44000,5400.0 + 300.0
+Italian Serie A,2024-01-07T14:00Z,Udinese,Lazio,Lazio,1.0,2.0,1.0 - 2.0,Bluenergy Stadium,23033,5400.0 + 360.0
+Italian Serie A,2023-12-29T19:45Z,Lazio,Frosinone,Lazio,3.0,1.0,3.0 - 1.0,Olimpico,40000,5400.0 + 420.0
+Italian Serie A,2023-12-22T17:30Z,Empoli,Lazio,Lazio,0.0,2.0,0.0 - 2.0,Stadio Carlo Castellani – Computer Gross Arena,8800,5400.0 + 300.0
+Italian Serie A,2023-12-17T19:45Z,Lazio,Internazionale,Internazionale,0.0,2.0,0.0 - 2.0,Olimpico,59000,5400.0 + 420.0
+Italian Serie A,2023-12-09T14:00Z,Hellas Verona,Lazio,Draw,1.0,1.0,1.0 - 1.0,Stadio Marcantonio Bentegodi,28401,5400.0 + 360.0
+Italian Serie A,2023-12-02T17:00Z,Lazio,Cagliari,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,40000,5400.0 + 300.0
+Italian Serie A,2023-11-25T14:00Z,Salernitana,Lazio,Salernitana,2.0,1.0,2.0 - 1.0,Arechi,16700,5400.0 + 360.0
+Italian Serie A,2023-11-12T17:00Z,Lazio,AS Roma,Draw,0.0,0.0,0.0 - 0.0,Olimpico,63000,5400.0 + 180.0
+Italian Serie A,2023-11-03T19:45Z,Bologna,Lazio,Bologna,1.0,0.0,1.0 - 0.0,Renato Dall'Ara,24178,5400.0 + 420.0
+Italian Serie A,2023-10-30T19:45Z,Lazio,Fiorentina,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,35000,5400.0 + 360.0
+Italian Serie A,2023-10-21T18:45Z,Sassuolo,Lazio,Lazio,0.0,2.0,0.0 - 2.0,MAPEI Stadium - Città del Tricolore,15597,5400.0 + 360.0
+Italian Serie A,2023-10-08T13:00Z,Lazio,Atalanta,Lazio,3.0,2.0,3.0 - 2.0,Olimpico,41500,5400.0 + 300.0
+Italian Serie A,2023-09-30T16:00Z,AC Milan,Lazio,AC Milan,2.0,0.0,2.0 - 0.0,Stadio Giuseppe Meazza,72035,5400.0 + 360.0
+Italian Serie A,2023-09-27T18:45Z,Lazio,Torino,Lazio,2.0,0.0,2.0 - 0.0,Olimpico,35700,5400.0 + 480.0
+Italian Serie A,2023-09-23T18:45Z,Lazio,Monza,Draw,1.0,1.0,1.0 - 1.0,Olimpico,37500,5400.0 + 300.0
+Italian Serie A,2023-09-16T13:00Z,Juventus,Lazio,Juventus,3.0,1.0,3.0 - 1.0,Allianz Stadium,40562,5400.0 + 480.0
+Italian Serie A,2023-09-02T18:45Z,Napoli,Lazio,Lazio,1.0,2.0,1.0 - 2.0,Diego Armando Maradona,42765,5400.0 + 540.0
+Italian Serie A,2023-08-27T18:45Z,Lazio,Genoa,Genoa,0.0,1.0,0.0 - 1.0,Olimpico,40000,5400.0 + 540.0
+Italian Serie A,2023-08-20T18:45Z,Lecce,Lazio,Lecce,2.0,1.0,2.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,29081,5400.0 + 360.0

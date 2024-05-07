@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T13:00Z,Hellas Verona,Fiorentina,Hellas Verona,2.0,1.0,2.0 - 1.0,Stadio Marcantonio Bentegodi,27821,5400.0 + 480.0
+Italian Serie A,2024-04-27T18:45Z,Lazio,Hellas Verona,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,39000,5400.0 + 300.0
+Italian Serie A,2024-04-20T18:45Z,Hellas Verona,Udinese,Hellas Verona,1.0,0.0,1.0 - 0.0,Stadio Marcantonio Bentegodi,27662,5400.0 + 360.0
+Italian Serie A,2024-04-15T18:45Z,Atalanta,Hellas Verona,Draw,2.0,2.0,2.0 - 2.0,Gewiss Stadium,14666,5400.0 + 360.0
+Italian Serie A,2024-04-07T16:00Z,Hellas Verona,Genoa,Genoa,1.0,2.0,1.0 - 2.0,Stadio Marcantonio Bentegodi,20342,5400.0 + 360.0
+Italian Serie A,2024-04-01T13:00Z,Cagliari,Hellas Verona,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16285,5400.0 + 480.0
+Italian Serie A,2024-03-17T14:00Z,Hellas Verona,AC Milan,AC Milan,1.0,3.0,1.0 - 3.0,Stadio Marcantonio Bentegodi,26165,5400.0 + 360.0
+Italian Serie A,2024-03-10T11:30Z,Lecce,Hellas Verona,Hellas Verona,0.0,1.0,0.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,25222,5400.0 + 480.0
+Italian Serie A,2024-03-03T11:30Z,Hellas Verona,Sassuolo,Hellas Verona,1.0,0.0,1.0 - 0.0,Stadio Marcantonio Bentegodi,19338,5400.0 + 420.0
+Italian Serie A,2024-02-23T19:45Z,Bologna,Hellas Verona,Bologna,2.0,0.0,2.0 - 0.0,Renato Dall'Ara,26033,5400.0 + 240.0
+Italian Serie A,2024-02-17T17:00Z,Hellas Verona,Juventus,Draw,2.0,2.0,2.0 - 2.0,Stadio Marcantonio Bentegodi,27000,5400.0 + 360.0
+Italian Serie A,2024-02-11T14:00Z,Monza,Hellas Verona,Draw,0.0,0.0,0.0 - 0.0,U-Power Stadium,10885,5400.0 + 360.0
+Italian Serie A,2024-02-04T14:00Z,Napoli,Hellas Verona,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,44000,5400.0 + 360.0
+Italian Serie A,2024-01-28T14:00Z,Hellas Verona,Frosinone,Draw,1.0,1.0,1.0 - 1.0,Stadio Marcantonio Bentegodi,17529,5400.0 + 300.0
+Italian Serie A,2024-01-20T17:00Z,AS Roma,Hellas Verona,AS Roma,2.0,1.0,2.0 - 1.0,Olimpico,61857,5400.0 + 360.0
+Italian Serie A,2024-01-13T17:00Z,Hellas Verona,Empoli,Hellas Verona,2.0,1.0,2.0 - 1.0,Stadio Marcantonio Bentegodi,15737,5400.0 + 300.0
+Italian Serie A,2024-01-06T11:30Z,Internazionale,Hellas Verona,Internazionale,2.0,1.0,2.0 - 1.0,Stadio Giuseppe Meazza,71691,5400.0 + 720.0
+Italian Serie A,2023-12-30T17:00Z,Hellas Verona,Salernitana,Salernitana,0.0,1.0,0.0 - 1.0,Stadio Marcantonio Bentegodi,18181,5400.0 + 360.0
+Italian Serie A,2023-12-23T17:00Z,Hellas Verona,Cagliari,Hellas Verona,2.0,0.0,2.0 - 0.0,Stadio Marcantonio Bentegodi,16716,5400.0 + 420.0
+Italian Serie A,2023-12-17T14:00Z,Fiorentina,Hellas Verona,Fiorentina,1.0,0.0,1.0 - 0.0,Artemio Franchi,26311,5400.0 + 300.0
+Italian Serie A,2023-12-09T14:00Z,Hellas Verona,Lazio,Draw,1.0,1.0,1.0 - 1.0,Stadio Marcantonio Bentegodi,28401,5400.0 + 360.0
+Italian Serie A,2023-12-03T14:00Z,Udinese,Hellas Verona,Draw,3.0,3.0,3.0 - 3.0,Bluenergy Stadium,22294,5400.0 + 540.0
+Italian Serie A,2023-11-27T17:30Z,Hellas Verona,Lecce,Draw,2.0,2.0,2.0 - 2.0,Stadio Marcantonio Bentegodi,16730,5400.0 + 300.0
+Italian Serie A,2023-11-10T19:45Z,Genoa,Hellas Verona,Genoa,1.0,0.0,1.0 - 0.0,Luigi Ferraris,30421,5400.0 + 300.0
+Italian Serie A,2023-11-05T11:30Z,Hellas Verona,Monza,Monza,1.0,3.0,1.0 - 3.0,Stadio Marcantonio Bentegodi,17505,5400.0 + 300.0
+Italian Serie A,2023-10-28T18:45Z,Juventus,Hellas Verona,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,39438,5400.0 + 540.0
+Italian Serie A,2023-10-21T13:00Z,Hellas Verona,Napoli,Napoli,1.0,3.0,1.0 - 3.0,Stadio Marcantonio Bentegodi,20549,5400.0 + 300.0
+Italian Serie A,2023-10-08T13:00Z,Frosinone,Hellas Verona,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,13033,5400.0 + 600.0
+Italian Serie A,2023-10-02T16:30Z,Torino,Hellas Verona,Draw,0.0,0.0,0.0 - 0.0,Olimpico Grande Torino,19419,5400.0 + 360.0
+Italian Serie A,2023-09-27T16:30Z,Hellas Verona,Atalanta,Atalanta,0.0,1.0,0.0 - 1.0,Stadio Marcantonio Bentegodi,15965,5400.0 + 360.0
+Italian Serie A,2023-09-23T13:00Z,AC Milan,Hellas Verona,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,71070,5400.0 + 420.0
+Italian Serie A,2023-09-18T18:45Z,Hellas Verona,Bologna,Draw,0.0,0.0,0.0 - 0.0,Stadio Marcantonio Bentegodi,18863,5400.0 + 360.0
+Italian Serie A,2023-09-01T16:30Z,Sassuolo,Hellas Verona,Sassuolo,3.0,1.0,3.0 - 1.0,MAPEI Stadium - Città del Tricolore,10356,5400.0 + 420.0
+Italian Serie A,2023-08-26T18:45Z,Hellas Verona,AS Roma,Hellas Verona,2.0,1.0,2.0 - 1.0,Stadio Marcantonio Bentegodi,23147,5400.0 + 840.0
+Italian Serie A,2023-08-19T16:30Z,Empoli,Hellas Verona,Hellas Verona,0.0,1.0,0.0 - 1.0,Stadio Carlo Castellani – Computer Gross Arena,7940,5400.0 + 420.0

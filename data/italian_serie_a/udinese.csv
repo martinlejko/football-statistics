@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-06T18:45Z,Udinese,Napoli,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,0,5400.0 + 360.0
+Italian Serie A,2024-04-28T13:00Z,Bologna,Udinese,Draw,1.0,1.0,1.0 - 1.0,Renato Dall'Ara,27396,5400.0 + 420.0
+Italian Serie A,2024-04-25T18:00Z,Udinese,AS Roma,AS Roma,1.0,2.0,1.0 - 2.0,Bluenergy Stadium,24947,5400.0 + 420.0
+Italian Serie A,2024-04-20T18:45Z,Hellas Verona,Udinese,Hellas Verona,1.0,0.0,1.0 - 0.0,Stadio Marcantonio Bentegodi,27662,5400.0 + 360.0
+Italian Serie A,2024-04-08T18:45Z,Udinese,Internazionale,Internazionale,1.0,2.0,1.0 - 2.0,Bluenergy Stadium,24993,5400.0 + 480.0
+Italian Serie A,2024-04-01T13:00Z,Sassuolo,Udinese,Draw,1.0,1.0,1.0 - 1.0,MAPEI Stadium - Città del Tricolore,11512,5400.0 + 240.0
+Italian Serie A,2024-03-16T14:00Z,Udinese,Torino,Torino,0.0,2.0,0.0 - 2.0,Bluenergy Stadium,21223,5400.0 + 360.0
+Italian Serie A,2024-03-11T19:45Z,Lazio,Udinese,Udinese,1.0,2.0,1.0 - 2.0,Olimpico,34000,5400.0 + 720.0
+Italian Serie A,2024-03-02T14:00Z,Udinese,Salernitana,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,20369,5400.0 + 240.0
+Italian Serie A,2024-02-24T19:45Z,Genoa,Udinese,Genoa,2.0,0.0,2.0 - 0.0,Luigi Ferraris,31126,5400.0 + 240.0
+Italian Serie A,2024-02-18T14:00Z,Udinese,Cagliari,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,15445,5400.0 + 300.0
+Italian Serie A,2024-02-12T19:45Z,Juventus,Udinese,Udinese,0.0,1.0,0.0 - 1.0,Allianz Stadium,38875,5400.0 + 300.0
+Italian Serie A,2024-02-03T14:00Z,Udinese,Monza,Draw,0.0,0.0,0.0 - 0.0,Bluenergy Stadium,11373,5400.0 + 240.0
+Italian Serie A,2024-01-27T14:00Z,Atalanta,Udinese,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14716,5400.0 + 240.0
+Italian Serie A,2024-01-20T19:45Z,Udinese,AC Milan,AC Milan,2.0,3.0,2.0 - 3.0,Bluenergy Stadium,24591,5400.0 + 480.0
+Italian Serie A,2024-01-14T17:00Z,Fiorentina,Udinese,Draw,2.0,2.0,2.0 - 2.0,Artemio Franchi,23686,5400.0 + 360.0
+Italian Serie A,2024-01-07T14:00Z,Udinese,Lazio,Lazio,1.0,2.0,1.0 - 2.0,Bluenergy Stadium,23033,5400.0 + 360.0
+Italian Serie A,2023-12-30T14:00Z,Udinese,Bologna,Udinese,3.0,0.0,3.0 - 0.0,Bluenergy Stadium,24786,5400.0 + 360.0
+Italian Serie A,2023-12-23T14:00Z,Torino,Udinese,Draw,1.0,1.0,1.0 - 1.0,Olimpico Grande Torino,23546,5400.0 + 240.0
+Italian Serie A,2023-12-17T14:00Z,Udinese,Sassuolo,Draw,2.0,2.0,2.0 - 2.0,Bluenergy Stadium,20490,5400.0 + 420.0
+Italian Serie A,2023-12-09T19:45Z,Internazionale,Udinese,Internazionale,4.0,0.0,4.0 - 0.0,Stadio Giuseppe Meazza,71874,5400.0 + 240.0
+Italian Serie A,2023-12-03T14:00Z,Udinese,Hellas Verona,Draw,3.0,3.0,3.0 - 3.0,Bluenergy Stadium,22294,5400.0 + 540.0
+Italian Serie A,2023-11-26T17:00Z,AS Roma,Udinese,AS Roma,3.0,1.0,3.0 - 1.0,Olimpico,61616,5400.0 + 360.0
+Italian Serie A,2023-11-12T14:00Z,Udinese,Atalanta,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,23100,5400.0 + 300.0
+Italian Serie A,2023-11-04T19:45Z,AC Milan,Udinese,Udinese,0.0,1.0,0.0 - 1.0,Stadio Giuseppe Meazza,71018,5400.0 + 480.0
+Italian Serie A,2023-10-29T14:00Z,Monza,Udinese,Draw,1.0,1.0,1.0 - 1.0,U-Power Stadium,10311,5400.0 + 360.0
+Italian Serie A,2023-10-23T16:30Z,Udinese,Lecce,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,20113,5400.0 + 360.0
+Italian Serie A,2023-10-06T16:30Z,Empoli,Udinese,Draw,0.0,0.0,0.0 - 0.0,Stadio Carlo Castellani – Computer Gross Arena,7128,5400.0 + 420.0
+Italian Serie A,2023-10-01T13:00Z,Udinese,Genoa,Draw,2.0,2.0,2.0 - 2.0,Bluenergy Stadium,20805,5400.0 + 420.0
+Italian Serie A,2023-09-27T18:45Z,Napoli,Udinese,Napoli,4.0,1.0,4.0 - 1.0,Diego Armando Maradona,45305,5400.0 + 240.0
+Italian Serie A,2023-09-24T13:00Z,Udinese,Fiorentina,Fiorentina,0.0,2.0,0.0 - 2.0,Bluenergy Stadium,21229,5400.0 + 300.0
+Italian Serie A,2023-09-17T10:30Z,Cagliari,Udinese,Draw,0.0,0.0,0.0 - 0.0,Unipol Domus,15121,5400.0 + 420.0
+Italian Serie A,2023-09-02T16:30Z,Udinese,Frosinone,Draw,0.0,0.0,0.0 - 0.0,Bluenergy Stadium,20116,5400.0 + 420.0
+Italian Serie A,2023-08-28T16:30Z,Salernitana,Udinese,Draw,1.0,1.0,1.0 - 1.0,Arechi,20000,5400.0 + 420.0
+Italian Serie A,2023-08-20T18:45Z,Udinese,Juventus,Juventus,0.0,3.0,0.0 - 3.0,Bluenergy Stadium,24911,5400.0 + 300.0

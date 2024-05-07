@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-05T13:00Z,Chelsea,West Ham United,Chelsea,5.0,0.0,5.0 - 0.0,Stamford Bridge,39295,5400.0 + 360.0
+English Premier League,2024-05-02T18:30Z,Chelsea,Tottenham Hotspur,Chelsea,2.0,0.0,2.0 - 0.0,Stamford Bridge,0,5400.0 + 420.0
+English Premier League,2024-04-27T19:00Z,Aston Villa,Chelsea,Draw,2.0,2.0,2.0 - 2.0,Villa Park,42354,5400.0 + 600.0
+English Premier League,2024-04-23T19:00Z,Arsenal,Chelsea,Arsenal,5.0,0.0,5.0 - 0.0,Emirates Stadium,60238,5400.0 + 480.0
+English Premier League,2024-04-15T19:00Z,Chelsea,Everton,Chelsea,6.0,0.0,6.0 - 0.0,Stamford Bridge,39392,5400.0 + 480.0
+English Premier League,2024-04-07T16:30Z,Sheffield United,Chelsea,Draw,2.0,2.0,2.0 - 2.0,Bramall Lane,28638,5400.0 + 540.0
+English Premier League,2024-04-04T19:15Z,Chelsea,Manchester United,Chelsea,4.0,3.0,4.0 - 3.0,Stamford Bridge,39694,5400.0 + 780.0
+English Premier League,2024-03-30T15:00Z,Chelsea,Burnley,Draw,2.0,2.0,2.0 - 2.0,Stamford Bridge,39535,5400.0 + 360.0
+English Premier League,2024-03-11T20:00Z,Chelsea,Newcastle United,Chelsea,3.0,2.0,3.0 - 2.0,Stamford Bridge,38752,5400.0 + 420.0
+English Premier League,2024-03-02T15:00Z,Brentford,Chelsea,Draw,2.0,2.0,2.0 - 2.0,Gtech Community Stadium,17140,5400.0 + 360.0
+English Premier League,2024-02-17T17:30Z,Manchester City,Chelsea,Draw,1.0,1.0,1.0 - 1.0,Etihad Stadium,53509,5400.0 + 360.0
+English Premier League,2024-02-12T20:00Z,Crystal Palace,Chelsea,Chelsea,1.0,3.0,1.0 - 3.0,Selhurst Park,25110,5400.0 + 480.0
+English Premier League,2024-02-04T14:00Z,Chelsea,Wolverhampton Wanderers,Wolverhampton Wanderers,2.0,4.0,2.0 - 4.0,Stamford Bridge,39628,5400.0 + 660.0
+English Premier League,2024-01-31T20:15Z,Liverpool,Chelsea,Liverpool,4.0,1.0,4.0 - 1.0,Anfield,57524,5400.0 + 360.0
+English Premier League,2024-01-13T12:30Z,Chelsea,Fulham,Chelsea,1.0,0.0,1.0 - 0.0,Stamford Bridge,39643,5400.0 + 420.0
+English Premier League,2023-12-30T12:30Z,Luton Town,Chelsea,Chelsea,2.0,3.0,2.0 - 3.0,Kenilworth Road,11041,5400.0 + 420.0
+English Premier League,2023-12-27T19:30Z,Chelsea,Crystal Palace,Chelsea,2.0,1.0,2.0 - 1.0,Stamford Bridge,39618,5400.0 + 540.0
+English Premier League,2023-12-24T13:00Z,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,2.0,1.0,2.0 - 1.0,Molineux Stadium,31641,5400.0 + 780.0
+English Premier League,2023-12-16T15:00Z,Chelsea,Sheffield United,Chelsea,2.0,0.0,2.0 - 0.0,Stamford Bridge,39599,5400.0 + 420.0
+English Premier League,2023-12-10T14:00Z,Everton,Chelsea,Everton,2.0,0.0,2.0 - 0.0,Goodison Park,39280,5400.0 + 480.0
+English Premier League,2023-12-06T20:15Z,Manchester United,Chelsea,Manchester United,2.0,1.0,2.0 - 1.0,Old Trafford,73607,5400.0 + 300.0
+English Premier League,2023-12-03T14:00Z,Chelsea,Brighton & Hove Albion,Chelsea,3.0,2.0,3.0 - 2.0,Stamford Bridge,39647,5400.0 + 900.0
+English Premier League,2023-11-25T15:00Z,Newcastle United,Chelsea,Newcastle United,4.0,1.0,4.0 - 1.0,St. James' Park,52227,5400.0 + 360.0
+English Premier League,2023-11-12T16:30Z,Chelsea,Manchester City,Draw,4.0,4.0,4.0 - 4.0,Stamford Bridge,39532,5400.0 + 660.0
+English Premier League,2023-11-06T20:00Z,Tottenham Hotspur,Chelsea,Chelsea,1.0,4.0,1.0 - 4.0,Tottenham Hotspur Stadium,61726,5400.0 + 600.0
+English Premier League,2023-10-28T11:30Z,Chelsea,Brentford,Brentford,0.0,2.0,0.0 - 2.0,Stamford Bridge,39575,5400.0 + 480.0
+English Premier League,2023-10-21T16:30Z,Chelsea,Arsenal,Draw,2.0,2.0,2.0 - 2.0,Stamford Bridge,39723,5400.0 + 480.0
+English Premier League,2023-10-07T14:00Z,Burnley,Chelsea,Chelsea,1.0,4.0,1.0 - 4.0,Turf Moor,21654,5400.0 + 480.0
+English Premier League,2023-10-02T19:00Z,Fulham,Chelsea,Chelsea,0.0,2.0,0.0 - 2.0,Craven Cottage,24445,5400.0 + 480.0
+English Premier League,2023-09-24T13:00Z,Chelsea,Aston Villa,Aston Villa,0.0,1.0,0.0 - 1.0,Stamford Bridge,39700,5400.0 + 720.0
+English Premier League,2023-09-17T13:00Z,AFC Bournemouth,Chelsea,Draw,0.0,0.0,0.0 - 0.0,Vitality Stadium,10421,5400.0 + 540.0
+English Premier League,2023-09-02T14:00Z,Chelsea,Nottingham Forest,Nottingham Forest,0.0,1.0,0.0 - 1.0,Stamford Bridge,39820,5400.0 + 540.0
+English Premier League,2023-08-25T19:00Z,Chelsea,Luton Town,Chelsea,3.0,0.0,3.0 - 0.0,Stamford Bridge,39893,5400.0 + 300.0
+English Premier League,2023-08-20T15:30Z,West Ham United,Chelsea,West Ham United,3.0,1.0,3.0 - 1.0,London Stadium,62470,5400.0 + 480.0
+English Premier League,2023-08-13T15:30Z,Chelsea,Liverpool,Draw,1.0,1.0,1.0 - 1.0,Stamford Bridge,40096,5400.0 + 300.0

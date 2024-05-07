@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-04T13:30Z,Werder Bremen,Borussia Monchengladbach,Draw,2.0,2.0,2.0 - 2.0,wohninvest WESERSTADION,42100,5400.0 + 300.0
+German Bundesliga,2024-04-28T13:30Z,Borussia Monchengladbach,1. FC Union Berlin,Draw,0.0,0.0,0.0 - 0.0,Borussia-Park,53723,5400.0 + 240.0
+German Bundesliga,2024-04-20T13:30Z,TSG Hoffenheim,Borussia Monchengladbach,TSG Hoffenheim,4.0,3.0,4.0 - 3.0,PreZero Arena,26078,5400.0 + 360.0
+German Bundesliga,2024-04-13T13:30Z,Borussia Monchengladbach,Borussia Dortmund,Borussia Dortmund,1.0,2.0,1.0 - 2.0,Borussia-Park,54042,5400.0 + 480.0
+German Bundesliga,2024-04-07T15:30Z,VfL Wolfsburg,Borussia Monchengladbach,Borussia Monchengladbach,1.0,3.0,1.0 - 3.0,Volkswagen Arena,26105,5400.0 + 360.0
+German Bundesliga,2024-03-30T14:30Z,Borussia Monchengladbach,SC Freiburg,SC Freiburg,0.0,3.0,0.0 - 3.0,Borussia-Park,53259,5400.0 + 240.0
+German Bundesliga,2024-03-16T14:30Z,1. FC Heidenheim 1846,Borussia Monchengladbach,Draw,1.0,1.0,1.0 - 1.0,Voith-Arena,15000,5400.0 + 360.0
+German Bundesliga,2024-03-09T14:30Z,Borussia Monchengladbach,FC Cologne,Draw,3.0,3.0,3.0 - 3.0,Borussia-Park,54042,5400.0 + 360.0
+German Bundesliga,2024-03-02T14:30Z,Mainz,Borussia Monchengladbach,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,33305,5400.0 + 300.0
+German Bundesliga,2024-02-24T14:30Z,Borussia Monchengladbach,VfL Bochum,Borussia Monchengladbach,5.0,2.0,5.0 - 2.0,Borussia-Park,53196,5400.0 + 420.0
+German Bundesliga,2024-02-17T17:30Z,RB Leipzig,Borussia Monchengladbach,RB Leipzig,2.0,0.0,2.0 - 0.0,Red Bull Arena,44822,5400.0 + 360.0
+German Bundesliga,2024-02-10T14:30Z,Borussia Monchengladbach,SV Darmstadt 98,Draw,0.0,0.0,0.0 - 0.0,Borussia-Park,46121,5400.0 + 300.0
+German Bundesliga,2024-02-03T14:30Z,Bayern Munich,Borussia Monchengladbach,Bayern Munich,3.0,1.0,3.0 - 1.0,Allianz Arena,75000,5400.0 + 300.0
+German Bundesliga,2024-01-27T17:30Z,Bayer Leverkusen,Borussia Monchengladbach,Draw,0.0,0.0,0.0 - 0.0,BayArena,30210,5400.0 + 300.0
+German Bundesliga,2024-01-21T16:30Z,Borussia Monchengladbach,FC Augsburg,FC Augsburg,1.0,2.0,1.0 - 2.0,Borussia-Park,44867,5400.0 + 360.0
+German Bundesliga,2024-01-14T16:30Z,Borussia Monchengladbach,VfB Stuttgart,Borussia Monchengladbach,3.0,1.0,3.0 - 1.0,Borussia-Park,53429,5400.0 + 360.0
+German Bundesliga,2023-12-20T19:30Z,Eintracht Frankfurt,Borussia Monchengladbach,Eintracht Frankfurt,2.0,1.0,2.0 - 1.0,Deutsche Bank Park,58000,5400.0 + 540.0
+German Bundesliga,2023-12-15T19:30Z,Borussia Monchengladbach,Werder Bremen,Draw,2.0,2.0,2.0 - 2.0,Borussia-Park,50660,5400.0 + 300.0
+German Bundesliga,2023-12-09T14:30Z,1. FC Union Berlin,Borussia Monchengladbach,1. FC Union Berlin,3.0,1.0,3.0 - 1.0,An der alten Försterei,22012,5400.0 + 240.0
+German Bundesliga,2023-12-02T14:30Z,Borussia Monchengladbach,TSG Hoffenheim,Borussia Monchengladbach,2.0,1.0,2.0 - 1.0,Borussia-Park,49341,5400.0 + 420.0
+German Bundesliga,2023-11-25T14:30Z,Borussia Dortmund,Borussia Monchengladbach,Borussia Dortmund,4.0,2.0,4.0 - 2.0,SIGNAL IDUNA PARK,81365,5400.0 + 480.0
+German Bundesliga,2023-11-10T19:30Z,Borussia Monchengladbach,VfL Wolfsburg,Borussia Monchengladbach,4.0,0.0,4.0 - 0.0,Borussia-Park,45308,5400.0 + 180.0
+German Bundesliga,2023-11-04T14:30Z,SC Freiburg,Borussia Monchengladbach,Draw,3.0,3.0,3.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 420.0
+German Bundesliga,2023-10-28T13:30Z,Borussia Monchengladbach,1. FC Heidenheim 1846,Borussia Monchengladbach,2.0,1.0,2.0 - 1.0,Borussia-Park,51541,5400.0 + 420.0
+German Bundesliga,2023-10-22T13:30Z,FC Cologne,Borussia Monchengladbach,FC Cologne,3.0,1.0,3.0 - 1.0,RheinEnergieStadion,50000,5400.0 + 540.0
+German Bundesliga,2023-10-06T18:30Z,Borussia Monchengladbach,Mainz,Draw,2.0,2.0,2.0 - 2.0,Borussia-Park,51529,5400.0 + 360.0
+German Bundesliga,2023-09-30T13:30Z,VfL Bochum,Borussia Monchengladbach,Borussia Monchengladbach,1.0,3.0,1.0 - 3.0,Vonovia Ruhrstadion,26000,5400.0 + 600.0
+German Bundesliga,2023-09-23T13:30Z,Borussia Monchengladbach,RB Leipzig,RB Leipzig,0.0,1.0,0.0 - 1.0,Borussia-Park,50122,5400.0 + 360.0
+German Bundesliga,2023-09-17T15:30Z,SV Darmstadt 98,Borussia Monchengladbach,Draw,3.0,3.0,3.0 - 3.0,Merck-Stadion am Böllenfalltor,17810,5400.0 + 480.0
+German Bundesliga,2023-09-02T16:30Z,Borussia Monchengladbach,Bayern Munich,Bayern Munich,1.0,2.0,1.0 - 2.0,Borussia-Park,54042,5400.0 + 480.0
+German Bundesliga,2023-08-26T16:30Z,Borussia Monchengladbach,Bayer Leverkusen,Bayer Leverkusen,0.0,3.0,0.0 - 3.0,Borussia-Park,54042,5400.0 + 240.0
+German Bundesliga,2023-08-19T13:30Z,FC Augsburg,Borussia Monchengladbach,Draw,4.0,4.0,4.0 - 4.0,WWK Arena,30660,5400.0 + 480.0

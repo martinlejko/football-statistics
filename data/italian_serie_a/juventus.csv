@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T18:45Z,AS Roma,Juventus,Draw,1.0,1.0,1.0 - 1.0,Olimpico,63996,5400.0 + 360.0
+Italian Serie A,2024-04-27T16:00Z,Juventus,AC Milan,Draw,0.0,0.0,0.0 - 0.0,Allianz Stadium,39845,5400.0 + 300.0
+Italian Serie A,2024-04-19T18:45Z,Cagliari,Juventus,Draw,2.0,2.0,2.0 - 2.0,Unipol Domus,16179,5400.0 + 420.0
+Italian Serie A,2024-04-13T16:00Z,Torino,Juventus,Draw,0.0,0.0,0.0 - 0.0,Olimpico Grande Torino,27788,5400.0 + 480.0
+Italian Serie A,2024-04-07T18:45Z,Juventus,Fiorentina,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,37994,5400.0 + 300.0
+Italian Serie A,2024-03-30T17:00Z,Lazio,Juventus,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,57000,5400.0 + 300.0
+Italian Serie A,2024-03-17T11:30Z,Juventus,Genoa,Draw,0.0,0.0,0.0 - 0.0,Allianz Stadium,40098,5400.0 + 360.0
+Italian Serie A,2024-03-10T17:00Z,Juventus,Atalanta,Draw,2.0,2.0,2.0 - 2.0,Allianz Stadium,39206,5400.0 + 240.0
+Italian Serie A,2024-03-03T19:45Z,Napoli,Juventus,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,50000,5400.0 + 360.0
+Italian Serie A,2024-02-25T11:30Z,Juventus,Frosinone,Juventus,3.0,2.0,3.0 - 2.0,Allianz Stadium,40719,5400.0 + 420.0
+Italian Serie A,2024-02-17T17:00Z,Hellas Verona,Juventus,Draw,2.0,2.0,2.0 - 2.0,Stadio Marcantonio Bentegodi,27000,5400.0 + 360.0
+Italian Serie A,2024-02-12T19:45Z,Juventus,Udinese,Udinese,0.0,1.0,0.0 - 1.0,Allianz Stadium,38875,5400.0 + 300.0
+Italian Serie A,2024-02-04T19:45Z,Internazionale,Juventus,Internazionale,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,75547,5400.0 + 300.0
+Italian Serie A,2024-01-27T17:00Z,Juventus,Empoli,Draw,1.0,1.0,1.0 - 1.0,Allianz Stadium,39518,5400.0 + 360.0
+Italian Serie A,2024-01-21T19:45Z,Lecce,Juventus,Juventus,0.0,3.0,0.0 - 3.0,Stadio Ettore Giardiniero - Via del Mare,28074,5400.0 + 240.0
+Italian Serie A,2024-01-16T19:45Z,Juventus,Sassuolo,Juventus,3.0,0.0,3.0 - 0.0,Allianz Stadium,39005,5400.0 + 240.0
+Italian Serie A,2024-01-07T17:00Z,Salernitana,Juventus,Juventus,1.0,2.0,1.0 - 2.0,Arechi,29405,5400.0 + 420.0
+Italian Serie A,2023-12-30T19:45Z,Juventus,AS Roma,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,41503,5400.0 + 420.0
+Italian Serie A,2023-12-23T11:30Z,Frosinone,Juventus,Juventus,1.0,2.0,1.0 - 2.0,Benito Stirpe,16020,5400.0 + 360.0
+Italian Serie A,2023-12-15T19:45Z,Genoa,Juventus,Draw,1.0,1.0,1.0 - 1.0,Luigi Ferraris,33232,5400.0 + 240.0
+Italian Serie A,2023-12-08T19:45Z,Juventus,Napoli,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,41400,5400.0 + 360.0
+Italian Serie A,2023-12-01T19:45Z,Monza,Juventus,Juventus,1.0,2.0,1.0 - 2.0,U-Power Stadium,15148,5400.0 + 480.0
+Italian Serie A,2023-11-26T19:45Z,Juventus,Internazionale,Draw,1.0,1.0,1.0 - 1.0,Allianz Stadium,41507,5400.0 + 240.0
+Italian Serie A,2023-11-11T17:00Z,Juventus,Cagliari,Juventus,2.0,1.0,2.0 - 1.0,Allianz Stadium,40393,5400.0 + 360.0
+Italian Serie A,2023-11-05T19:45Z,Fiorentina,Juventus,Juventus,0.0,1.0,0.0 - 1.0,Artemio Franchi,38225,5400.0 + 360.0
+Italian Serie A,2023-10-28T18:45Z,Juventus,Hellas Verona,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,39438,5400.0 + 540.0
+Italian Serie A,2023-10-22T18:45Z,AC Milan,Juventus,Juventus,0.0,1.0,0.0 - 1.0,Stadio Giuseppe Meazza,75676,5400.0 + 420.0
+Italian Serie A,2023-10-07T16:00Z,Juventus,Torino,Juventus,2.0,0.0,2.0 - 0.0,Allianz Stadium,39602,5400.0 + 420.0
+Italian Serie A,2023-10-01T16:00Z,Atalanta,Juventus,Draw,0.0,0.0,0.0 - 0.0,Gewiss Stadium,14811,5400.0 + 300.0
+Italian Serie A,2023-09-26T18:45Z,Juventus,Lecce,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,37498,5400.0 + 420.0
+Italian Serie A,2023-09-23T16:00Z,Sassuolo,Juventus,Sassuolo,4.0,2.0,4.0 - 2.0,MAPEI Stadium - Città del Tricolore,20141,5400.0 + 480.0
+Italian Serie A,2023-09-16T13:00Z,Juventus,Lazio,Juventus,3.0,1.0,3.0 - 1.0,Allianz Stadium,40562,5400.0 + 480.0
+Italian Serie A,2023-09-03T18:45Z,Empoli,Juventus,Juventus,0.0,2.0,0.0 - 2.0,Stadio Carlo Castellani – Computer Gross Arena,15702,5400.0 + 480.0
+Italian Serie A,2023-08-27T16:30Z,Juventus,Bologna,Draw,1.0,1.0,1.0 - 1.0,Allianz Stadium,36107,5400.0 + 480.0
+Italian Serie A,2023-08-20T18:45Z,Udinese,Juventus,Juventus,0.0,3.0,0.0 - 3.0,Bluenergy Stadium,24911,5400.0 + 300.0

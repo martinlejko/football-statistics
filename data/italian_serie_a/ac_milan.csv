@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T16:00Z,AC Milan,Genoa,Draw,3.0,3.0,3.0 - 3.0,Stadio Giuseppe Meazza,73901,5400.0 + 300.0
+Italian Serie A,2024-04-27T16:00Z,Juventus,AC Milan,Draw,0.0,0.0,0.0 - 0.0,Allianz Stadium,39845,5400.0 + 300.0
+Italian Serie A,2024-04-22T18:45Z,AC Milan,Internazionale,Internazionale,1.0,2.0,1.0 - 2.0,Stadio Giuseppe Meazza,75554,5400.0 + 480.0
+Italian Serie A,2024-04-14T13:00Z,Sassuolo,AC Milan,Draw,3.0,3.0,3.0 - 3.0,MAPEI Stadium - Città del Tricolore,19199,5400.0 + 360.0
+Italian Serie A,2024-04-06T13:00Z,AC Milan,Lecce,AC Milan,3.0,0.0,3.0 - 0.0,Stadio Giuseppe Meazza,72035,5400.0 + 300.0
+Italian Serie A,2024-03-30T19:45Z,Fiorentina,AC Milan,AC Milan,1.0,2.0,1.0 - 2.0,Artemio Franchi,34273,5400.0 + 420.0
+Italian Serie A,2024-03-17T14:00Z,Hellas Verona,AC Milan,AC Milan,1.0,3.0,1.0 - 3.0,Stadio Marcantonio Bentegodi,26165,5400.0 + 360.0
+Italian Serie A,2024-03-10T14:00Z,AC Milan,Empoli,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,70343,5400.0 + 300.0
+Italian Serie A,2024-03-01T19:45Z,Lazio,AC Milan,AC Milan,0.0,1.0,0.0 - 1.0,Olimpico,50500,5400.0 + 480.0
+Italian Serie A,2024-02-25T19:45Z,AC Milan,Atalanta,Draw,1.0,1.0,1.0 - 1.0,Stadio Giuseppe Meazza,71264,5400.0 + 360.0
+Italian Serie A,2024-02-18T19:45Z,Monza,AC Milan,Monza,4.0,2.0,4.0 - 2.0,U-Power Stadium,14319,5400.0 + 480.0
+Italian Serie A,2024-02-11T19:45Z,AC Milan,Napoli,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,73891,5400.0 + 420.0
+Italian Serie A,2024-02-03T17:00Z,Frosinone,AC Milan,AC Milan,2.0,3.0,2.0 - 3.0,Benito Stirpe,16050,5400.0 + 300.0
+Italian Serie A,2024-01-27T19:45Z,AC Milan,Bologna,Draw,2.0,2.0,2.0 - 2.0,Stadio Giuseppe Meazza,71334,5400.0 + 360.0
+Italian Serie A,2024-01-20T19:45Z,Udinese,AC Milan,AC Milan,2.0,3.0,2.0 - 3.0,Bluenergy Stadium,24591,5400.0 + 480.0
+Italian Serie A,2024-01-14T19:45Z,AC Milan,AS Roma,AC Milan,3.0,1.0,3.0 - 1.0,Stadio Giuseppe Meazza,74198,5400.0 + 360.0
+Italian Serie A,2024-01-07T11:30Z,Empoli,AC Milan,AC Milan,0.0,3.0,0.0 - 3.0,Stadio Carlo Castellani – Computer Gross Arena,15009,5400.0 + 180.0
+Italian Serie A,2023-12-30T17:00Z,AC Milan,Sassuolo,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,70385,5400.0 + 360.0
+Italian Serie A,2023-12-22T19:45Z,Salernitana,AC Milan,Draw,2.0,2.0,2.0 - 2.0,Arechi,23467,5400.0 + 360.0
+Italian Serie A,2023-12-17T11:30Z,AC Milan,Monza,AC Milan,3.0,0.0,3.0 - 0.0,Stadio Giuseppe Meazza,70538,5400.0 + 240.0
+Italian Serie A,2023-12-09T17:00Z,Atalanta,AC Milan,Atalanta,3.0,2.0,3.0 - 2.0,Gewiss Stadium,14907,5400.0 + 540.0
+Italian Serie A,2023-12-02T19:45Z,AC Milan,Frosinone,AC Milan,3.0,1.0,3.0 - 1.0,Stadio Giuseppe Meazza,68848,5400.0 + 360.0
+Italian Serie A,2023-11-25T19:45Z,AC Milan,Fiorentina,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,73074,5400.0 + 480.0
+Italian Serie A,2023-11-11T14:00Z,Lecce,AC Milan,Draw,2.0,2.0,2.0 - 2.0,Stadio Ettore Giardiniero - Via del Mare,26484,5400.0 + 420.0
+Italian Serie A,2023-11-04T19:45Z,AC Milan,Udinese,Udinese,0.0,1.0,0.0 - 1.0,Stadio Giuseppe Meazza,71018,5400.0 + 480.0
+Italian Serie A,2023-10-29T19:45Z,Napoli,AC Milan,Draw,2.0,2.0,2.0 - 2.0,Diego Armando Maradona,52250,5400.0 + 300.0
+Italian Serie A,2023-10-22T18:45Z,AC Milan,Juventus,Juventus,0.0,1.0,0.0 - 1.0,Stadio Giuseppe Meazza,75676,5400.0 + 420.0
+Italian Serie A,2023-10-07T18:45Z,Genoa,AC Milan,AC Milan,0.0,1.0,0.0 - 1.0,Luigi Ferraris,33157,5400.0 + 900.0
+Italian Serie A,2023-09-30T16:00Z,AC Milan,Lazio,AC Milan,2.0,0.0,2.0 - 0.0,Stadio Giuseppe Meazza,72035,5400.0 + 360.0
+Italian Serie A,2023-09-27T16:30Z,Cagliari,AC Milan,AC Milan,1.0,3.0,1.0 - 3.0,Unipol Domus,16348,5400.0 + 360.0
+Italian Serie A,2023-09-23T13:00Z,AC Milan,Hellas Verona,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,71070,5400.0 + 420.0
+Italian Serie A,2023-09-16T16:00Z,Internazionale,AC Milan,Internazionale,5.0,1.0,5.0 - 1.0,Stadio Giuseppe Meazza,75571,5400.0 + 360.0
+Italian Serie A,2023-09-01T18:45Z,AS Roma,AC Milan,AC Milan,1.0,2.0,1.0 - 2.0,Olimpico,61960,5400.0 + 480.0
+Italian Serie A,2023-08-26T18:45Z,AC Milan,Torino,AC Milan,4.0,1.0,4.0 - 1.0,Stadio Giuseppe Meazza,23147,5400.0 + 420.0
+Italian Serie A,2023-08-21T18:45Z,Bologna,AC Milan,AC Milan,0.0,2.0,0.0 - 2.0,Renato Dall'Ara,30203,5400.0 + 300.0

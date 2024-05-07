@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T10:30Z,Cagliari,Lecce,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16407,5400.0 + 420.0
+Italian Serie A,2024-04-27T13:00Z,Lecce,Monza,Draw,1.0,1.0,1.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,27167,5400.0 + 480.0
+Italian Serie A,2024-04-21T10:30Z,Sassuolo,Lecce,Lecce,0.0,3.0,0.0 - 3.0,MAPEI Stadium - Città del Tricolore,16210,5400.0 + 120.0
+Italian Serie A,2024-04-13T13:00Z,Lecce,Empoli,Lecce,1.0,0.0,1.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,25957,5400.0 + 360.0
+Italian Serie A,2024-04-06T13:00Z,AC Milan,Lecce,AC Milan,3.0,0.0,3.0 - 0.0,Stadio Giuseppe Meazza,72035,5400.0 + 300.0
+Italian Serie A,2024-04-01T16:00Z,Lecce,AS Roma,Draw,0.0,0.0,0.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,29031,5400.0 + 300.0
+Italian Serie A,2024-03-16T17:00Z,Salernitana,Lecce,Lecce,0.0,1.0,0.0 - 1.0,Arechi,15376,5400.0 + 420.0
+Italian Serie A,2024-03-10T11:30Z,Lecce,Hellas Verona,Hellas Verona,0.0,1.0,0.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,25222,5400.0 + 480.0
+Italian Serie A,2024-03-03T14:00Z,Frosinone,Lecce,Draw,1.0,1.0,1.0 - 1.0,Benito Stirpe,15334,5400.0 + 480.0
+Italian Serie A,2024-02-25T17:00Z,Lecce,Internazionale,Internazionale,0.0,4.0,0.0 - 4.0,Stadio Ettore Giardiniero - Via del Mare,27910,5400.0 + 60.0
+Italian Serie A,2024-02-16T18:00Z,Torino,Lecce,Torino,2.0,0.0,2.0 - 0.0,Olimpico Grande Torino,22457,5400.0 + 240.0
+Italian Serie A,2024-02-11T14:00Z,Bologna,Lecce,Bologna,4.0,0.0,4.0 - 0.0,Renato Dall'Ara,24658,5400.0 + 240.0
+Italian Serie A,2024-02-02T19:45Z,Lecce,Fiorentina,Lecce,3.0,2.0,3.0 - 2.0,Stadio Ettore Giardiniero - Via del Mare,24778,5400.0 + 480.0
+Italian Serie A,2024-01-28T11:30Z,Genoa,Lecce,Genoa,2.0,1.0,2.0 - 1.0,Luigi Ferraris,32152,5400.0 + 360.0
+Italian Serie A,2024-01-21T19:45Z,Lecce,Juventus,Juventus,0.0,3.0,0.0 - 3.0,Stadio Ettore Giardiniero - Via del Mare,28074,5400.0 + 240.0
+Italian Serie A,2024-01-14T11:30Z,Lazio,Lecce,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,44000,5400.0 + 300.0
+Italian Serie A,2024-01-06T17:00Z,Lecce,Cagliari,Draw,1.0,1.0,1.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,25203,5400.0 + 300.0
+Italian Serie A,2023-12-30T11:30Z,Atalanta,Lecce,Atalanta,1.0,0.0,1.0 - 0.0,Gewiss Stadium,14864,5400.0 + 360.0
+Italian Serie A,2023-12-23T17:00Z,Internazionale,Lecce,Internazionale,2.0,0.0,2.0 - 0.0,Stadio Giuseppe Meazza,72723,5400.0 + 240.0
+Italian Serie A,2023-12-16T14:00Z,Lecce,Frosinone,Lecce,2.0,1.0,2.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,23645,5400.0 + 360.0
+Italian Serie A,2023-12-11T17:30Z,Empoli,Lecce,Draw,1.0,1.0,1.0 - 1.0,Stadio Carlo Castellani – Computer Gross Arena,7152,5400.0 + 360.0
+Italian Serie A,2023-12-03T11:30Z,Lecce,Bologna,Draw,1.0,1.0,1.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,24326,5400.0 + 600.0
+Italian Serie A,2023-11-27T17:30Z,Hellas Verona,Lecce,Draw,2.0,2.0,2.0 - 2.0,Stadio Marcantonio Bentegodi,16730,5400.0 + 300.0
+Italian Serie A,2023-11-11T14:00Z,Lecce,AC Milan,Draw,2.0,2.0,2.0 - 2.0,Stadio Ettore Giardiniero - Via del Mare,26484,5400.0 + 420.0
+Italian Serie A,2023-11-05T17:00Z,AS Roma,Lecce,AS Roma,2.0,1.0,2.0 - 1.0,Olimpico,64790,5400.0 + 540.0
+Italian Serie A,2023-10-28T16:00Z,Lecce,Torino,Torino,0.0,1.0,0.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,26123,5400.0 + 480.0
+Italian Serie A,2023-10-23T16:30Z,Udinese,Lecce,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,20113,5400.0 + 360.0
+Italian Serie A,2023-10-06T18:45Z,Lecce,Sassuolo,Draw,1.0,1.0,1.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,26160,5400.0 + 300.0
+Italian Serie A,2023-09-30T13:00Z,Lecce,Napoli,Napoli,0.0,4.0,0.0 - 4.0,Stadio Ettore Giardiniero - Via del Mare,27588,5400.0 + 360.0
+Italian Serie A,2023-09-26T18:45Z,Juventus,Lecce,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,37498,5400.0 + 420.0
+Italian Serie A,2023-09-22T18:45Z,Lecce,Genoa,Lecce,1.0,0.0,1.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,27053,5400.0 + 420.0
+Italian Serie A,2023-09-17T13:00Z,Monza,Lecce,Draw,1.0,1.0,1.0 - 1.0,U-Power Stadium,13074,5400.0 + 540.0
+Italian Serie A,2023-09-03T18:45Z,Lecce,Salernitana,Lecce,2.0,0.0,2.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,28052,5400.0 + 780.0
+Italian Serie A,2023-08-27T16:30Z,Fiorentina,Lecce,Draw,2.0,2.0,2.0 - 2.0,Artemio Franchi,34604,5400.0 + 540.0
+Italian Serie A,2023-08-20T18:45Z,Lecce,Lazio,Lecce,2.0,1.0,2.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,29081,5400.0 + 360.0

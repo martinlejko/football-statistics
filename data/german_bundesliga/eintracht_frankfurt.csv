@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-05T15:30Z,Eintracht Frankfurt,Bayer Leverkusen,Bayer Leverkusen,1.0,5.0,1.0 - 5.0,Deutsche Bank Park,58000,5400.0 + 360.0
+German Bundesliga,2024-04-27T13:30Z,Bayern Munich,Eintracht Frankfurt,Bayern Munich,2.0,1.0,2.0 - 1.0,Allianz Arena,75000,5400.0 + 360.0
+German Bundesliga,2024-04-19T18:30Z,Eintracht Frankfurt,FC Augsburg,Eintracht Frankfurt,3.0,1.0,3.0 - 1.0,Deutsche Bank Park,57600,5400.0 + 420.0
+German Bundesliga,2024-04-13T16:30Z,VfB Stuttgart,Eintracht Frankfurt,VfB Stuttgart,3.0,0.0,3.0 - 0.0,MHPArena,60000,5400.0 + 240.0
+German Bundesliga,2024-04-05T18:30Z,Eintracht Frankfurt,Werder Bremen,Draw,1.0,1.0,1.0 - 1.0,Deutsche Bank Park,58000,5400.0 + 540.0
+German Bundesliga,2024-03-30T14:30Z,Eintracht Frankfurt,1. FC Union Berlin,Draw,0.0,0.0,0.0 - 0.0,Deutsche Bank Park,57100,5400.0 + 480.0
+German Bundesliga,2024-03-17T16:30Z,Borussia Dortmund,Eintracht Frankfurt,Borussia Dortmund,3.0,1.0,3.0 - 1.0,SIGNAL IDUNA PARK,81365,5400.0 + 420.0
+German Bundesliga,2024-03-10T16:30Z,Eintracht Frankfurt,TSG Hoffenheim,Eintracht Frankfurt,3.0,1.0,3.0 - 1.0,Deutsche Bank Park,57000,5400.0 + 300.0
+German Bundesliga,2024-03-02T14:30Z,1. FC Heidenheim 1846,Eintracht Frankfurt,Eintracht Frankfurt,1.0,2.0,1.0 - 2.0,Voith-Arena,15000,5400.0 + 480.0
+German Bundesliga,2024-02-25T14:30Z,Eintracht Frankfurt,VfL Wolfsburg,Draw,2.0,2.0,2.0 - 2.0,Deutsche Bank Park,56500,5400.0 + 720.0
+German Bundesliga,2024-02-18T14:30Z,SC Freiburg,Eintracht Frankfurt,Draw,3.0,3.0,3.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 660.0
+German Bundesliga,2024-02-10T14:30Z,Eintracht Frankfurt,VfL Bochum,Draw,1.0,1.0,1.0 - 1.0,Deutsche Bank Park,57500,5400.0 + 180.0
+German Bundesliga,2024-02-03T17:30Z,FC Cologne,Eintracht Frankfurt,FC Cologne,2.0,0.0,2.0 - 0.0,RheinEnergieStadion,50000,5400.0 + 300.0
+German Bundesliga,2024-01-26T19:30Z,Eintracht Frankfurt,Mainz,Eintracht Frankfurt,1.0,0.0,1.0 - 0.0,Deutsche Bank Park,58000,5400.0 + 360.0
+German Bundesliga,2024-01-20T14:30Z,SV Darmstadt 98,Eintracht Frankfurt,Draw,2.0,2.0,2.0 - 2.0,Merck-Stadion am Böllenfalltor,17750,5400.0 + 480.0
+German Bundesliga,2024-01-13T14:30Z,RB Leipzig,Eintracht Frankfurt,Eintracht Frankfurt,0.0,1.0,0.0 - 1.0,Red Bull Arena,45867,5400.0 + 360.0
+German Bundesliga,2023-12-20T19:30Z,Eintracht Frankfurt,Borussia Monchengladbach,Eintracht Frankfurt,2.0,1.0,2.0 - 1.0,Deutsche Bank Park,58000,5400.0 + 540.0
+German Bundesliga,2023-12-17T16:30Z,Bayer Leverkusen,Eintracht Frankfurt,Bayer Leverkusen,3.0,0.0,3.0 - 0.0,BayArena,30210,5400.0 + 360.0
+German Bundesliga,2023-12-09T14:30Z,Eintracht Frankfurt,Bayern Munich,Eintracht Frankfurt,5.0,1.0,5.0 - 1.0,Deutsche Bank Park,58000,5400.0 + 180.0
+German Bundesliga,2023-12-03T18:30Z,FC Augsburg,Eintracht Frankfurt,FC Augsburg,2.0,1.0,2.0 - 1.0,WWK Arena,26107,5400.0 + 420.0
+German Bundesliga,2023-11-25T17:30Z,Eintracht Frankfurt,VfB Stuttgart,VfB Stuttgart,1.0,2.0,1.0 - 2.0,Deutsche Bank Park,58000,5400.0 + 420.0
+German Bundesliga,2023-11-12T16:30Z,Werder Bremen,Eintracht Frankfurt,Draw,2.0,2.0,2.0 - 2.0,wohninvest WESERSTADION,42100,5400.0 + 300.0
+German Bundesliga,2023-11-04T14:30Z,1. FC Union Berlin,Eintracht Frankfurt,Eintracht Frankfurt,0.0,3.0,0.0 - 3.0,An der alten Försterei,22012,5400.0 + 300.0
+German Bundesliga,2023-10-29T14:30Z,Eintracht Frankfurt,Borussia Dortmund,Draw,3.0,3.0,3.0 - 3.0,Deutsche Bank Park,56500,5400.0 + 360.0
+German Bundesliga,2023-10-21T13:30Z,TSG Hoffenheim,Eintracht Frankfurt,Eintracht Frankfurt,1.0,3.0,1.0 - 3.0,PreZero Arena,30150,5400.0 + 300.0
+German Bundesliga,2023-10-08T17:30Z,Eintracht Frankfurt,1. FC Heidenheim 1846,Eintracht Frankfurt,2.0,0.0,2.0 - 0.0,Deutsche Bank Park,55800,5400.0 + 300.0
+German Bundesliga,2023-09-30T13:30Z,VfL Wolfsburg,Eintracht Frankfurt,VfL Wolfsburg,2.0,0.0,2.0 - 0.0,Volkswagen Arena,28323,5400.0 + 360.0
+German Bundesliga,2023-09-24T15:30Z,Eintracht Frankfurt,SC Freiburg,Draw,0.0,0.0,0.0 - 0.0,Deutsche Bank Park,55800,5400.0 + 420.0
+German Bundesliga,2023-09-16T16:30Z,VfL Bochum,Eintracht Frankfurt,Draw,1.0,1.0,1.0 - 1.0,Vonovia Ruhrstadion,26000,5400.0 + 420.0
+German Bundesliga,2023-09-03T13:30Z,Eintracht Frankfurt,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,Deutsche Bank Park,54000,5400.0 + 300.0
+German Bundesliga,2023-08-27T13:30Z,Mainz,Eintracht Frankfurt,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,33305,5400.0 + 420.0
+German Bundesliga,2023-08-20T15:30Z,Eintracht Frankfurt,SV Darmstadt 98,Eintracht Frankfurt,1.0,0.0,1.0 - 0.0,Deutsche Bank Park,54000,5400.0 + 420.0

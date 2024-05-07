@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-06T19:00Z,Crystal Palace,Manchester United,Crystal Palace,4.0,0.0,4.0 - 0.0,Selhurst Park,25190,5400.0 + 360.0
+English Premier League,2024-04-27T14:00Z,Manchester United,Burnley,Draw,1.0,1.0,1.0 - 1.0,Old Trafford,73571,5400.0 + 420.0
+English Premier League,2024-04-24T19:00Z,Manchester United,Sheffield United,Manchester United,4.0,2.0,4.0 - 2.0,Old Trafford,73549,5400.0 + 600.0
+English Premier League,2024-04-13T16:30Z,AFC Bournemouth,Manchester United,Draw,2.0,2.0,2.0 - 2.0,Vitality Stadium,11229,5400.0 + 600.0
+English Premier League,2024-04-07T14:30Z,Manchester United,Liverpool,Draw,2.0,2.0,2.0 - 2.0,Old Trafford,73522,5400.0 + 480.0
+English Premier League,2024-04-04T19:15Z,Chelsea,Manchester United,Chelsea,4.0,3.0,4.0 - 3.0,Stamford Bridge,39694,5400.0 + 780.0
+English Premier League,2024-03-30T20:00Z,Brentford,Manchester United,Draw,1.0,1.0,1.0 - 1.0,Gtech Community Stadium,17138,5400.0 + 840.0
+English Premier League,2024-03-09T12:30Z,Manchester United,Everton,Manchester United,2.0,0.0,2.0 - 0.0,Old Trafford,73601,5400.0 + 300.0
+English Premier League,2024-03-03T15:30Z,Manchester City,Manchester United,Manchester City,3.0,1.0,3.0 - 1.0,Etihad Stadium,55097,5400.0 + 540.0
+English Premier League,2024-02-24T15:00Z,Manchester United,Fulham,Fulham,1.0,2.0,1.0 - 2.0,Old Trafford,73487,5400.0 + 660.0
+English Premier League,2024-02-18T16:30Z,Luton Town,Manchester United,Manchester United,1.0,2.0,1.0 - 2.0,Kenilworth Road,11483,5400.0 + 300.0
+English Premier League,2024-02-11T16:30Z,Aston Villa,Manchester United,Manchester United,1.0,2.0,1.0 - 2.0,Villa Park,0,5400.0 + 420.0
+English Premier League,2024-02-04T14:00Z,Manchester United,West Ham United,Manchester United,3.0,0.0,3.0 - 0.0,Old Trafford,73612,5400.0 + 420.0
+English Premier League,2024-02-01T20:15Z,Wolverhampton Wanderers,Manchester United,Manchester United,3.0,4.0,3.0 - 4.0,Molineux Stadium,31641,5400.0 + 720.0
+English Premier League,2024-01-14T16:30Z,Manchester United,Tottenham Hotspur,Draw,2.0,2.0,2.0 - 2.0,Old Trafford,73489,5400.0 + 360.0
+English Premier League,2023-12-30T17:30Z,Nottingham Forest,Manchester United,Nottingham Forest,2.0,1.0,2.0 - 1.0,The City Ground,29529,5400.0 + 660.0
+English Premier League,2023-12-26T20:00Z,Manchester United,Aston Villa,Manchester United,3.0,2.0,3.0 - 2.0,Old Trafford,73574,5400.0 + 600.0
+English Premier League,2023-12-23T12:30Z,West Ham United,Manchester United,West Ham United,2.0,0.0,2.0 - 0.0,London Stadium,64472,5400.0 + 420.0
+English Premier League,2023-12-17T16:30Z,Liverpool,Manchester United,Draw,0.0,0.0,0.0 - 0.0,Anfield,57158,5400.0 + 360.0
+English Premier League,2023-12-09T15:00Z,Manchester United,AFC Bournemouth,AFC Bournemouth,0.0,3.0,0.0 - 3.0,Old Trafford,73427,5400.0 + 420.0
+English Premier League,2023-12-06T20:15Z,Manchester United,Chelsea,Manchester United,2.0,1.0,2.0 - 1.0,Old Trafford,73607,5400.0 + 300.0
+English Premier League,2023-12-02T20:00Z,Newcastle United,Manchester United,Newcastle United,1.0,0.0,1.0 - 0.0,St. James' Park,52214,5400.0 + 600.0
+English Premier League,2023-11-26T16:30Z,Everton,Manchester United,Manchester United,0.0,3.0,0.0 - 3.0,Goodison Park,39257,5400.0 + 420.0
+English Premier League,2023-11-11T15:00Z,Manchester United,Luton Town,Manchester United,1.0,0.0,1.0 - 0.0,Old Trafford,73599,5400.0 + 540.0
+English Premier League,2023-11-04T12:30Z,Fulham,Manchester United,Manchester United,0.0,1.0,0.0 - 1.0,Craven Cottage,24415,5400.0 + 480.0
+English Premier League,2023-10-29T15:30Z,Manchester United,Manchester City,Manchester City,0.0,3.0,0.0 - 3.0,Old Trafford,73502,5400.0 + 360.0
+English Premier League,2023-10-21T19:00Z,Sheffield United,Manchester United,Manchester United,1.0,2.0,1.0 - 2.0,Bramall Lane,31543,5400.0 + 360.0
+English Premier League,2023-10-07T14:00Z,Manchester United,Brentford,Manchester United,2.0,1.0,2.0 - 1.0,Old Trafford,73453,5400.0 + 480.0
+English Premier League,2023-09-30T14:00Z,Manchester United,Crystal Palace,Crystal Palace,0.0,1.0,0.0 - 1.0,Old Trafford,73428,5400.0 + 300.0
+English Premier League,2023-09-23T19:00Z,Burnley,Manchester United,Manchester United,0.0,1.0,0.0 - 1.0,Turf Moor,21593,5400.0 + 300.0
+English Premier League,2023-09-16T14:00Z,Manchester United,Brighton & Hove Albion,Brighton & Hove Albion,1.0,3.0,1.0 - 3.0,Old Trafford,73592,5400.0 + 420.0
+English Premier League,2023-09-03T15:30Z,Arsenal,Manchester United,Arsenal,3.0,1.0,3.0 - 1.0,Emirates Stadium,60192,5400.0 + 780.0
+English Premier League,2023-08-26T14:00Z,Manchester United,Nottingham Forest,Manchester United,3.0,2.0,3.0 - 2.0,Old Trafford,73595,5400.0 + 840.0
+English Premier League,2023-08-19T16:30Z,Tottenham Hotspur,Manchester United,Tottenham Hotspur,2.0,0.0,2.0 - 0.0,Tottenham Hotspur Stadium,61910,5400.0 + 600.0
+English Premier League,2023-08-14T19:00Z,Manchester United,Wolverhampton Wanderers,Manchester United,1.0,0.0,1.0 - 0.0,Old Trafford,73358,5400.0 + 600.0

@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T16:00Z,AC Milan,Genoa,Draw,3.0,3.0,3.0 - 3.0,Stadio Giuseppe Meazza,73901,5400.0 + 300.0
+Italian Serie A,2024-04-29T18:45Z,Genoa,Cagliari,Genoa,3.0,0.0,3.0 - 0.0,Luigi Ferraris,17257,5400.0 + 180.0
+Italian Serie A,2024-04-19T16:30Z,Genoa,Lazio,Lazio,0.0,1.0,0.0 - 1.0,Luigi Ferraris,30697,5400.0 + 300.0
+Italian Serie A,2024-04-15T16:30Z,Fiorentina,Genoa,Draw,1.0,1.0,1.0 - 1.0,Artemio Franchi,25120,5400.0 + 480.0
+Italian Serie A,2024-04-07T16:00Z,Hellas Verona,Genoa,Genoa,1.0,2.0,1.0 - 2.0,Stadio Marcantonio Bentegodi,20342,5400.0 + 360.0
+Italian Serie A,2024-03-30T14:00Z,Genoa,Frosinone,Draw,1.0,1.0,1.0 - 1.0,Luigi Ferraris,31462,5400.0 + 480.0
+Italian Serie A,2024-03-17T11:30Z,Juventus,Genoa,Draw,0.0,0.0,0.0 - 0.0,Allianz Stadium,40098,5400.0 + 360.0
+Italian Serie A,2024-03-09T19:45Z,Genoa,Monza,Monza,2.0,3.0,2.0 - 3.0,Luigi Ferraris,31171,5400.0 + 360.0
+Italian Serie A,2024-03-04T19:45Z,Internazionale,Genoa,Internazionale,2.0,1.0,2.0 - 1.0,Stadio Giuseppe Meazza,75421,5400.0 + 240.0
+Italian Serie A,2024-02-24T19:45Z,Genoa,Udinese,Genoa,2.0,0.0,2.0 - 0.0,Luigi Ferraris,31126,5400.0 + 240.0
+Italian Serie A,2024-02-17T14:00Z,Napoli,Genoa,Draw,1.0,1.0,1.0 - 1.0,Diego Armando Maradona,50000,5400.0 + 480.0
+Italian Serie A,2024-02-11T17:00Z,Genoa,Atalanta,Atalanta,1.0,4.0,1.0 - 4.0,Luigi Ferraris,31201,5400.0 + 840.0
+Italian Serie A,2024-02-03T14:00Z,Empoli,Genoa,Draw,0.0,0.0,0.0 - 0.0,Stadio Carlo Castellani – Computer Gross Arena,10374,5400.0 + 240.0
+Italian Serie A,2024-01-28T11:30Z,Genoa,Lecce,Genoa,2.0,1.0,2.0 - 1.0,Luigi Ferraris,32152,5400.0 + 360.0
+Italian Serie A,2024-01-21T17:00Z,Salernitana,Genoa,Genoa,1.0,2.0,1.0 - 2.0,Arechi,17440,5400.0 + 420.0
+Italian Serie A,2024-01-13T14:00Z,Genoa,Torino,Draw,0.0,0.0,0.0 - 0.0,Luigi Ferraris,33019,5400.0 + 300.0
+Italian Serie A,2024-01-05T19:45Z,Bologna,Genoa,Draw,1.0,1.0,1.0 - 1.0,Renato Dall'Ara,25095,5400.0 + 480.0
+Italian Serie A,2023-12-29T19:45Z,Genoa,Internazionale,Draw,1.0,1.0,1.0 - 1.0,Luigi Ferraris,33249,5400.0 + 540.0
+Italian Serie A,2023-12-22T17:30Z,Sassuolo,Genoa,Genoa,1.0,2.0,1.0 - 2.0,MAPEI Stadium - Città del Tricolore,11745,5400.0 + 360.0
+Italian Serie A,2023-12-15T19:45Z,Genoa,Juventus,Draw,1.0,1.0,1.0 - 1.0,Luigi Ferraris,33232,5400.0 + 240.0
+Italian Serie A,2023-12-10T14:00Z,Monza,Genoa,Monza,1.0,0.0,1.0 - 0.0,U-Power Stadium,13283,5400.0 + 300.0
+Italian Serie A,2023-12-02T14:00Z,Genoa,Empoli,Draw,1.0,1.0,1.0 - 1.0,Luigi Ferraris,30747,5400.0 + 300.0
+Italian Serie A,2023-11-26T14:00Z,Frosinone,Genoa,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,13999,5400.0 + 420.0
+Italian Serie A,2023-11-10T19:45Z,Genoa,Hellas Verona,Genoa,1.0,0.0,1.0 - 0.0,Luigi Ferraris,30421,5400.0 + 300.0
+Italian Serie A,2023-11-05T14:00Z,Cagliari,Genoa,Cagliari,2.0,1.0,2.0 - 1.0,Unipol Domus,16412,5400.0 + 480.0
+Italian Serie A,2023-10-27T18:45Z,Genoa,Salernitana,Genoa,1.0,0.0,1.0 - 0.0,Luigi Ferraris,30904,5400.0 + 360.0
+Italian Serie A,2023-10-22T16:00Z,Atalanta,Genoa,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14848,5400.0 + 480.0
+Italian Serie A,2023-10-07T18:45Z,Genoa,AC Milan,AC Milan,0.0,1.0,0.0 - 1.0,Luigi Ferraris,33157,5400.0 + 900.0
+Italian Serie A,2023-10-01T13:00Z,Udinese,Genoa,Draw,2.0,2.0,2.0 - 2.0,Bluenergy Stadium,20805,5400.0 + 420.0
+Italian Serie A,2023-09-28T18:45Z,Genoa,AS Roma,Genoa,4.0,1.0,4.0 - 1.0,Luigi Ferraris,32961,5400.0 + 360.0
+Italian Serie A,2023-09-22T18:45Z,Lecce,Genoa,Lecce,1.0,0.0,1.0 - 0.0,Stadio Ettore Giardiniero - Via del Mare,27053,5400.0 + 420.0
+Italian Serie A,2023-09-16T18:45Z,Genoa,Napoli,Draw,2.0,2.0,2.0 - 2.0,Luigi Ferraris,33275,5400.0 + 420.0
+Italian Serie A,2023-09-03T16:30Z,Torino,Genoa,Torino,1.0,0.0,1.0 - 0.0,Olimpico Grande Torino,24433,5400.0 + 480.0
+Italian Serie A,2023-08-27T18:45Z,Lazio,Genoa,Genoa,0.0,1.0,0.0 - 1.0,Olimpico,40000,5400.0 + 540.0
+Italian Serie A,2023-08-19T18:45Z,Genoa,Fiorentina,Fiorentina,1.0,4.0,1.0 - 4.0,Luigi Ferraris,33045,5400.0 + 240.0

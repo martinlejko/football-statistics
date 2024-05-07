@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T11:30Z,Arsenal,AFC Bournemouth,Arsenal,3.0,0.0,3.0 - 0.0,Emirates Stadium,60348,5400.0 + 540.0
+English Premier League,2024-04-28T13:00Z,AFC Bournemouth,Brighton & Hove Albion,AFC Bournemouth,3.0,0.0,3.0 - 0.0,Vitality Stadium,11188,5400.0 + 480.0
+English Premier League,2024-04-24T18:45Z,Wolverhampton Wanderers,AFC Bournemouth,AFC Bournemouth,0.0,1.0,0.0 - 1.0,Molineux Stadium,25541,5400.0 + 780.0
+English Premier League,2024-04-21T14:00Z,Aston Villa,AFC Bournemouth,Aston Villa,3.0,1.0,3.0 - 1.0,Villa Park,42189,5400.0 + 360.0
+English Premier League,2024-04-13T16:30Z,AFC Bournemouth,Manchester United,Draw,2.0,2.0,2.0 - 2.0,Vitality Stadium,11229,5400.0 + 600.0
+English Premier League,2024-04-06T14:00Z,Luton Town,AFC Bournemouth,Luton Town,2.0,1.0,2.0 - 1.0,Kenilworth Road,11797,5400.0 + 420.0
+English Premier League,2024-04-02T18:45Z,AFC Bournemouth,Crystal Palace,AFC Bournemouth,1.0,0.0,1.0 - 0.0,Vitality Stadium,11207,5400.0 + 360.0
+English Premier League,2024-03-30T15:00Z,AFC Bournemouth,Everton,AFC Bournemouth,2.0,1.0,2.0 - 1.0,Vitality Stadium,11207,5400.0 + 480.0
+English Premier League,2024-03-13T19:30Z,AFC Bournemouth,Luton Town,AFC Bournemouth,4.0,3.0,4.0 - 3.0,Vitality Stadium,11198,5400.0 + 660.0
+English Premier League,2024-03-09T15:00Z,AFC Bournemouth,Sheffield United,Draw,2.0,2.0,2.0 - 2.0,Vitality Stadium,11074,5400.0 + 540.0
+English Premier League,2024-03-03T13:00Z,Burnley,AFC Bournemouth,AFC Bournemouth,0.0,2.0,0.0 - 2.0,Turf Moor,19713,5400.0 + 420.0
+English Premier League,2024-02-24T17:30Z,AFC Bournemouth,Manchester City,Manchester City,0.0,1.0,0.0 - 1.0,Vitality Stadium,11184,5400.0 + 480.0
+English Premier League,2024-02-17T15:00Z,Newcastle United,AFC Bournemouth,Draw,2.0,2.0,2.0 - 2.0,St. James' Park,52224,5400.0 + 660.0
+English Premier League,2024-02-10T15:00Z,Fulham,AFC Bournemouth,Fulham,3.0,1.0,3.0 - 1.0,Craven Cottage,24271,5400.0 + 480.0
+English Premier League,2024-02-04T14:00Z,AFC Bournemouth,Nottingham Forest,Draw,1.0,1.0,1.0 - 1.0,Vitality Stadium,11200,5400.0 + 480.0
+English Premier League,2024-02-01T19:30Z,West Ham United,AFC Bournemouth,Draw,1.0,1.0,1.0 - 1.0,London Stadium,62451,5400.0 + 540.0
+English Premier League,2024-01-21T16:30Z,AFC Bournemouth,Liverpool,Liverpool,0.0,4.0,0.0 - 4.0,Vitality Stadium,11228,5400.0 + 540.0
+English Premier League,2023-12-31T14:00Z,Tottenham Hotspur,AFC Bournemouth,Tottenham Hotspur,3.0,1.0,3.0 - 1.0,Tottenham Hotspur Stadium,61780,5400.0 + 720.0
+English Premier League,2023-12-26T15:00Z,AFC Bournemouth,Fulham,AFC Bournemouth,3.0,0.0,3.0 - 0.0,Vitality Stadium,11099,5400.0 + 420.0
+English Premier League,2023-12-23T15:00Z,Nottingham Forest,AFC Bournemouth,AFC Bournemouth,2.0,3.0,2.0 - 3.0,The City Ground,29188,5400.0 + 600.0
+English Premier League,2023-12-09T15:00Z,Manchester United,AFC Bournemouth,AFC Bournemouth,0.0,3.0,0.0 - 3.0,Old Trafford,73427,5400.0 + 420.0
+English Premier League,2023-12-06T19:30Z,Crystal Palace,AFC Bournemouth,AFC Bournemouth,0.0,2.0,0.0 - 2.0,Selhurst Park,25078,5400.0 + 360.0
+English Premier League,2023-12-03T14:00Z,AFC Bournemouth,Aston Villa,Draw,2.0,2.0,2.0 - 2.0,Vitality Stadium,11191,5400.0 + 360.0
+English Premier League,2023-11-25T15:00Z,Sheffield United,AFC Bournemouth,AFC Bournemouth,1.0,3.0,1.0 - 3.0,Bramall Lane,30208,5400.0 + 480.0
+English Premier League,2023-11-11T17:30Z,AFC Bournemouth,Newcastle United,AFC Bournemouth,2.0,0.0,2.0 - 0.0,Vitality Stadium,11201,5400.0 + 480.0
+English Premier League,2023-11-04T15:00Z,Manchester City,AFC Bournemouth,Manchester City,6.0,1.0,6.0 - 1.0,Etihad Stadium,53358,5400.0 + 480.0
+English Premier League,2023-10-28T14:00Z,AFC Bournemouth,Burnley,AFC Bournemouth,2.0,1.0,2.0 - 1.0,Vitality Stadium,11152,5400.0 + 720.0
+English Premier League,2023-10-21T14:00Z,AFC Bournemouth,Wolverhampton Wanderers,Wolverhampton Wanderers,1.0,2.0,1.0 - 2.0,Vitality Stadium,11175,5400.0 + 420.0
+English Premier League,2023-10-07T14:00Z,Everton,AFC Bournemouth,Everton,3.0,0.0,3.0 - 0.0,Goodison Park,38815,5400.0 + 300.0
+English Premier League,2023-09-30T14:00Z,AFC Bournemouth,Arsenal,Arsenal,0.0,4.0,0.0 - 4.0,Vitality Stadium,11193,5400.0 + 480.0
+English Premier League,2023-09-24T13:00Z,Brighton & Hove Albion,AFC Bournemouth,Brighton & Hove Albion,3.0,1.0,3.0 - 1.0,American Express Stadium,31617,5400.0 + 420.0
+English Premier League,2023-09-17T13:00Z,AFC Bournemouth,Chelsea,Draw,0.0,0.0,0.0 - 0.0,Vitality Stadium,10421,5400.0 + 540.0
+English Premier League,2023-09-02T14:00Z,Brentford,AFC Bournemouth,Draw,2.0,2.0,2.0 - 2.0,Gtech Community Stadium,16973,5400.0 + 420.0
+English Premier League,2023-08-26T11:30Z,AFC Bournemouth,Tottenham Hotspur,Tottenham Hotspur,0.0,2.0,0.0 - 2.0,Vitality Stadium,10567,5400.0 + 540.0
+English Premier League,2023-08-19T14:00Z,Liverpool,AFC Bournemouth,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,49699,5400.0 + 420.0
+English Premier League,2023-08-12T14:00Z,AFC Bournemouth,West Ham United,Draw,1.0,1.0,1.0 - 1.0,Vitality Stadium,0,5400.0 + 420.0

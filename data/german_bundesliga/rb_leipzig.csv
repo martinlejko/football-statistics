@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-03T18:30Z,TSG Hoffenheim,RB Leipzig,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,25066,5400.0 + 360.0
+German Bundesliga,2024-04-27T13:30Z,RB Leipzig,Borussia Dortmund,RB Leipzig,4.0,1.0,4.0 - 1.0,Red Bull Arena,47069,5400.0 + 240.0
+German Bundesliga,2024-04-20T13:30Z,1. FC Heidenheim 1846,RB Leipzig,RB Leipzig,1.0,2.0,1.0 - 2.0,Voith-Arena,15000,5400.0 + 600.0
+German Bundesliga,2024-04-13T13:30Z,RB Leipzig,VfL Wolfsburg,RB Leipzig,3.0,0.0,3.0 - 0.0,Red Bull Arena,45858,5400.0 + 360.0
+German Bundesliga,2024-04-06T13:30Z,SC Freiburg,RB Leipzig,RB Leipzig,1.0,4.0,1.0 - 4.0,Europa-Park Stadion,33200,5400.0 + 300.0
+German Bundesliga,2024-03-30T14:30Z,RB Leipzig,Mainz,Draw,0.0,0.0,0.0 - 0.0,Red Bull Arena,44813,5400.0 + 420.0
+German Bundesliga,2024-03-15T19:30Z,FC Cologne,RB Leipzig,RB Leipzig,1.0,5.0,1.0 - 5.0,RheinEnergieStadion,49000,5400.0 + 180.0
+German Bundesliga,2024-03-09T14:30Z,RB Leipzig,SV Darmstadt 98,RB Leipzig,2.0,0.0,2.0 - 0.0,Red Bull Arena,40000,5400.0 + 240.0
+German Bundesliga,2024-03-02T14:30Z,VfL Bochum,RB Leipzig,RB Leipzig,1.0,4.0,1.0 - 4.0,Vonovia Ruhrstadion,24200,5400.0 + 360.0
+German Bundesliga,2024-02-24T17:30Z,Bayern Munich,RB Leipzig,Bayern Munich,2.0,1.0,2.0 - 1.0,Allianz Arena,75000,5400.0 + 300.0
+German Bundesliga,2024-02-17T17:30Z,RB Leipzig,Borussia Monchengladbach,RB Leipzig,2.0,0.0,2.0 - 0.0,Red Bull Arena,44822,5400.0 + 360.0
+German Bundesliga,2024-02-10T14:30Z,FC Augsburg,RB Leipzig,Draw,2.0,2.0,2.0 - 2.0,WWK Arena,28510,5400.0 + 300.0
+German Bundesliga,2024-02-04T16:30Z,RB Leipzig,1. FC Union Berlin,RB Leipzig,2.0,0.0,2.0 - 0.0,Red Bull Arena,44032,5400.0 + 300.0
+German Bundesliga,2024-01-27T14:30Z,VfB Stuttgart,RB Leipzig,VfB Stuttgart,5.0,2.0,5.0 - 2.0,MHPArena,52100,5400.0 + 360.0
+German Bundesliga,2024-01-20T17:30Z,RB Leipzig,Bayer Leverkusen,Bayer Leverkusen,2.0,3.0,2.0 - 3.0,Red Bull Arena,46529,5400.0 + 300.0
+German Bundesliga,2024-01-13T14:30Z,RB Leipzig,Eintracht Frankfurt,Eintracht Frankfurt,0.0,1.0,0.0 - 1.0,Red Bull Arena,45867,5400.0 + 360.0
+German Bundesliga,2023-12-19T17:30Z,Werder Bremen,RB Leipzig,Draw,1.0,1.0,1.0 - 1.0,wohninvest WESERSTADION,41000,5400.0 + 360.0
+German Bundesliga,2023-12-16T17:30Z,RB Leipzig,TSG Hoffenheim,RB Leipzig,3.0,1.0,3.0 - 1.0,Red Bull Arena,42946,5400.0 + 420.0
+German Bundesliga,2023-12-09T17:30Z,Borussia Dortmund,RB Leipzig,RB Leipzig,2.0,3.0,2.0 - 3.0,SIGNAL IDUNA PARK,81365,5400.0 + 360.0
+German Bundesliga,2023-12-02T14:30Z,RB Leipzig,1. FC Heidenheim 1846,RB Leipzig,2.0,1.0,2.0 - 1.0,Red Bull Arena,44887,5400.0 + 420.0
+German Bundesliga,2023-11-25T14:30Z,VfL Wolfsburg,RB Leipzig,VfL Wolfsburg,2.0,1.0,2.0 - 1.0,Volkswagen Arena,25350,5400.0 + 360.0
+German Bundesliga,2023-11-12T18:30Z,RB Leipzig,SC Freiburg,RB Leipzig,3.0,1.0,3.0 - 1.0,Red Bull Arena,41117,5400.0 + 300.0
+German Bundesliga,2023-11-04T14:30Z,Mainz,RB Leipzig,Mainz,2.0,0.0,2.0 - 0.0,MEWA ARENA,30100,5400.0 + 360.0
+German Bundesliga,2023-10-28T16:30Z,RB Leipzig,FC Cologne,RB Leipzig,6.0,0.0,6.0 - 0.0,Red Bull Arena,46480,5400.0 + 240.0
+German Bundesliga,2023-10-21T13:30Z,SV Darmstadt 98,RB Leipzig,RB Leipzig,1.0,3.0,1.0 - 3.0,Merck-Stadion am Böllenfalltor,17810,5400.0 + 420.0
+German Bundesliga,2023-10-07T13:30Z,RB Leipzig,VfL Bochum,Draw,0.0,0.0,0.0 - 0.0,Red Bull Arena,44269,5400.0 + 360.0
+German Bundesliga,2023-09-30T16:30Z,RB Leipzig,Bayern Munich,Draw,2.0,2.0,2.0 - 2.0,Red Bull Arena,47069,5400.0 + 420.0
+German Bundesliga,2023-09-23T13:30Z,Borussia Monchengladbach,RB Leipzig,RB Leipzig,0.0,1.0,0.0 - 1.0,Borussia-Park,50122,5400.0 + 360.0
+German Bundesliga,2023-09-16T13:30Z,RB Leipzig,FC Augsburg,RB Leipzig,3.0,0.0,3.0 - 0.0,Red Bull Arena,44746,5400.0 + 240.0
+German Bundesliga,2023-09-03T15:30Z,1. FC Union Berlin,RB Leipzig,RB Leipzig,0.0,3.0,0.0 - 3.0,An der alten Försterei,22012,5400.0 + 420.0
+German Bundesliga,2023-08-25T18:30Z,RB Leipzig,VfB Stuttgart,RB Leipzig,5.0,1.0,5.0 - 1.0,Red Bull Arena,46084,5400.0 + 360.0
+German Bundesliga,2023-08-19T13:30Z,Bayer Leverkusen,RB Leipzig,Bayer Leverkusen,3.0,2.0,3.0 - 2.0,BayArena,29464,5400.0 + 360.0

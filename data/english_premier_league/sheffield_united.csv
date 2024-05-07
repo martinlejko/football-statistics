@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T14:00Z,Sheffield United,Nottingham Forest,Nottingham Forest,1.0,3.0,1.0 - 3.0,Bramall Lane,28516,5400.0 + 360.0
+English Premier League,2024-04-27T14:00Z,Newcastle United,Sheffield United,Newcastle United,5.0,1.0,5.0 - 1.0,St. James' Park,52196,5400.0 + 480.0
+English Premier League,2024-04-24T19:00Z,Manchester United,Sheffield United,Manchester United,4.0,2.0,4.0 - 2.0,Old Trafford,73549,5400.0 + 600.0
+English Premier League,2024-04-20T14:00Z,Sheffield United,Burnley,Burnley,1.0,4.0,1.0 - 4.0,Bramall Lane,28964,5400.0 + 540.0
+English Premier League,2024-04-13T14:00Z,Brentford,Sheffield United,Brentford,2.0,0.0,2.0 - 0.0,Gtech Community Stadium,17115,5400.0 + 540.0
+English Premier League,2024-04-07T16:30Z,Sheffield United,Chelsea,Draw,2.0,2.0,2.0 - 2.0,Bramall Lane,28638,5400.0 + 540.0
+English Premier League,2024-04-04T18:30Z,Liverpool,Sheffield United,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,60055,5400.0 + 480.0
+English Premier League,2024-03-30T15:00Z,Sheffield United,Fulham,Draw,3.0,3.0,3.0 - 3.0,Bramall Lane,30010,5400.0 + 960.0
+English Premier League,2024-03-09T15:00Z,AFC Bournemouth,Sheffield United,Draw,2.0,2.0,2.0 - 2.0,Vitality Stadium,11074,5400.0 + 540.0
+English Premier League,2024-03-04T20:00Z,Sheffield United,Arsenal,Arsenal,0.0,6.0,0.0 - 6.0,Bramall Lane,29980,5400.0 + 360.0
+English Premier League,2024-02-25T13:30Z,Wolverhampton Wanderers,Sheffield United,Wolverhampton Wanderers,1.0,0.0,1.0 - 0.0,Molineux Stadium,30789,5400.0 + 360.0
+English Premier League,2024-02-18T14:00Z,Sheffield United,Brighton & Hove Albion,Brighton & Hove Albion,0.0,5.0,0.0 - 5.0,Bramall Lane,29522,5400.0 + 300.0
+English Premier League,2024-02-10T15:00Z,Luton Town,Sheffield United,Sheffield United,1.0,3.0,1.0 - 3.0,Kenilworth Road,11138,5400.0 + 600.0
+English Premier League,2024-02-03T17:30Z,Sheffield United,Aston Villa,Aston Villa,0.0,5.0,0.0 - 5.0,Bramall Lane,0,5400.0 + 540.0
+English Premier League,2024-01-30T20:00Z,Crystal Palace,Sheffield United,Crystal Palace,3.0,2.0,3.0 - 2.0,Selhurst Park,0,5400.0 + 780.0
+English Premier League,2024-01-21T14:00Z,Sheffield United,West Ham United,Draw,2.0,2.0,2.0 - 2.0,Bramall Lane,29164,5400.0 + 840.0
+English Premier League,2023-12-30T15:00Z,Manchester City,Sheffield United,Manchester City,2.0,0.0,2.0 - 0.0,Etihad Stadium,53108,5400.0 + 180.0
+English Premier League,2023-12-26T15:00Z,Sheffield United,Luton Town,Luton Town,2.0,3.0,2.0 - 3.0,Bramall Lane,31041,5400.0 + 600.0
+English Premier League,2023-12-22T20:00Z,Aston Villa,Sheffield United,Draw,1.0,1.0,1.0 - 1.0,Villa Park,41651,5400.0 + 660.0
+English Premier League,2023-12-16T15:00Z,Chelsea,Sheffield United,Chelsea,2.0,0.0,2.0 - 0.0,Stamford Bridge,39599,5400.0 + 420.0
+English Premier League,2023-12-09T15:00Z,Sheffield United,Brentford,Sheffield United,1.0,0.0,1.0 - 0.0,Bramall Lane,28509,5400.0 + 360.0
+English Premier League,2023-12-06T19:30Z,Sheffield United,Liverpool,Liverpool,0.0,2.0,0.0 - 2.0,Bramall Lane,31406,5400.0 + 480.0
+English Premier League,2023-12-02T15:00Z,Burnley,Sheffield United,Burnley,5.0,0.0,5.0 - 0.0,Turf Moor,20891,5400.0 + 300.0
+English Premier League,2023-11-25T15:00Z,Sheffield United,AFC Bournemouth,AFC Bournemouth,1.0,3.0,1.0 - 3.0,Bramall Lane,30208,5400.0 + 480.0
+English Premier League,2023-11-12T14:00Z,Brighton & Hove Albion,Sheffield United,Draw,1.0,1.0,1.0 - 1.0,American Express Stadium,31367,5400.0 + 420.0
+English Premier League,2023-11-04T15:00Z,Sheffield United,Wolverhampton Wanderers,Sheffield United,2.0,1.0,2.0 - 1.0,Bramall Lane,29454,5400.0 + 660.0
+English Premier League,2023-10-28T14:00Z,Arsenal,Sheffield United,Arsenal,5.0,0.0,5.0 - 0.0,Emirates Stadium,60153,5400.0 + 720.0
+English Premier League,2023-10-21T19:00Z,Sheffield United,Manchester United,Manchester United,1.0,2.0,1.0 - 2.0,Bramall Lane,31543,5400.0 + 360.0
+English Premier League,2023-10-07T14:00Z,Fulham,Sheffield United,Fulham,3.0,1.0,3.0 - 1.0,Craven Cottage,24361,5400.0 + 540.0
+English Premier League,2023-09-30T14:00Z,West Ham United,Sheffield United,West Ham United,2.0,0.0,2.0 - 0.0,London Stadium,62459,5400.0 + 480.0
+English Premier League,2023-09-24T15:30Z,Sheffield United,Newcastle United,Newcastle United,0.0,8.0,0.0 - 8.0,Bramall Lane,30568,5400.0 + 420.0
+English Premier League,2023-09-16T14:00Z,Tottenham Hotspur,Sheffield United,Tottenham Hotspur,2.0,1.0,2.0 - 1.0,Tottenham Hotspur Stadium,61706,5400.0 + 960.0
+English Premier League,2023-09-02T11:30Z,Sheffield United,Everton,Draw,2.0,2.0,2.0 - 2.0,Bramall Lane,31124,5400.0 + 540.0
+English Premier League,2023-08-27T13:00Z,Sheffield United,Manchester City,Manchester City,1.0,2.0,1.0 - 2.0,Bramall Lane,31336,5400.0 + 480.0
+English Premier League,2023-08-18T18:45Z,Nottingham Forest,Sheffield United,Nottingham Forest,2.0,1.0,2.0 - 1.0,The City Ground,29432,5400.0 + 540.0
+English Premier League,2023-08-12T14:00Z,Sheffield United,Crystal Palace,Crystal Palace,0.0,1.0,0.0 - 1.0,Bramall Lane,31194,5400.0 + 360.0

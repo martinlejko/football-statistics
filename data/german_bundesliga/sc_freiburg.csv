@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-04T16:30Z,FC Cologne,SC Freiburg,Draw,0.0,0.0,0.0 - 0.0,RheinEnergieStadion,50000,5400.0 + 180.0
+German Bundesliga,2024-04-27T13:30Z,SC Freiburg,VfL Wolfsburg,VfL Wolfsburg,1.0,2.0,1.0 - 2.0,Europa-Park Stadion,32800,5400.0 + 600.0
+German Bundesliga,2024-04-21T17:30Z,SC Freiburg,Mainz,Draw,1.0,1.0,1.0 - 1.0,Europa-Park Stadion,34300,5400.0 + 240.0
+German Bundesliga,2024-04-14T13:30Z,SV Darmstadt 98,SC Freiburg,SC Freiburg,0.0,1.0,0.0 - 1.0,Merck-Stadion am Böllenfalltor,17810,5400.0 + 420.0
+German Bundesliga,2024-04-06T13:30Z,SC Freiburg,RB Leipzig,RB Leipzig,1.0,4.0,1.0 - 4.0,Europa-Park Stadion,33200,5400.0 + 300.0
+German Bundesliga,2024-03-30T14:30Z,Borussia Monchengladbach,SC Freiburg,SC Freiburg,0.0,3.0,0.0 - 3.0,Borussia-Park,53259,5400.0 + 240.0
+German Bundesliga,2024-03-17T14:30Z,SC Freiburg,Bayer Leverkusen,Bayer Leverkusen,2.0,3.0,2.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 300.0
+German Bundesliga,2024-03-10T14:30Z,VfL Bochum,SC Freiburg,SC Freiburg,1.0,2.0,1.0 - 2.0,Vonovia Ruhrstadion,25594,5400.0 + 360.0
+German Bundesliga,2024-03-01T19:30Z,SC Freiburg,Bayern Munich,Draw,2.0,2.0,2.0 - 2.0,Europa-Park Stadion,34700,5400.0 + 240.0
+German Bundesliga,2024-02-25T18:30Z,FC Augsburg,SC Freiburg,FC Augsburg,2.0,1.0,2.0 - 1.0,WWK Arena,28894,5400.0 + 300.0
+German Bundesliga,2024-02-18T14:30Z,SC Freiburg,Eintracht Frankfurt,Draw,3.0,3.0,3.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 660.0
+German Bundesliga,2024-02-09T19:30Z,Borussia Dortmund,SC Freiburg,Borussia Dortmund,3.0,0.0,3.0 - 0.0,SIGNAL IDUNA PARK,81365,5400.0 + 300.0
+German Bundesliga,2024-02-03T14:30Z,SC Freiburg,VfB Stuttgart,VfB Stuttgart,1.0,3.0,1.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 600.0
+German Bundesliga,2024-01-27T14:30Z,Werder Bremen,SC Freiburg,Werder Bremen,3.0,1.0,3.0 - 1.0,wohninvest WESERSTADION,41500,5400.0 + 360.0
+German Bundesliga,2024-01-20T14:30Z,SC Freiburg,TSG Hoffenheim,SC Freiburg,3.0,2.0,3.0 - 2.0,Europa-Park Stadion,33600,5400.0 + 360.0
+German Bundesliga,2024-01-13T14:30Z,SC Freiburg,1. FC Union Berlin,Draw,0.0,0.0,0.0 - 0.0,Europa-Park Stadion,33800,5400.0 + 420.0
+German Bundesliga,2023-12-20T19:30Z,1. FC Heidenheim 1846,SC Freiburg,1. FC Heidenheim 1846,3.0,2.0,3.0 - 2.0,Voith-Arena,15000,5400.0 + 480.0
+German Bundesliga,2023-12-17T14:30Z,SC Freiburg,FC Cologne,SC Freiburg,2.0,0.0,2.0 - 0.0,Europa-Park Stadion,34700,5400.0 + 360.0
+German Bundesliga,2023-12-09T14:30Z,VfL Wolfsburg,SC Freiburg,SC Freiburg,0.0,1.0,0.0 - 1.0,Volkswagen Arena,20146,5400.0 + 300.0
+German Bundesliga,2023-12-03T14:30Z,Mainz,SC Freiburg,SC Freiburg,0.0,1.0,0.0 - 1.0,MEWA ARENA,30300,5400.0 + 420.0
+German Bundesliga,2023-11-25T14:30Z,SC Freiburg,SV Darmstadt 98,Draw,1.0,1.0,1.0 - 1.0,Europa-Park Stadion,34300,5400.0 + 420.0
+German Bundesliga,2023-11-12T18:30Z,RB Leipzig,SC Freiburg,RB Leipzig,3.0,1.0,3.0 - 1.0,Red Bull Arena,41117,5400.0 + 300.0
+German Bundesliga,2023-11-04T14:30Z,SC Freiburg,Borussia Monchengladbach,Draw,3.0,3.0,3.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 420.0
+German Bundesliga,2023-10-29T16:30Z,Bayer Leverkusen,SC Freiburg,Bayer Leverkusen,2.0,1.0,2.0 - 1.0,BayArena,30210,5400.0 + 360.0
+German Bundesliga,2023-10-21T13:30Z,SC Freiburg,VfL Bochum,SC Freiburg,2.0,1.0,2.0 - 1.0,Europa-Park Stadion,33900,5400.0 + 360.0
+German Bundesliga,2023-10-08T15:30Z,Bayern Munich,SC Freiburg,Bayern Munich,3.0,0.0,3.0 - 0.0,Allianz Arena,75000,5400.0 + 240.0
+German Bundesliga,2023-10-01T15:30Z,SC Freiburg,FC Augsburg,SC Freiburg,2.0,0.0,2.0 - 0.0,Europa-Park Stadion,33134,5400.0 + 360.0
+German Bundesliga,2023-09-24T15:30Z,Eintracht Frankfurt,SC Freiburg,Draw,0.0,0.0,0.0 - 0.0,Deutsche Bank Park,55800,5400.0 + 420.0
+German Bundesliga,2023-09-16T13:30Z,SC Freiburg,Borussia Dortmund,Borussia Dortmund,2.0,4.0,2.0 - 4.0,Europa-Park Stadion,34700,5400.0 + 300.0
+German Bundesliga,2023-09-02T13:30Z,VfB Stuttgart,SC Freiburg,VfB Stuttgart,5.0,0.0,5.0 - 0.0,MHPArena,54300,5400.0 + 180.0
+German Bundesliga,2023-08-26T13:30Z,SC Freiburg,Werder Bremen,SC Freiburg,1.0,0.0,1.0 - 0.0,Europa-Park Stadion,34700,5400.0 + 480.0
+German Bundesliga,2023-08-19T13:30Z,TSG Hoffenheim,SC Freiburg,SC Freiburg,1.0,2.0,1.0 - 2.0,PreZero Arena,25890,5400.0 + 360.0

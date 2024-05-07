@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T14:00Z,Burnley,Newcastle United,Newcastle United,1.0,4.0,1.0 - 4.0,Turf Moor,21781,5400.0 + 360.0
+English Premier League,2024-04-27T14:00Z,Newcastle United,Sheffield United,Newcastle United,5.0,1.0,5.0 - 1.0,St. James' Park,52196,5400.0 + 480.0
+English Premier League,2024-04-24T19:00Z,Crystal Palace,Newcastle United,Crystal Palace,2.0,0.0,2.0 - 0.0,Selhurst Park,25002,5400.0 + 420.0
+English Premier League,2024-04-13T11:30Z,Newcastle United,Tottenham Hotspur,Newcastle United,4.0,0.0,4.0 - 0.0,St. James' Park,52206,5400.0 + 360.0
+English Premier League,2024-04-06T14:00Z,Fulham,Newcastle United,Newcastle United,0.0,1.0,0.0 - 1.0,Craven Cottage,24418,5400.0 + 660.0
+English Premier League,2024-04-02T18:30Z,Newcastle United,Everton,Draw,1.0,1.0,1.0 - 1.0,St. James' Park,52135,5400.0 + 600.0
+English Premier League,2024-03-30T12:30Z,Newcastle United,West Ham United,Newcastle United,4.0,3.0,4.0 - 3.0,St. James' Park,52199,5400.0 + 660.0
+English Premier League,2024-03-11T20:00Z,Chelsea,Newcastle United,Chelsea,3.0,2.0,3.0 - 2.0,Stamford Bridge,38752,5400.0 + 420.0
+English Premier League,2024-03-02T15:00Z,Newcastle United,Wolverhampton Wanderers,Newcastle United,3.0,0.0,3.0 - 0.0,St. James' Park,52206,5400.0 + 360.0
+English Premier League,2024-02-24T20:00Z,Arsenal,Newcastle United,Arsenal,4.0,1.0,4.0 - 1.0,Emirates Stadium,60298,5400.0 + 360.0
+English Premier League,2024-02-17T15:00Z,Newcastle United,AFC Bournemouth,Draw,2.0,2.0,2.0 - 2.0,St. James' Park,52224,5400.0 + 660.0
+English Premier League,2024-02-10T17:30Z,Nottingham Forest,Newcastle United,Newcastle United,2.0,3.0,2.0 - 3.0,The City Ground,29451,5400.0 + 420.0
+English Premier League,2024-02-03T15:00Z,Newcastle United,Luton Town,Draw,4.0,4.0,4.0 - 4.0,St. James' Park,52211,5400.0 + 660.0
+English Premier League,2024-01-30T20:15Z,Aston Villa,Newcastle United,Newcastle United,1.0,3.0,1.0 - 3.0,Villa Park,42191,5400.0 + 600.0
+English Premier League,2024-01-13T17:30Z,Newcastle United,Manchester City,Manchester City,2.0,3.0,2.0 - 3.0,St. James' Park,52190,5400.0 + 240.0
+English Premier League,2024-01-01T20:00Z,Liverpool,Newcastle United,Liverpool,4.0,2.0,4.0 - 2.0,Anfield,57471,5400.0 + 420.0
+English Premier League,2023-12-26T12:30Z,Newcastle United,Nottingham Forest,Nottingham Forest,1.0,3.0,1.0 - 3.0,St. James' Park,52207,5400.0 + 420.0
+English Premier League,2023-12-23T15:00Z,Luton Town,Newcastle United,Luton Town,1.0,0.0,1.0 - 0.0,Kenilworth Road,11042,5400.0 + 480.0
+English Premier League,2023-12-16T15:00Z,Newcastle United,Fulham,Newcastle United,3.0,0.0,3.0 - 0.0,St. James' Park,52055,5400.0 + 420.0
+English Premier League,2023-12-10T16:30Z,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,4.0,1.0,4.0 - 1.0,Tottenham Hotspur Stadium,61171,5400.0 + 360.0
+English Premier League,2023-12-07T19:30Z,Everton,Newcastle United,Everton,3.0,0.0,3.0 - 0.0,Goodison Park,38198,5400.0 + 660.0
+English Premier League,2023-12-02T20:00Z,Newcastle United,Manchester United,Newcastle United,1.0,0.0,1.0 - 0.0,St. James' Park,52214,5400.0 + 600.0
+English Premier League,2023-11-25T15:00Z,Newcastle United,Chelsea,Newcastle United,4.0,1.0,4.0 - 1.0,St. James' Park,52227,5400.0 + 360.0
+English Premier League,2023-11-11T17:30Z,AFC Bournemouth,Newcastle United,AFC Bournemouth,2.0,0.0,2.0 - 0.0,Vitality Stadium,11201,5400.0 + 480.0
+English Premier League,2023-11-04T17:30Z,Newcastle United,Arsenal,Newcastle United,1.0,0.0,1.0 - 0.0,St. James' Park,52194,5400.0 + 540.0
+English Premier League,2023-10-28T16:30Z,Wolverhampton Wanderers,Newcastle United,Draw,2.0,2.0,2.0 - 2.0,Molineux Stadium,31584,5400.0 + 540.0
+English Premier League,2023-10-21T14:00Z,Newcastle United,Crystal Palace,Newcastle United,4.0,0.0,4.0 - 0.0,St. James' Park,52189,5400.0 + 300.0
+English Premier League,2023-10-08T13:00Z,West Ham United,Newcastle United,Draw,2.0,2.0,2.0 - 2.0,London Stadium,0,5400.0 + 480.0
+English Premier League,2023-09-30T14:00Z,Newcastle United,Burnley,Newcastle United,2.0,0.0,2.0 - 0.0,St. James' Park,52163,5400.0 + 420.0
+English Premier League,2023-09-24T15:30Z,Sheffield United,Newcastle United,Newcastle United,0.0,8.0,0.0 - 8.0,Bramall Lane,30568,5400.0 + 420.0
+English Premier League,2023-09-16T16:30Z,Newcastle United,Brentford,Newcastle United,1.0,0.0,1.0 - 0.0,St. James' Park,51670,5400.0 + 600.0
+English Premier League,2023-09-02T16:30Z,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,3.0,1.0,3.0 - 1.0,American Express Stadium,31620,5400.0 + 540.0
+English Premier League,2023-08-27T15:30Z,Newcastle United,Liverpool,Liverpool,1.0,2.0,1.0 - 2.0,St. James' Park,52214,5400.0 + 420.0
+English Premier League,2023-08-19T19:00Z,Manchester City,Newcastle United,Manchester City,1.0,0.0,1.0 - 0.0,Etihad Stadium,0,5400.0 + 360.0
+English Premier League,2023-08-12T16:30Z,Newcastle United,Aston Villa,Newcastle United,5.0,1.0,5.0 - 1.0,St. James' Park,52207,5400.0 + 420.0

@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-03T18:30Z,TSG Hoffenheim,RB Leipzig,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,25066,5400.0 + 360.0
+German Bundesliga,2024-04-26T18:30Z,VfL Bochum,TSG Hoffenheim,VfL Bochum,3.0,2.0,3.0 - 2.0,Vonovia Ruhrstadion,24300,5400.0 + 420.0
+German Bundesliga,2024-04-20T13:30Z,TSG Hoffenheim,Borussia Monchengladbach,TSG Hoffenheim,4.0,3.0,4.0 - 3.0,PreZero Arena,26078,5400.0 + 360.0
+German Bundesliga,2024-04-13T13:30Z,Mainz,TSG Hoffenheim,Mainz,4.0,1.0,4.0 - 1.0,MEWA ARENA,31000,5400.0 + 120.0
+German Bundesliga,2024-04-07T13:30Z,TSG Hoffenheim,FC Augsburg,TSG Hoffenheim,3.0,1.0,3.0 - 1.0,PreZero Arena,28881,5400.0 + 240.0
+German Bundesliga,2024-03-30T14:30Z,Bayer Leverkusen,TSG Hoffenheim,Bayer Leverkusen,2.0,1.0,2.0 - 1.0,BayArena,30210,5400.0 + 420.0
+German Bundesliga,2024-03-16T17:30Z,TSG Hoffenheim,VfB Stuttgart,VfB Stuttgart,0.0,3.0,0.0 - 3.0,PreZero Arena,30150,5400.0 + 240.0
+German Bundesliga,2024-03-10T16:30Z,Eintracht Frankfurt,TSG Hoffenheim,Eintracht Frankfurt,3.0,1.0,3.0 - 1.0,Deutsche Bank Park,57000,5400.0 + 300.0
+German Bundesliga,2024-03-03T16:30Z,TSG Hoffenheim,Werder Bremen,TSG Hoffenheim,2.0,1.0,2.0 - 1.0,PreZero Arena,25000,5400.0 + 420.0
+German Bundesliga,2024-02-25T16:30Z,Borussia Dortmund,TSG Hoffenheim,TSG Hoffenheim,2.0,3.0,2.0 - 3.0,SIGNAL IDUNA PARK,81365,5400.0 + 420.0
+German Bundesliga,2024-02-17T14:30Z,TSG Hoffenheim,1. FC Union Berlin,1. FC Union Berlin,0.0,1.0,0.0 - 1.0,PreZero Arena,19050,5400.0 + 300.0
+German Bundesliga,2024-02-11T16:30Z,TSG Hoffenheim,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,23020,5400.0 + 480.0
+German Bundesliga,2024-02-04T14:30Z,VfL Wolfsburg,TSG Hoffenheim,Draw,2.0,2.0,2.0 - 2.0,Volkswagen Arena,22917,5400.0 + 420.0
+German Bundesliga,2024-01-27T14:30Z,TSG Hoffenheim,1. FC Heidenheim 1846,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,20120,5400.0 + 420.0
+German Bundesliga,2024-01-20T14:30Z,SC Freiburg,TSG Hoffenheim,SC Freiburg,3.0,2.0,3.0 - 2.0,Europa-Park Stadion,33600,5400.0 + 360.0
+German Bundesliga,2024-01-12T19:30Z,Bayern Munich,TSG Hoffenheim,Bayern Munich,3.0,0.0,3.0 - 0.0,Allianz Arena,75000,5400.0 + 180.0
+German Bundesliga,2023-12-19T19:30Z,TSG Hoffenheim,SV Darmstadt 98,Draw,3.0,3.0,3.0 - 3.0,PreZero Arena,18125,5400.0 + 420.0
+German Bundesliga,2023-12-16T17:30Z,RB Leipzig,TSG Hoffenheim,RB Leipzig,3.0,1.0,3.0 - 1.0,Red Bull Arena,42946,5400.0 + 420.0
+German Bundesliga,2023-12-08T19:30Z,TSG Hoffenheim,VfL Bochum,TSG Hoffenheim,3.0,1.0,3.0 - 1.0,PreZero Arena,16023,5400.0 + 360.0
+German Bundesliga,2023-12-02T14:30Z,Borussia Monchengladbach,TSG Hoffenheim,Borussia Monchengladbach,2.0,1.0,2.0 - 1.0,Borussia-Park,49341,5400.0 + 420.0
+German Bundesliga,2023-11-26T16:30Z,TSG Hoffenheim,Mainz,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,22000,5400.0 + 360.0
+German Bundesliga,2023-11-11T14:30Z,FC Augsburg,TSG Hoffenheim,Draw,1.0,1.0,1.0 - 1.0,WWK Arena,28260,5400.0 + 540.0
+German Bundesliga,2023-11-04T14:30Z,TSG Hoffenheim,Bayer Leverkusen,Bayer Leverkusen,2.0,3.0,2.0 - 3.0,PreZero Arena,30150,5400.0 + 360.0
+German Bundesliga,2023-10-28T13:30Z,VfB Stuttgart,TSG Hoffenheim,TSG Hoffenheim,2.0,3.0,2.0 - 3.0,MHPArena,53200,5400.0 + 480.0
+German Bundesliga,2023-10-21T13:30Z,TSG Hoffenheim,Eintracht Frankfurt,Eintracht Frankfurt,1.0,3.0,1.0 - 3.0,PreZero Arena,30150,5400.0 + 300.0
+German Bundesliga,2023-10-07T16:30Z,Werder Bremen,TSG Hoffenheim,TSG Hoffenheim,2.0,3.0,2.0 - 3.0,wohninvest WESERSTADION,41000,5400.0 + 600.0
+German Bundesliga,2023-09-29T18:30Z,TSG Hoffenheim,Borussia Dortmund,Borussia Dortmund,1.0,3.0,1.0 - 3.0,PreZero Arena,30150,5400.0 + 420.0
+German Bundesliga,2023-09-23T13:30Z,1. FC Union Berlin,TSG Hoffenheim,TSG Hoffenheim,0.0,2.0,0.0 - 2.0,An der alten Försterei,20000,5400.0 + 420.0
+German Bundesliga,2023-09-16T13:30Z,FC Cologne,TSG Hoffenheim,TSG Hoffenheim,1.0,3.0,1.0 - 3.0,RheinEnergieStadion,49300,5400.0 + 420.0
+German Bundesliga,2023-09-02T13:30Z,TSG Hoffenheim,VfL Wolfsburg,TSG Hoffenheim,3.0,1.0,3.0 - 1.0,PreZero Arena,17500,5400.0 + 540.0
+German Bundesliga,2023-08-26T13:30Z,1. FC Heidenheim 1846,TSG Hoffenheim,TSG Hoffenheim,2.0,3.0,2.0 - 3.0,Voith-Arena,15000,5400.0 + 420.0
+German Bundesliga,2023-08-19T13:30Z,TSG Hoffenheim,SC Freiburg,SC Freiburg,1.0,2.0,1.0 - 2.0,PreZero Arena,25890,5400.0 + 360.0

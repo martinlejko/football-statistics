@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T10:30Z,Cagliari,Lecce,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16407,5400.0 + 420.0
+Italian Serie A,2024-04-29T18:45Z,Genoa,Cagliari,Genoa,3.0,0.0,3.0 - 0.0,Luigi Ferraris,17257,5400.0 + 180.0
+Italian Serie A,2024-04-19T18:45Z,Cagliari,Juventus,Draw,2.0,2.0,2.0 - 2.0,Unipol Domus,16179,5400.0 + 420.0
+Italian Serie A,2024-04-14T18:45Z,Internazionale,Cagliari,Draw,2.0,2.0,2.0 - 2.0,Stadio Giuseppe Meazza,72559,5400.0 + 360.0
+Italian Serie A,2024-04-07T16:00Z,Cagliari,Atalanta,Cagliari,2.0,1.0,2.0 - 1.0,Unipol Domus,16342,5400.0 + 420.0
+Italian Serie A,2024-04-01T13:00Z,Cagliari,Hellas Verona,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16285,5400.0 + 480.0
+Italian Serie A,2024-03-16T14:00Z,Monza,Cagliari,Monza,1.0,0.0,1.0 - 0.0,U-Power Stadium,14145,5400.0 + 360.0
+Italian Serie A,2024-03-09T14:00Z,Cagliari,Salernitana,Cagliari,4.0,2.0,4.0 - 2.0,Unipol Domus,16118,5400.0 + 300.0
+Italian Serie A,2024-03-03T14:00Z,Empoli,Cagliari,Cagliari,0.0,1.0,0.0 - 1.0,Stadio Carlo Castellani – Computer Gross Arena,11223,5400.0 + 480.0
+Italian Serie A,2024-02-25T14:00Z,Cagliari,Napoli,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16382,5400.0 + 480.0
+Italian Serie A,2024-02-18T14:00Z,Udinese,Cagliari,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,15445,5400.0 + 300.0
+Italian Serie A,2024-02-10T14:00Z,Cagliari,Lazio,Lazio,1.0,3.0,1.0 - 3.0,Unipol Domus,16155,5400.0 + 300.0
+Italian Serie A,2024-02-05T19:45Z,AS Roma,Cagliari,AS Roma,4.0,0.0,4.0 - 0.0,Olimpico,61755,5400.0 + 120.0
+Italian Serie A,2024-01-26T19:45Z,Cagliari,Torino,Torino,1.0,2.0,1.0 - 2.0,Unipol Domus,16196,5400.0 + 420.0
+Italian Serie A,2024-01-21T11:30Z,Frosinone,Cagliari,Frosinone,3.0,1.0,3.0 - 1.0,Benito Stirpe,13925,5400.0 + 420.0
+Italian Serie A,2024-01-14T14:00Z,Cagliari,Bologna,Cagliari,2.0,1.0,2.0 - 1.0,Unipol Domus,15980,5400.0 + 360.0
+Italian Serie A,2024-01-06T17:00Z,Lecce,Cagliari,Draw,1.0,1.0,1.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,25203,5400.0 + 300.0
+Italian Serie A,2023-12-30T14:00Z,Cagliari,Empoli,Draw,0.0,0.0,0.0 - 0.0,Unipol Domus,16125,5400.0 + 600.0
+Italian Serie A,2023-12-23T17:00Z,Hellas Verona,Cagliari,Hellas Verona,2.0,0.0,2.0 - 0.0,Stadio Marcantonio Bentegodi,16716,5400.0 + 420.0
+Italian Serie A,2023-12-16T17:30Z,Napoli,Cagliari,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,45000,5400.0 + 480.0
+Italian Serie A,2023-12-11T19:45Z,Cagliari,Sassuolo,Cagliari,2.0,1.0,2.0 - 1.0,Unipol Domus,15769,5400.0 + 660.0
+Italian Serie A,2023-12-02T17:00Z,Lazio,Cagliari,Lazio,1.0,0.0,1.0 - 0.0,Olimpico,40000,5400.0 + 300.0
+Italian Serie A,2023-11-26T11:30Z,Cagliari,Monza,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16291,5400.0 + 240.0
+Italian Serie A,2023-11-11T17:00Z,Juventus,Cagliari,Juventus,2.0,1.0,2.0 - 1.0,Allianz Stadium,40393,5400.0 + 360.0
+Italian Serie A,2023-11-05T14:00Z,Cagliari,Genoa,Cagliari,2.0,1.0,2.0 - 1.0,Unipol Domus,16412,5400.0 + 480.0
+Italian Serie A,2023-10-29T11:30Z,Cagliari,Frosinone,Cagliari,4.0,3.0,4.0 - 3.0,Unipol Domus,15936,5400.0 + 600.0
+Italian Serie A,2023-10-22T13:00Z,Salernitana,Cagliari,Draw,2.0,2.0,2.0 - 2.0,Arechi,17409,5400.0 + 720.0
+Italian Serie A,2023-10-08T16:00Z,Cagliari,AS Roma,AS Roma,1.0,4.0,1.0 - 4.0,Unipol Domus,16307,5400.0 + 300.0
+Italian Serie A,2023-10-02T18:45Z,Fiorentina,Cagliari,Fiorentina,3.0,0.0,3.0 - 0.0,Artemio Franchi,27309,5400.0 + 360.0
+Italian Serie A,2023-09-27T16:30Z,Cagliari,AC Milan,AC Milan,1.0,3.0,1.0 - 3.0,Unipol Domus,16348,5400.0 + 360.0
+Italian Serie A,2023-09-24T13:00Z,Atalanta,Cagliari,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14739,5400.0 + 240.0
+Italian Serie A,2023-09-17T10:30Z,Cagliari,Udinese,Draw,0.0,0.0,0.0 - 0.0,Unipol Domus,15121,5400.0 + 420.0
+Italian Serie A,2023-09-02T16:30Z,Bologna,Cagliari,Bologna,2.0,1.0,2.0 - 1.0,Renato Dall'Ara,22818,5400.0 + 540.0
+Italian Serie A,2023-08-28T18:45Z,Cagliari,Internazionale,Internazionale,0.0,2.0,0.0 - 2.0,Unipol Domus,16412,5400.0 + 300.0
+Italian Serie A,2023-08-21T16:30Z,Torino,Cagliari,Draw,0.0,0.0,0.0 - 0.0,Olimpico Grande Torino,20296,5400.0 + 420.0

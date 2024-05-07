@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-04T16:30Z,FC Cologne,SC Freiburg,Draw,0.0,0.0,0.0 - 0.0,RheinEnergieStadion,50000,5400.0 + 180.0
+German Bundesliga,2024-04-28T15:30Z,Mainz,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,33305,5400.0 + 840.0
+German Bundesliga,2024-04-20T13:30Z,FC Cologne,SV Darmstadt 98,SV Darmstadt 98,0.0,2.0,0.0 - 2.0,RheinEnergieStadion,50000,5400.0 + 360.0
+German Bundesliga,2024-04-13T13:30Z,Bayern Munich,FC Cologne,Bayern Munich,2.0,0.0,2.0 - 0.0,Allianz Arena,75000,5400.0 + 300.0
+German Bundesliga,2024-04-06T13:30Z,FC Cologne,VfL Bochum,FC Cologne,2.0,1.0,2.0 - 1.0,RheinEnergieStadion,50000,5400.0 + 360.0
+German Bundesliga,2024-03-31T13:30Z,FC Augsburg,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,WWK Arena,30660,5400.0 + 360.0
+German Bundesliga,2024-03-15T19:30Z,FC Cologne,RB Leipzig,RB Leipzig,1.0,5.0,1.0 - 5.0,RheinEnergieStadion,49000,5400.0 + 180.0
+German Bundesliga,2024-03-09T14:30Z,Borussia Monchengladbach,FC Cologne,Draw,3.0,3.0,3.0 - 3.0,Borussia-Park,54042,5400.0 + 360.0
+German Bundesliga,2024-03-03T14:30Z,FC Cologne,Bayer Leverkusen,Bayer Leverkusen,0.0,2.0,0.0 - 2.0,RheinEnergieStadion,50000,5400.0 + 180.0
+German Bundesliga,2024-02-24T14:30Z,VfB Stuttgart,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,MHPArena,54500,5400.0 + 360.0
+German Bundesliga,2024-02-16T19:30Z,FC Cologne,Werder Bremen,Werder Bremen,0.0,1.0,0.0 - 1.0,RheinEnergieStadion,50000,5400.0 + 600.0
+German Bundesliga,2024-02-11T16:30Z,TSG Hoffenheim,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,23020,5400.0 + 480.0
+German Bundesliga,2024-02-03T17:30Z,FC Cologne,Eintracht Frankfurt,FC Cologne,2.0,0.0,2.0 - 0.0,RheinEnergieStadion,50000,5400.0 + 300.0
+German Bundesliga,2024-01-27T14:30Z,VfL Wolfsburg,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,Volkswagen Arena,24525,5400.0 + 240.0
+German Bundesliga,2024-01-20T14:30Z,FC Cologne,Borussia Dortmund,Borussia Dortmund,0.0,4.0,0.0 - 4.0,RheinEnergieStadion,50000,5400.0 + 300.0
+German Bundesliga,2024-01-13T14:30Z,FC Cologne,1. FC Heidenheim 1846,Draw,1.0,1.0,1.0 - 1.0,RheinEnergieStadion,50000,5400.0 + 240.0
+German Bundesliga,2023-12-20T17:30Z,1. FC Union Berlin,FC Cologne,1. FC Union Berlin,2.0,0.0,2.0 - 0.0,An der alten Försterei,22012,5400.0 + 420.0
+German Bundesliga,2023-12-17T14:30Z,SC Freiburg,FC Cologne,SC Freiburg,2.0,0.0,2.0 - 0.0,Europa-Park Stadion,34700,5400.0 + 360.0
+German Bundesliga,2023-12-10T16:30Z,FC Cologne,Mainz,Draw,0.0,0.0,0.0 - 0.0,RheinEnergieStadion,50000,5400.0 + 240.0
+German Bundesliga,2023-12-01T19:30Z,SV Darmstadt 98,FC Cologne,FC Cologne,0.0,1.0,0.0 - 1.0,Merck-Stadion am Böllenfalltor,17810,5400.0 + 360.0
+German Bundesliga,2023-11-24T19:30Z,FC Cologne,Bayern Munich,Bayern Munich,0.0,1.0,0.0 - 1.0,RheinEnergieStadion,50000,5400.0 + 240.0
+German Bundesliga,2023-11-11T17:30Z,VfL Bochum,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,Vonovia Ruhrstadion,26000,5400.0 + 300.0
+German Bundesliga,2023-11-04T14:30Z,FC Cologne,FC Augsburg,Draw,1.0,1.0,1.0 - 1.0,RheinEnergieStadion,49300,5400.0 + 480.0
+German Bundesliga,2023-10-28T16:30Z,RB Leipzig,FC Cologne,RB Leipzig,6.0,0.0,6.0 - 0.0,Red Bull Arena,46480,5400.0 + 240.0
+German Bundesliga,2023-10-22T13:30Z,FC Cologne,Borussia Monchengladbach,FC Cologne,3.0,1.0,3.0 - 1.0,RheinEnergieStadion,50000,5400.0 + 540.0
+German Bundesliga,2023-10-08T13:30Z,Bayer Leverkusen,FC Cologne,Bayer Leverkusen,3.0,0.0,3.0 - 0.0,BayArena,30210,5400.0 + 240.0
+German Bundesliga,2023-09-30T13:30Z,FC Cologne,VfB Stuttgart,VfB Stuttgart,0.0,2.0,0.0 - 2.0,RheinEnergieStadion,50000,5400.0 + 360.0
+German Bundesliga,2023-09-23T16:30Z,Werder Bremen,FC Cologne,Werder Bremen,2.0,1.0,2.0 - 1.0,wohninvest WESERSTADION,42100,5400.0 + 360.0
+German Bundesliga,2023-09-16T13:30Z,FC Cologne,TSG Hoffenheim,TSG Hoffenheim,1.0,3.0,1.0 - 3.0,RheinEnergieStadion,49300,5400.0 + 420.0
+German Bundesliga,2023-09-03T13:30Z,Eintracht Frankfurt,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,Deutsche Bank Park,54000,5400.0 + 300.0
+German Bundesliga,2023-08-26T13:30Z,FC Cologne,VfL Wolfsburg,VfL Wolfsburg,1.0,2.0,1.0 - 2.0,RheinEnergieStadion,49500,5400.0 + 540.0
+German Bundesliga,2023-08-19T16:30Z,Borussia Dortmund,FC Cologne,Borussia Dortmund,1.0,0.0,1.0 - 0.0,SIGNAL IDUNA PARK,81365,5400.0 + 420.0

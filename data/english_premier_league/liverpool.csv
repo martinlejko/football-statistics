@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-05T15:30Z,Liverpool,Tottenham Hotspur,Liverpool,4.0,2.0,4.0 - 2.0,Anfield,0,5400.0 + 480.0
+English Premier League,2024-04-27T11:30Z,West Ham United,Liverpool,Draw,2.0,2.0,2.0 - 2.0,London Stadium,62474,5400.0 + 360.0
+English Premier League,2024-04-24T19:00Z,Everton,Liverpool,Everton,2.0,0.0,2.0 - 0.0,Goodison Park,38222,5400.0 + 360.0
+English Premier League,2024-04-21T15:30Z,Fulham,Liverpool,Liverpool,1.0,3.0,1.0 - 3.0,Craven Cottage,24401,5400.0 + 420.0
+English Premier League,2024-04-14T13:00Z,Liverpool,Crystal Palace,Crystal Palace,0.0,1.0,0.0 - 1.0,Anfield,60090,5400.0 + 480.0
+English Premier League,2024-04-07T14:30Z,Manchester United,Liverpool,Draw,2.0,2.0,2.0 - 2.0,Old Trafford,73522,5400.0 + 480.0
+English Premier League,2024-04-04T18:30Z,Liverpool,Sheffield United,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,60055,5400.0 + 480.0
+English Premier League,2024-03-31T13:00Z,Liverpool,Brighton & Hove Albion,Liverpool,2.0,1.0,2.0 - 1.0,Anfield,60061,5400.0 + 420.0
+English Premier League,2024-03-10T15:45Z,Liverpool,Manchester City,Draw,1.0,1.0,1.0 - 1.0,Anfield,59947,5400.0 + 600.0
+English Premier League,2024-03-02T15:00Z,Nottingham Forest,Liverpool,Liverpool,0.0,1.0,0.0 - 1.0,The City Ground,29603,5400.0 + 660.0
+English Premier League,2024-02-21T19:30Z,Liverpool,Luton Town,Liverpool,4.0,1.0,4.0 - 1.0,Anfield,59896,5400.0 + 540.0
+English Premier League,2024-02-17T12:30Z,Brentford,Liverpool,Liverpool,1.0,4.0,1.0 - 4.0,Gtech Community Stadium,17193,5400.0 + 480.0
+English Premier League,2024-02-10T15:00Z,Liverpool,Burnley,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,59896,5400.0 + 540.0
+English Premier League,2024-02-04T16:30Z,Arsenal,Liverpool,Arsenal,3.0,1.0,3.0 - 1.0,Emirates Stadium,60374,5400.0 + 480.0
+English Premier League,2024-01-31T20:15Z,Liverpool,Chelsea,Liverpool,4.0,1.0,4.0 - 1.0,Anfield,57524,5400.0 + 360.0
+English Premier League,2024-01-21T16:30Z,AFC Bournemouth,Liverpool,Liverpool,0.0,4.0,0.0 - 4.0,Vitality Stadium,11228,5400.0 + 540.0
+English Premier League,2024-01-01T20:00Z,Liverpool,Newcastle United,Liverpool,4.0,2.0,4.0 - 2.0,Anfield,57471,5400.0 + 420.0
+English Premier League,2023-12-26T17:30Z,Burnley,Liverpool,Liverpool,0.0,2.0,0.0 - 2.0,Turf Moor,21624,5400.0 + 360.0
+English Premier League,2023-12-23T17:30Z,Liverpool,Arsenal,Draw,1.0,1.0,1.0 - 1.0,Anfield,57548,5400.0 + 360.0
+English Premier League,2023-12-17T16:30Z,Liverpool,Manchester United,Draw,0.0,0.0,0.0 - 0.0,Anfield,57158,5400.0 + 360.0
+English Premier League,2023-12-09T12:30Z,Crystal Palace,Liverpool,Liverpool,1.0,2.0,1.0 - 2.0,Selhurst Park,25103,5400.0 + 780.0
+English Premier League,2023-12-06T19:30Z,Sheffield United,Liverpool,Liverpool,0.0,2.0,0.0 - 2.0,Bramall Lane,31406,5400.0 + 480.0
+English Premier League,2023-12-03T14:00Z,Liverpool,Fulham,Liverpool,4.0,3.0,4.0 - 3.0,Anfield,50143,5400.0 + 480.0
+English Premier League,2023-11-25T12:30Z,Manchester City,Liverpool,Draw,1.0,1.0,1.0 - 1.0,Etihad Stadium,53289,5400.0 + 540.0
+English Premier League,2023-11-12T14:00Z,Liverpool,Brentford,Liverpool,3.0,0.0,3.0 - 0.0,Anfield,50151,5400.0 + 420.0
+English Premier League,2023-11-05T16:30Z,Luton Town,Liverpool,Draw,1.0,1.0,1.0 - 1.0,Kenilworth Road,11049,5400.0 + 600.0
+English Premier League,2023-10-29T14:00Z,Liverpool,Nottingham Forest,Liverpool,3.0,0.0,3.0 - 0.0,Anfield,50143,5400.0 + 300.0
+English Premier League,2023-10-21T11:30Z,Liverpool,Everton,Liverpool,2.0,0.0,2.0 - 0.0,Anfield,50201,5400.0 + 600.0
+English Premier League,2023-10-08T13:00Z,Brighton & Hove Albion,Liverpool,Draw,2.0,2.0,2.0 - 2.0,American Express Stadium,31752,5400.0 + 300.0
+English Premier League,2023-09-30T16:30Z,Tottenham Hotspur,Liverpool,Tottenham Hotspur,2.0,1.0,2.0 - 1.0,Tottenham Hotspur Stadium,62001,5400.0 + 480.0
+English Premier League,2023-09-24T13:00Z,Liverpool,West Ham United,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,50136,5400.0 + 360.0
+English Premier League,2023-09-16T11:30Z,Wolverhampton Wanderers,Liverpool,Liverpool,1.0,3.0,1.0 - 3.0,Molineux Stadium,31257,5400.0 + 720.0
+English Premier League,2023-09-03T13:00Z,Liverpool,Aston Villa,Liverpool,3.0,0.0,3.0 - 0.0,Anfield,50109,5400.0 + 240.0
+English Premier League,2023-08-27T15:30Z,Newcastle United,Liverpool,Liverpool,1.0,2.0,1.0 - 2.0,St. James' Park,52214,5400.0 + 420.0
+English Premier League,2023-08-19T14:00Z,Liverpool,AFC Bournemouth,Liverpool,3.0,1.0,3.0 - 1.0,Anfield,49699,5400.0 + 420.0
+English Premier League,2023-08-13T15:30Z,Chelsea,Liverpool,Draw,1.0,1.0,1.0 - 1.0,Stamford Bridge,40096,5400.0 + 300.0

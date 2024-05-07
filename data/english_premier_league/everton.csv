@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-03T19:00Z,Luton Town,Everton,Draw,1.0,1.0,1.0 - 1.0,Kenilworth Road,11873,5400.0 + 480.0
+English Premier League,2024-04-27T16:30Z,Everton,Brentford,Everton,1.0,0.0,1.0 - 0.0,Goodison Park,39098,5400.0 + 480.0
+English Premier League,2024-04-24T19:00Z,Everton,Liverpool,Everton,2.0,0.0,2.0 - 0.0,Goodison Park,38222,5400.0 + 360.0
+English Premier League,2024-04-21T12:30Z,Everton,Nottingham Forest,Everton,2.0,0.0,2.0 - 0.0,Goodison Park,39239,5400.0 + 1080.0
+English Premier League,2024-04-15T19:00Z,Chelsea,Everton,Chelsea,6.0,0.0,6.0 - 0.0,Stamford Bridge,39392,5400.0 + 480.0
+English Premier League,2024-04-06T14:00Z,Everton,Burnley,Everton,1.0,0.0,1.0 - 0.0,Goodison Park,39125,5400.0 + 360.0
+English Premier League,2024-04-02T18:30Z,Newcastle United,Everton,Draw,1.0,1.0,1.0 - 1.0,St. James' Park,52135,5400.0 + 600.0
+English Premier League,2024-03-30T15:00Z,AFC Bournemouth,Everton,AFC Bournemouth,2.0,1.0,2.0 - 1.0,Vitality Stadium,11207,5400.0 + 480.0
+English Premier League,2024-03-09T12:30Z,Manchester United,Everton,Manchester United,2.0,0.0,2.0 - 0.0,Old Trafford,73601,5400.0 + 300.0
+English Premier League,2024-03-02T15:00Z,Everton,West Ham United,West Ham United,1.0,3.0,1.0 - 3.0,Goodison Park,39262,5400.0 + 540.0
+English Premier League,2024-02-24T15:00Z,Brighton & Hove Albion,Everton,Draw,1.0,1.0,1.0 - 1.0,American Express Stadium,31646,5400.0 + 660.0
+English Premier League,2024-02-19T20:00Z,Everton,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,Goodison Park,38164,5400.0 + 420.0
+English Premier League,2024-02-10T12:30Z,Manchester City,Everton,Manchester City,2.0,0.0,2.0 - 0.0,Etihad Stadium,0,5400.0 + 600.0
+English Premier League,2024-02-03T12:30Z,Everton,Tottenham Hotspur,Draw,2.0,2.0,2.0 - 2.0,Goodison Park,39321,5400.0 + 600.0
+English Premier League,2024-01-30T19:45Z,Fulham,Everton,Draw,0.0,0.0,0.0 - 0.0,Craven Cottage,24376,5400.0 + 420.0
+English Premier League,2024-01-14T14:00Z,Everton,Aston Villa,Draw,0.0,0.0,0.0 - 0.0,Goodison Park,39284,5400.0 + 480.0
+English Premier League,2023-12-30T15:00Z,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,3.0,0.0,3.0 - 0.0,Molineux Stadium,31639,5400.0 + 600.0
+English Premier League,2023-12-27T20:15Z,Everton,Manchester City,Manchester City,1.0,3.0,1.0 - 3.0,Goodison Park,39327,5400.0 + 420.0
+English Premier League,2023-12-23T15:00Z,Tottenham Hotspur,Everton,Tottenham Hotspur,2.0,1.0,2.0 - 1.0,Tottenham Hotspur Stadium,61808,5400.0 + 420.0
+English Premier League,2023-12-16T17:30Z,Burnley,Everton,Everton,0.0,2.0,0.0 - 2.0,Turf Moor,21413,5400.0 + 180.0
+English Premier League,2023-12-10T14:00Z,Everton,Chelsea,Everton,2.0,0.0,2.0 - 0.0,Goodison Park,39280,5400.0 + 480.0
+English Premier League,2023-12-07T19:30Z,Everton,Newcastle United,Everton,3.0,0.0,3.0 - 0.0,Goodison Park,38198,5400.0 + 660.0
+English Premier League,2023-12-02T17:30Z,Nottingham Forest,Everton,Everton,0.0,1.0,0.0 - 1.0,The City Ground,29404,5400.0 + 240.0
+English Premier League,2023-11-26T16:30Z,Everton,Manchester United,Manchester United,0.0,3.0,0.0 - 3.0,Goodison Park,39257,5400.0 + 420.0
+English Premier League,2023-11-11T15:00Z,Crystal Palace,Everton,Everton,2.0,3.0,2.0 - 3.0,Selhurst Park,25103,5400.0 + 540.0
+English Premier League,2023-11-04T15:00Z,Everton,Brighton & Hove Albion,Draw,1.0,1.0,1.0 - 1.0,Goodison Park,38683,5400.0 + 300.0
+English Premier League,2023-10-29T13:00Z,West Ham United,Everton,Everton,0.0,1.0,0.0 - 1.0,London Stadium,62469,5400.0 + 420.0
+English Premier League,2023-10-21T11:30Z,Liverpool,Everton,Liverpool,2.0,0.0,2.0 - 0.0,Anfield,50201,5400.0 + 600.0
+English Premier League,2023-10-07T14:00Z,Everton,AFC Bournemouth,Everton,3.0,0.0,3.0 - 0.0,Goodison Park,38815,5400.0 + 300.0
+English Premier League,2023-09-30T14:00Z,Everton,Luton Town,Luton Town,1.0,2.0,1.0 - 2.0,Goodison Park,39289,5400.0 + 480.0
+English Premier League,2023-09-23T16:30Z,Brentford,Everton,Everton,1.0,3.0,1.0 - 3.0,Gtech Community Stadium,16981,5400.0 + 420.0
+English Premier League,2023-09-17T15:30Z,Everton,Arsenal,Arsenal,0.0,1.0,0.0 - 1.0,Goodison Park,39217,5400.0 + 300.0
+English Premier League,2023-09-02T11:30Z,Sheffield United,Everton,Draw,2.0,2.0,2.0 - 2.0,Bramall Lane,31124,5400.0 + 540.0
+English Premier League,2023-08-26T14:00Z,Everton,Wolverhampton Wanderers,Wolverhampton Wanderers,0.0,1.0,0.0 - 1.0,Goodison Park,38851,5400.0 + 420.0
+English Premier League,2023-08-20T13:00Z,Aston Villa,Everton,Aston Villa,4.0,0.0,4.0 - 0.0,Villa Park,41694,5400.0 + 600.0
+English Premier League,2023-08-12T14:00Z,Everton,Fulham,Fulham,0.0,1.0,0.0 - 1.0,Goodison Park,39940,5400.0 + 420.0

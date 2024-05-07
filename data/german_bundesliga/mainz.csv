@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-05T17:30Z,1. FC Heidenheim 1846,Mainz,Draw,1.0,1.0,1.0 - 1.0,Voith-Arena,15000,5400.0 + 240.0
+German Bundesliga,2024-04-28T15:30Z,Mainz,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,33305,5400.0 + 840.0
+German Bundesliga,2024-04-21T17:30Z,SC Freiburg,Mainz,Draw,1.0,1.0,1.0 - 1.0,Europa-Park Stadion,34300,5400.0 + 240.0
+German Bundesliga,2024-04-13T13:30Z,Mainz,TSG Hoffenheim,Mainz,4.0,1.0,4.0 - 1.0,MEWA ARENA,31000,5400.0 + 120.0
+German Bundesliga,2024-04-06T13:30Z,Mainz,SV Darmstadt 98,Mainz,4.0,0.0,4.0 - 0.0,MEWA ARENA,33000,5400.0 + 300.0
+German Bundesliga,2024-03-30T14:30Z,RB Leipzig,Mainz,Draw,0.0,0.0,0.0 - 0.0,Red Bull Arena,44813,5400.0 + 420.0
+German Bundesliga,2024-03-16T14:30Z,Mainz,VfL Bochum,Mainz,2.0,0.0,2.0 - 0.0,MEWA ARENA,33000,5400.0 + 420.0
+German Bundesliga,2024-03-09T14:30Z,Bayern Munich,Mainz,Bayern Munich,8.0,1.0,8.0 - 1.0,Allianz Arena,75000,5400.0 + 240.0
+German Bundesliga,2024-03-02T14:30Z,Mainz,Borussia Monchengladbach,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,33305,5400.0 + 300.0
+German Bundesliga,2024-02-23T19:30Z,Bayer Leverkusen,Mainz,Bayer Leverkusen,2.0,1.0,2.0 - 1.0,BayArena,30210,5400.0 + 300.0
+German Bundesliga,2024-02-17T14:30Z,Mainz,FC Augsburg,Mainz,1.0,0.0,1.0 - 0.0,MEWA ARENA,24800,5400.0 + 960.0
+German Bundesliga,2024-02-11T14:30Z,VfB Stuttgart,Mainz,VfB Stuttgart,3.0,1.0,3.0 - 1.0,MHPArena,52500,5400.0 + 300.0
+German Bundesliga,2024-02-07T17:30Z,Mainz,1. FC Union Berlin,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,26200,5400.0 + 300.0
+German Bundesliga,2024-02-03T14:30Z,Mainz,Werder Bremen,Werder Bremen,0.0,1.0,0.0 - 1.0,MEWA ARENA,31800,5400.0 + 420.0
+German Bundesliga,2024-01-26T19:30Z,Eintracht Frankfurt,Mainz,Eintracht Frankfurt,1.0,0.0,1.0 - 0.0,Deutsche Bank Park,58000,5400.0 + 360.0
+German Bundesliga,2024-01-13T14:30Z,Mainz,VfL Wolfsburg,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,24000,5400.0 + 300.0
+German Bundesliga,2023-12-19T19:30Z,Borussia Dortmund,Mainz,Draw,1.0,1.0,1.0 - 1.0,SIGNAL IDUNA PARK,80350,5400.0 + 360.0
+German Bundesliga,2023-12-16T14:30Z,Mainz,1. FC Heidenheim 1846,1. FC Heidenheim 1846,0.0,1.0,0.0 - 1.0,MEWA ARENA,27200,5400.0 + 360.0
+German Bundesliga,2023-12-10T16:30Z,FC Cologne,Mainz,Draw,0.0,0.0,0.0 - 0.0,RheinEnergieStadion,50000,5400.0 + 240.0
+German Bundesliga,2023-12-03T14:30Z,Mainz,SC Freiburg,SC Freiburg,0.0,1.0,0.0 - 1.0,MEWA ARENA,30300,5400.0 + 420.0
+German Bundesliga,2023-11-26T16:30Z,TSG Hoffenheim,Mainz,Draw,1.0,1.0,1.0 - 1.0,PreZero Arena,22000,5400.0 + 360.0
+German Bundesliga,2023-11-11T14:30Z,SV Darmstadt 98,Mainz,Draw,0.0,0.0,0.0 - 0.0,Merck-Stadion am Böllenfalltor,17810,5400.0 + 300.0
+German Bundesliga,2023-11-04T14:30Z,Mainz,RB Leipzig,Mainz,2.0,0.0,2.0 - 0.0,MEWA ARENA,30100,5400.0 + 360.0
+German Bundesliga,2023-10-27T18:30Z,VfL Bochum,Mainz,Draw,2.0,2.0,2.0 - 2.0,Vonovia Ruhrstadion,26000,5400.0 + 420.0
+German Bundesliga,2023-10-21T16:30Z,Mainz,Bayern Munich,Bayern Munich,1.0,3.0,1.0 - 3.0,MEWA ARENA,33305,5400.0 + 360.0
+German Bundesliga,2023-10-06T18:30Z,Borussia Monchengladbach,Mainz,Draw,2.0,2.0,2.0 - 2.0,Borussia-Park,51529,5400.0 + 360.0
+German Bundesliga,2023-09-30T13:30Z,Mainz,Bayer Leverkusen,Bayer Leverkusen,0.0,3.0,0.0 - 3.0,MEWA ARENA,33305,5400.0 + 300.0
+German Bundesliga,2023-09-23T13:30Z,FC Augsburg,Mainz,FC Augsburg,2.0,1.0,2.0 - 1.0,WWK Arena,27310,5400.0 + 480.0
+German Bundesliga,2023-09-16T13:30Z,Mainz,VfB Stuttgart,VfB Stuttgart,1.0,3.0,1.0 - 3.0,MEWA ARENA,30500,5400.0 + 420.0
+German Bundesliga,2023-09-02T13:30Z,Werder Bremen,Mainz,Werder Bremen,4.0,0.0,4.0 - 0.0,wohninvest WESERSTADION,41000,5400.0 + 300.0
+German Bundesliga,2023-08-27T13:30Z,Mainz,Eintracht Frankfurt,Draw,1.0,1.0,1.0 - 1.0,MEWA ARENA,33305,5400.0 + 420.0
+German Bundesliga,2023-08-20T13:30Z,1. FC Union Berlin,Mainz,1. FC Union Berlin,4.0,1.0,4.0 - 1.0,An der alten Försterei,22012,5400.0 + 420.0

@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T11:30Z,Arsenal,AFC Bournemouth,Arsenal,3.0,0.0,3.0 - 0.0,Emirates Stadium,60348,5400.0 + 540.0
+English Premier League,2024-04-28T13:00Z,Tottenham Hotspur,Arsenal,Arsenal,2.0,3.0,2.0 - 3.0,Tottenham Hotspur Stadium,61554,5400.0 + 420.0
+English Premier League,2024-04-23T19:00Z,Arsenal,Chelsea,Arsenal,5.0,0.0,5.0 - 0.0,Emirates Stadium,60238,5400.0 + 480.0
+English Premier League,2024-04-20T18:30Z,Wolverhampton Wanderers,Arsenal,Arsenal,0.0,2.0,0.0 - 2.0,Molineux Stadium,31621,5400.0 + 420.0
+English Premier League,2024-04-14T15:30Z,Arsenal,Aston Villa,Aston Villa,0.0,2.0,0.0 - 2.0,Emirates Stadium,60350,5400.0 + 540.0
+English Premier League,2024-04-06T16:30Z,Brighton & Hove Albion,Arsenal,Arsenal,0.0,3.0,0.0 - 3.0,American Express Stadium,31677,5400.0 + 360.0
+English Premier League,2024-04-03T18:30Z,Arsenal,Luton Town,Arsenal,2.0,0.0,2.0 - 0.0,Emirates Stadium,60262,5400.0 + 240.0
+English Premier League,2024-03-31T15:30Z,Manchester City,Arsenal,Draw,0.0,0.0,0.0 - 0.0,Etihad Stadium,53422,5400.0 + 360.0
+English Premier League,2024-03-09T17:30Z,Arsenal,Brentford,Arsenal,2.0,1.0,2.0 - 1.0,Emirates Stadium,60331,5400.0 + 600.0
+English Premier League,2024-03-04T20:00Z,Sheffield United,Arsenal,Arsenal,0.0,6.0,0.0 - 6.0,Bramall Lane,29980,5400.0 + 360.0
+English Premier League,2024-02-24T20:00Z,Arsenal,Newcastle United,Arsenal,4.0,1.0,4.0 - 1.0,Emirates Stadium,60298,5400.0 + 360.0
+English Premier League,2024-02-17T15:00Z,Burnley,Arsenal,Arsenal,0.0,5.0,0.0 - 5.0,Turf Moor,21311,5400.0 + 660.0
+English Premier League,2024-02-11T14:00Z,West Ham United,Arsenal,Arsenal,0.0,6.0,0.0 - 6.0,London Stadium,62474,5400.0 + 240.0
+English Premier League,2024-02-04T16:30Z,Arsenal,Liverpool,Arsenal,3.0,1.0,3.0 - 1.0,Emirates Stadium,60374,5400.0 + 480.0
+English Premier League,2024-01-30T19:30Z,Nottingham Forest,Arsenal,Arsenal,1.0,2.0,1.0 - 2.0,The City Ground,29387,5400.0 + 480.0
+English Premier League,2024-01-20T12:30Z,Arsenal,Crystal Palace,Arsenal,5.0,0.0,5.0 - 0.0,Emirates Stadium,60284,5400.0 + 420.0
+English Premier League,2023-12-31T14:00Z,Fulham,Arsenal,Fulham,2.0,1.0,2.0 - 1.0,Craven Cottage,24444,5400.0 + 420.0
+English Premier League,2023-12-28T20:15Z,Arsenal,West Ham United,West Ham United,0.0,2.0,0.0 - 2.0,Emirates Stadium,60261,5400.0 + 360.0
+English Premier League,2023-12-23T17:30Z,Liverpool,Arsenal,Draw,1.0,1.0,1.0 - 1.0,Anfield,57548,5400.0 + 360.0
+English Premier League,2023-12-17T14:00Z,Arsenal,Brighton & Hove Albion,Arsenal,2.0,0.0,2.0 - 0.0,Emirates Stadium,60257,5400.0 + 420.0
+English Premier League,2023-12-09T17:30Z,Aston Villa,Arsenal,Aston Villa,1.0,0.0,1.0 - 0.0,Villa Park,42000,5400.0 + 540.0
+English Premier League,2023-12-05T20:15Z,Luton Town,Arsenal,Arsenal,3.0,4.0,3.0 - 4.0,Kenilworth Road,11112,5400.0 + 540.0
+English Premier League,2023-12-02T15:00Z,Arsenal,Wolverhampton Wanderers,Arsenal,2.0,1.0,2.0 - 1.0,Emirates Stadium,60262,5400.0 + 540.0
+English Premier League,2023-11-25T17:30Z,Brentford,Arsenal,Arsenal,0.0,1.0,0.0 - 1.0,Gtech Community Stadium,17201,5400.0 + 300.0
+English Premier League,2023-11-11T15:00Z,Arsenal,Burnley,Arsenal,3.0,1.0,3.0 - 1.0,Emirates Stadium,60232,5400.0 + 660.0
+English Premier League,2023-11-04T17:30Z,Newcastle United,Arsenal,Newcastle United,1.0,0.0,1.0 - 0.0,St. James' Park,52194,5400.0 + 540.0
+English Premier League,2023-10-28T14:00Z,Arsenal,Sheffield United,Arsenal,5.0,0.0,5.0 - 0.0,Emirates Stadium,60153,5400.0 + 720.0
+English Premier League,2023-10-21T16:30Z,Chelsea,Arsenal,Draw,2.0,2.0,2.0 - 2.0,Stamford Bridge,39723,5400.0 + 480.0
+English Premier League,2023-10-08T15:30Z,Arsenal,Manchester City,Arsenal,1.0,0.0,1.0 - 0.0,Emirates Stadium,60233,5400.0 + 300.0
+English Premier League,2023-09-30T14:00Z,AFC Bournemouth,Arsenal,Arsenal,0.0,4.0,0.0 - 4.0,Vitality Stadium,11193,5400.0 + 480.0
+English Premier League,2023-09-24T13:00Z,Arsenal,Tottenham Hotspur,Draw,2.0,2.0,2.0 - 2.0,Emirates Stadium,60156,5400.0 + 660.0
+English Premier League,2023-09-17T15:30Z,Everton,Arsenal,Arsenal,0.0,1.0,0.0 - 1.0,Goodison Park,39217,5400.0 + 300.0
+English Premier League,2023-09-03T15:30Z,Arsenal,Manchester United,Arsenal,3.0,1.0,3.0 - 1.0,Emirates Stadium,60192,5400.0 + 780.0
+English Premier League,2023-08-26T14:00Z,Arsenal,Fulham,Draw,2.0,2.0,2.0 - 2.0,Emirates Stadium,59961,5400.0 + 660.0
+English Premier League,2023-08-21T19:00Z,Crystal Palace,Arsenal,Arsenal,0.0,1.0,0.0 - 1.0,Selhurst Park,24189,5400.0 + 480.0
+English Premier League,2023-08-12T12:00Z,Arsenal,Nottingham Forest,Arsenal,2.0,1.0,2.0 - 1.0,Emirates Stadium,59984,5400.0 + 540.0

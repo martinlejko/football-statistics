@@ -1,0 +1,33 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+German Bundesliga,2024-05-04T13:30Z,VfB Stuttgart,Bayern Munich,VfB Stuttgart,3.0,1.0,3.0 - 1.0,MHPArena,60000,5400.0 + 300.0
+German Bundesliga,2024-04-27T16:30Z,Bayer Leverkusen,VfB Stuttgart,Draw,2.0,2.0,2.0 - 2.0,BayArena,30210,5400.0 + 480.0
+German Bundesliga,2024-04-21T13:30Z,Werder Bremen,VfB Stuttgart,Werder Bremen,2.0,1.0,2.0 - 1.0,wohninvest WESERSTADION,42100,5400.0 + 660.0
+German Bundesliga,2024-04-13T16:30Z,VfB Stuttgart,Eintracht Frankfurt,VfB Stuttgart,3.0,0.0,3.0 - 0.0,MHPArena,60000,5400.0 + 240.0
+German Bundesliga,2024-04-06T16:30Z,Borussia Dortmund,VfB Stuttgart,VfB Stuttgart,0.0,1.0,0.0 - 1.0,SIGNAL IDUNA PARK,81365,5400.0 + 600.0
+German Bundesliga,2024-03-31T15:30Z,VfB Stuttgart,1. FC Heidenheim 1846,Draw,3.0,3.0,3.0 - 3.0,MHPArena,60000,5400.0 + 540.0
+German Bundesliga,2024-03-16T17:30Z,TSG Hoffenheim,VfB Stuttgart,VfB Stuttgart,0.0,3.0,0.0 - 3.0,PreZero Arena,30150,5400.0 + 240.0
+German Bundesliga,2024-03-08T19:30Z,VfB Stuttgart,1. FC Union Berlin,VfB Stuttgart,2.0,0.0,2.0 - 0.0,MHPArena,53800,5400.0 + 300.0
+German Bundesliga,2024-03-02T17:30Z,VfL Wolfsburg,VfB Stuttgart,VfB Stuttgart,2.0,3.0,2.0 - 3.0,Volkswagen Arena,28917,5400.0 + 480.0
+German Bundesliga,2024-02-24T14:30Z,VfB Stuttgart,FC Cologne,Draw,1.0,1.0,1.0 - 1.0,MHPArena,54500,5400.0 + 360.0
+German Bundesliga,2024-02-17T14:30Z,SV Darmstadt 98,VfB Stuttgart,VfB Stuttgart,1.0,2.0,1.0 - 2.0,Merck-Stadion am Böllenfalltor,17810,5400.0 + 540.0
+German Bundesliga,2024-02-11T14:30Z,VfB Stuttgart,Mainz,VfB Stuttgart,3.0,1.0,3.0 - 1.0,MHPArena,52500,5400.0 + 300.0
+German Bundesliga,2024-02-03T14:30Z,SC Freiburg,VfB Stuttgart,VfB Stuttgart,1.0,3.0,1.0 - 3.0,Europa-Park Stadion,34700,5400.0 + 600.0
+German Bundesliga,2024-01-27T14:30Z,VfB Stuttgart,RB Leipzig,VfB Stuttgart,5.0,2.0,5.0 - 2.0,MHPArena,52100,5400.0 + 360.0
+German Bundesliga,2024-01-20T14:30Z,VfL Bochum,VfB Stuttgart,VfL Bochum,1.0,0.0,1.0 - 0.0,Vonovia Ruhrstadion,26000,5400.0 + 480.0
+German Bundesliga,2024-01-14T16:30Z,Borussia Monchengladbach,VfB Stuttgart,Borussia Monchengladbach,3.0,1.0,3.0 - 1.0,Borussia-Park,53429,5400.0 + 360.0
+German Bundesliga,2023-12-20T19:30Z,VfB Stuttgart,FC Augsburg,VfB Stuttgart,3.0,0.0,3.0 - 0.0,MHPArena,53600,5400.0 + 240.0
+German Bundesliga,2023-12-17T18:30Z,Bayern Munich,VfB Stuttgart,Bayern Munich,3.0,0.0,3.0 - 0.0,Allianz Arena,75000,5400.0 + 180.0
+German Bundesliga,2023-12-10T14:30Z,VfB Stuttgart,Bayer Leverkusen,Draw,1.0,1.0,1.0 - 1.0,MHPArena,54500,5400.0 + 360.0
+German Bundesliga,2023-12-02T17:30Z,VfB Stuttgart,Werder Bremen,VfB Stuttgart,2.0,0.0,2.0 - 0.0,MHPArena,54500,5400.0 + 360.0
+German Bundesliga,2023-11-25T17:30Z,Eintracht Frankfurt,VfB Stuttgart,VfB Stuttgart,1.0,2.0,1.0 - 2.0,Deutsche Bank Park,58000,5400.0 + 420.0
+German Bundesliga,2023-11-11T14:30Z,VfB Stuttgart,Borussia Dortmund,VfB Stuttgart,2.0,1.0,2.0 - 1.0,MHPArena,55000,5400.0 + 360.0
+German Bundesliga,2023-11-05T16:30Z,1. FC Heidenheim 1846,VfB Stuttgart,1. FC Heidenheim 1846,2.0,0.0,2.0 - 0.0,Voith-Arena,15000,5400.0 + 240.0
+German Bundesliga,2023-10-28T13:30Z,VfB Stuttgart,TSG Hoffenheim,TSG Hoffenheim,2.0,3.0,2.0 - 3.0,MHPArena,53200,5400.0 + 480.0
+German Bundesliga,2023-10-21T13:30Z,1. FC Union Berlin,VfB Stuttgart,VfB Stuttgart,0.0,3.0,0.0 - 3.0,An der alten Försterei,22012,5400.0 + 360.0
+German Bundesliga,2023-10-07T13:30Z,VfB Stuttgart,VfL Wolfsburg,VfB Stuttgart,3.0,1.0,3.0 - 1.0,MHPArena,52000,5400.0 + 480.0
+German Bundesliga,2023-09-30T13:30Z,FC Cologne,VfB Stuttgart,VfB Stuttgart,0.0,2.0,0.0 - 2.0,RheinEnergieStadion,50000,5400.0 + 360.0
+German Bundesliga,2023-09-22T18:30Z,VfB Stuttgart,SV Darmstadt 98,VfB Stuttgart,3.0,1.0,3.0 - 1.0,MHPArena,54000,5400.0 + 420.0
+German Bundesliga,2023-09-16T13:30Z,Mainz,VfB Stuttgart,VfB Stuttgart,1.0,3.0,1.0 - 3.0,MEWA ARENA,30500,5400.0 + 420.0
+German Bundesliga,2023-09-02T13:30Z,VfB Stuttgart,SC Freiburg,VfB Stuttgart,5.0,0.0,5.0 - 0.0,MHPArena,54300,5400.0 + 180.0
+German Bundesliga,2023-08-25T18:30Z,RB Leipzig,VfB Stuttgart,RB Leipzig,5.0,1.0,5.0 - 1.0,Red Bull Arena,46084,5400.0 + 360.0
+German Bundesliga,2023-08-19T13:30Z,VfB Stuttgart,VfL Bochum,VfB Stuttgart,5.0,0.0,5.0 - 0.0,MHPArena,53000,5400.0 + 60.0

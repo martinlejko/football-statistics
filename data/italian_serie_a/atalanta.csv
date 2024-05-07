@@ -1,0 +1,35 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-06T16:00Z,Salernitana,Atalanta,Atalanta,1.0,2.0,1.0 - 2.0,Arechi,0,5400.0 + 300.0
+Italian Serie A,2024-04-28T16:00Z,Atalanta,Empoli,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14614,5400.0 + 240.0
+Italian Serie A,2024-04-21T18:45Z,Monza,Atalanta,Atalanta,1.0,2.0,1.0 - 2.0,U-Power Stadium,13983,5400.0 + 360.0
+Italian Serie A,2024-04-15T18:45Z,Atalanta,Hellas Verona,Draw,2.0,2.0,2.0 - 2.0,Gewiss Stadium,14666,5400.0 + 360.0
+Italian Serie A,2024-04-07T16:00Z,Cagliari,Atalanta,Cagliari,2.0,1.0,2.0 - 1.0,Unipol Domus,16342,5400.0 + 420.0
+Italian Serie A,2024-03-30T11:30Z,Napoli,Atalanta,Atalanta,0.0,3.0,0.0 - 3.0,Diego Armando Maradona,49500,5400.0 + 300.0
+Italian Serie A,2024-03-10T17:00Z,Juventus,Atalanta,Draw,2.0,2.0,2.0 - 2.0,Allianz Stadium,39206,5400.0 + 240.0
+Italian Serie A,2024-03-03T17:00Z,Atalanta,Bologna,Bologna,1.0,2.0,1.0 - 2.0,Gewiss Stadium,14931,5400.0 + 300.0
+Italian Serie A,2024-02-28T19:45Z,Internazionale,Atalanta,Internazionale,4.0,0.0,4.0 - 0.0,Stadio Giuseppe Meazza,71422,5400.0 + 300.0
+Italian Serie A,2024-02-25T19:45Z,AC Milan,Atalanta,Draw,1.0,1.0,1.0 - 1.0,Stadio Giuseppe Meazza,71264,5400.0 + 360.0
+Italian Serie A,2024-02-17T19:45Z,Atalanta,Sassuolo,Atalanta,3.0,0.0,3.0 - 0.0,Gewiss Stadium,14474,5400.0 + 240.0
+Italian Serie A,2024-02-11T17:00Z,Genoa,Atalanta,Atalanta,1.0,4.0,1.0 - 4.0,Luigi Ferraris,31201,5400.0 + 840.0
+Italian Serie A,2024-02-04T17:00Z,Atalanta,Lazio,Atalanta,3.0,1.0,3.0 - 1.0,Gewiss Stadium,14492,5400.0 + 300.0
+Italian Serie A,2024-01-27T14:00Z,Atalanta,Udinese,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14716,5400.0 + 240.0
+Italian Serie A,2024-01-15T19:45Z,Atalanta,Frosinone,Atalanta,5.0,0.0,5.0 - 0.0,Gewiss Stadium,14195,5400.0 + 240.0
+Italian Serie A,2024-01-07T19:45Z,AS Roma,Atalanta,Draw,1.0,1.0,1.0 - 1.0,Olimpico,60022,5400.0 + 360.0
+Italian Serie A,2023-12-30T11:30Z,Atalanta,Lecce,Atalanta,1.0,0.0,1.0 - 0.0,Gewiss Stadium,14864,5400.0 + 360.0
+Italian Serie A,2023-12-23T14:00Z,Bologna,Atalanta,Bologna,1.0,0.0,1.0 - 0.0,Renato Dall'Ara,28082,5400.0 + 360.0
+Italian Serie A,2023-12-18T19:45Z,Atalanta,Salernitana,Atalanta,4.0,1.0,4.0 - 1.0,Gewiss Stadium,14264,5400.0 + 300.0
+Italian Serie A,2023-12-09T17:00Z,Atalanta,AC Milan,Atalanta,3.0,2.0,3.0 - 2.0,Gewiss Stadium,14907,5400.0 + 540.0
+Italian Serie A,2023-12-04T19:45Z,Torino,Atalanta,Torino,3.0,0.0,3.0 - 0.0,Olimpico Grande Torino,18507,5400.0 + 360.0
+Italian Serie A,2023-11-25T17:00Z,Atalanta,Napoli,Napoli,1.0,2.0,1.0 - 2.0,Gewiss Stadium,14743,5400.0 + 360.0
+Italian Serie A,2023-11-12T14:00Z,Udinese,Atalanta,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,23100,5400.0 + 300.0
+Italian Serie A,2023-11-04T17:00Z,Atalanta,Internazionale,Internazionale,1.0,2.0,1.0 - 2.0,Gewiss Stadium,14945,5400.0 + 420.0
+Italian Serie A,2023-10-30T17:30Z,Empoli,Atalanta,Atalanta,0.0,3.0,0.0 - 3.0,Stadio Carlo Castellani – Computer Gross Arena,7825,5400.0 + 300.0
+Italian Serie A,2023-10-22T16:00Z,Atalanta,Genoa,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14848,5400.0 + 480.0
+Italian Serie A,2023-10-08T13:00Z,Lazio,Atalanta,Lazio,3.0,2.0,3.0 - 2.0,Olimpico,41500,5400.0 + 300.0
+Italian Serie A,2023-10-01T16:00Z,Atalanta,Juventus,Draw,0.0,0.0,0.0 - 0.0,Gewiss Stadium,14811,5400.0 + 300.0
+Italian Serie A,2023-09-27T16:30Z,Hellas Verona,Atalanta,Atalanta,0.0,1.0,0.0 - 1.0,Stadio Marcantonio Bentegodi,15965,5400.0 + 360.0
+Italian Serie A,2023-09-24T13:00Z,Atalanta,Cagliari,Atalanta,2.0,0.0,2.0 - 0.0,Gewiss Stadium,14739,5400.0 + 240.0
+Italian Serie A,2023-09-17T16:00Z,Fiorentina,Atalanta,Fiorentina,3.0,2.0,3.0 - 2.0,Artemio Franchi,32100,5400.0 + 540.0
+Italian Serie A,2023-09-02T18:45Z,Atalanta,Monza,Atalanta,3.0,0.0,3.0 - 0.0,Gewiss Stadium,14985,5400.0 + 240.0
+Italian Serie A,2023-08-26T16:30Z,Frosinone,Atalanta,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,13426,5400.0 + 480.0
+Italian Serie A,2023-08-20T16:30Z,Sassuolo,Atalanta,Atalanta,0.0,2.0,0.0 - 2.0,MAPEI Stadium - Città del Tricolore,12298,5400.0 + 420.0

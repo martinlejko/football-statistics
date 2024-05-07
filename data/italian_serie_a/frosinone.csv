@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-05T13:00Z,Empoli,Frosinone,Draw,0.0,0.0,0.0 - 0.0,Stadio Carlo Castellani – Computer Gross Arena,13110,5400.0 + 300.0
+Italian Serie A,2024-04-26T18:45Z,Frosinone,Salernitana,Frosinone,3.0,0.0,3.0 - 0.0,Benito Stirpe,13728,5400.0 + 240.0
+Italian Serie A,2024-04-21T13:00Z,Torino,Frosinone,Draw,0.0,0.0,0.0 - 0.0,Olimpico Grande Torino,23728,5400.0 + 240.0
+Italian Serie A,2024-04-14T10:30Z,Napoli,Frosinone,Draw,2.0,2.0,2.0 - 2.0,Diego Armando Maradona,51000,5400.0 + 540.0
+Italian Serie A,2024-04-07T10:30Z,Frosinone,Bologna,Draw,0.0,0.0,0.0 - 0.0,Benito Stirpe,14896,5400.0 + 300.0
+Italian Serie A,2024-03-30T14:00Z,Genoa,Frosinone,Draw,1.0,1.0,1.0 - 1.0,Luigi Ferraris,31462,5400.0 + 480.0
+Italian Serie A,2024-03-16T19:45Z,Frosinone,Lazio,Lazio,2.0,3.0,2.0 - 3.0,Benito Stirpe,15780,5400.0 + 600.0
+Italian Serie A,2024-03-09T14:00Z,Sassuolo,Frosinone,Sassuolo,1.0,0.0,1.0 - 0.0,MAPEI Stadium - Città del Tricolore,11189,5400.0 + 420.0
+Italian Serie A,2024-03-03T14:00Z,Frosinone,Lecce,Draw,1.0,1.0,1.0 - 1.0,Benito Stirpe,15334,5400.0 + 480.0
+Italian Serie A,2024-02-25T11:30Z,Juventus,Frosinone,Juventus,3.0,2.0,3.0 - 2.0,Allianz Stadium,40719,5400.0 + 420.0
+Italian Serie A,2024-02-18T17:00Z,Frosinone,AS Roma,AS Roma,0.0,3.0,0.0 - 3.0,Benito Stirpe,16056,5400.0 + 240.0
+Italian Serie A,2024-02-11T11:30Z,Fiorentina,Frosinone,Fiorentina,5.0,1.0,5.0 - 1.0,Artemio Franchi,25397,5400.0 + 240.0
+Italian Serie A,2024-02-03T17:00Z,Frosinone,AC Milan,AC Milan,2.0,3.0,2.0 - 3.0,Benito Stirpe,16050,5400.0 + 300.0
+Italian Serie A,2024-01-28T14:00Z,Hellas Verona,Frosinone,Draw,1.0,1.0,1.0 - 1.0,Stadio Marcantonio Bentegodi,17529,5400.0 + 300.0
+Italian Serie A,2024-01-21T11:30Z,Frosinone,Cagliari,Frosinone,3.0,1.0,3.0 - 1.0,Benito Stirpe,13925,5400.0 + 420.0
+Italian Serie A,2024-01-15T19:45Z,Atalanta,Frosinone,Atalanta,5.0,0.0,5.0 - 0.0,Gewiss Stadium,14195,5400.0 + 240.0
+Italian Serie A,2024-01-06T14:00Z,Frosinone,Monza,Monza,2.0,3.0,2.0 - 3.0,Benito Stirpe,13146,5400.0 + 360.0
+Italian Serie A,2023-12-29T19:45Z,Lazio,Frosinone,Lazio,3.0,1.0,3.0 - 1.0,Olimpico,40000,5400.0 + 420.0
+Italian Serie A,2023-12-23T11:30Z,Frosinone,Juventus,Juventus,1.0,2.0,1.0 - 2.0,Benito Stirpe,16020,5400.0 + 360.0
+Italian Serie A,2023-12-16T14:00Z,Lecce,Frosinone,Lecce,2.0,1.0,2.0 - 1.0,Stadio Ettore Giardiniero - Via del Mare,23645,5400.0 + 360.0
+Italian Serie A,2023-12-10T11:30Z,Frosinone,Torino,Draw,0.0,0.0,0.0 - 0.0,Benito Stirpe,13807,5400.0 + 360.0
+Italian Serie A,2023-12-02T19:45Z,AC Milan,Frosinone,AC Milan,3.0,1.0,3.0 - 1.0,Stadio Giuseppe Meazza,68848,5400.0 + 360.0
+Italian Serie A,2023-11-26T14:00Z,Frosinone,Genoa,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,13999,5400.0 + 420.0
+Italian Serie A,2023-11-12T19:45Z,Internazionale,Frosinone,Internazionale,2.0,0.0,2.0 - 0.0,Stadio Giuseppe Meazza,70816,5400.0 + 300.0
+Italian Serie A,2023-11-06T17:30Z,Frosinone,Empoli,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,14755,5400.0 + 420.0
+Italian Serie A,2023-10-29T11:30Z,Cagliari,Frosinone,Cagliari,4.0,3.0,4.0 - 3.0,Unipol Domus,15936,5400.0 + 600.0
+Italian Serie A,2023-10-22T13:00Z,Bologna,Frosinone,Bologna,2.0,1.0,2.0 - 1.0,Renato Dall'Ara,26729,5400.0 + 360.0
+Italian Serie A,2023-10-08T13:00Z,Frosinone,Hellas Verona,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,13033,5400.0 + 600.0
+Italian Serie A,2023-10-01T18:45Z,AS Roma,Frosinone,AS Roma,2.0,0.0,2.0 - 0.0,Olimpico,62638,5400.0 + 540.0
+Italian Serie A,2023-09-28T16:30Z,Frosinone,Fiorentina,Draw,1.0,1.0,1.0 - 1.0,Benito Stirpe,14755,5400.0 + 360.0
+Italian Serie A,2023-09-22T16:30Z,Salernitana,Frosinone,Draw,1.0,1.0,1.0 - 1.0,Arechi,16217,5400.0 + 360.0
+Italian Serie A,2023-09-17T13:00Z,Frosinone,Sassuolo,Frosinone,4.0,2.0,4.0 - 2.0,Benito Stirpe,13133,5400.0 + 480.0
+Italian Serie A,2023-09-02T16:30Z,Udinese,Frosinone,Draw,0.0,0.0,0.0 - 0.0,Bluenergy Stadium,20116,5400.0 + 420.0
+Italian Serie A,2023-08-26T16:30Z,Frosinone,Atalanta,Frosinone,2.0,1.0,2.0 - 1.0,Benito Stirpe,13426,5400.0 + 480.0
+Italian Serie A,2023-08-19T16:30Z,Frosinone,Napoli,Napoli,1.0,3.0,1.0 - 3.0,Benito Stirpe,15822,5400.0 + 360.0

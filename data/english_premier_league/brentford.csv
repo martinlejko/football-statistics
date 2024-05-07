@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T14:00Z,Brentford,Fulham,Draw,0.0,0.0,0.0 - 0.0,Gtech Community Stadium,17090,5400.0 + 420.0
+English Premier League,2024-04-27T16:30Z,Everton,Brentford,Everton,1.0,0.0,1.0 - 0.0,Goodison Park,39098,5400.0 + 480.0
+English Premier League,2024-04-20T14:00Z,Luton Town,Brentford,Brentford,1.0,5.0,1.0 - 5.0,Kenilworth Road,11877,5400.0 + 420.0
+English Premier League,2024-04-13T14:00Z,Brentford,Sheffield United,Brentford,2.0,0.0,2.0 - 0.0,Gtech Community Stadium,17115,5400.0 + 540.0
+English Premier League,2024-04-06T14:00Z,Aston Villa,Brentford,Draw,3.0,3.0,3.0 - 3.0,Villa Park,42218,5400.0 + 540.0
+English Premier League,2024-04-03T18:30Z,Brentford,Brighton & Hove Albion,Draw,0.0,0.0,0.0 - 0.0,Gtech Community Stadium,17024,5400.0 + 240.0
+English Premier League,2024-03-30T20:00Z,Brentford,Manchester United,Draw,1.0,1.0,1.0 - 1.0,Gtech Community Stadium,17138,5400.0 + 840.0
+English Premier League,2024-03-16T15:00Z,Burnley,Brentford,Burnley,2.0,1.0,2.0 - 1.0,Turf Moor,20431,5400.0 + 780.0
+English Premier League,2024-03-09T17:30Z,Arsenal,Brentford,Arsenal,2.0,1.0,2.0 - 1.0,Emirates Stadium,60331,5400.0 + 600.0
+English Premier League,2024-03-02T15:00Z,Brentford,Chelsea,Draw,2.0,2.0,2.0 - 2.0,Gtech Community Stadium,17140,5400.0 + 360.0
+English Premier League,2024-02-26T20:00Z,West Ham United,Brentford,West Ham United,4.0,2.0,4.0 - 2.0,London Stadium,62450,5400.0 + 480.0
+English Premier League,2024-02-20T19:30Z,Manchester City,Brentford,Manchester City,1.0,0.0,1.0 - 0.0,Etihad Stadium,52137,5400.0 + 420.0
+English Premier League,2024-02-17T12:30Z,Brentford,Liverpool,Liverpool,1.0,4.0,1.0 - 4.0,Gtech Community Stadium,17193,5400.0 + 480.0
+English Premier League,2024-02-10T15:00Z,Wolverhampton Wanderers,Brentford,Brentford,0.0,2.0,0.0 - 2.0,Molineux Stadium,30731,5400.0 + 480.0
+English Premier League,2024-02-05T20:00Z,Brentford,Manchester City,Manchester City,1.0,3.0,1.0 - 3.0,Gtech Community Stadium,17096,5400.0 + 360.0
+English Premier League,2024-01-31T19:30Z,Tottenham Hotspur,Brentford,Tottenham Hotspur,3.0,2.0,3.0 - 2.0,Tottenham Hotspur Stadium,61210,5400.0 + 540.0
+English Premier League,2024-01-20T17:30Z,Brentford,Nottingham Forest,Brentford,3.0,2.0,3.0 - 2.0,Gtech Community Stadium,17077,5400.0 + 660.0
+English Premier League,2023-12-30T15:00Z,Crystal Palace,Brentford,Crystal Palace,3.0,1.0,3.0 - 1.0,Selhurst Park,25472,5400.0 + 300.0
+English Premier League,2023-12-27T19:30Z,Brentford,Wolverhampton Wanderers,Wolverhampton Wanderers,1.0,4.0,1.0 - 4.0,Gtech Community Stadium,17109,5400.0 + 420.0
+English Premier League,2023-12-17T14:00Z,Brentford,Aston Villa,Aston Villa,1.0,2.0,1.0 - 2.0,Gtech Community Stadium,17034,5400.0 + 780.0
+English Premier League,2023-12-09T15:00Z,Sheffield United,Brentford,Sheffield United,1.0,0.0,1.0 - 0.0,Bramall Lane,28509,5400.0 + 360.0
+English Premier League,2023-12-06T19:30Z,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,2.0,1.0,2.0 - 1.0,American Express Stadium,30760,5400.0 + 360.0
+English Premier League,2023-12-02T15:00Z,Brentford,Luton Town,Brentford,3.0,1.0,3.0 - 1.0,Gtech Community Stadium,17075,5400.0 + 540.0
+English Premier League,2023-11-25T17:30Z,Brentford,Arsenal,Arsenal,0.0,1.0,0.0 - 1.0,Gtech Community Stadium,17201,5400.0 + 300.0
+English Premier League,2023-11-12T14:00Z,Liverpool,Brentford,Liverpool,3.0,0.0,3.0 - 0.0,Anfield,50151,5400.0 + 420.0
+English Premier League,2023-11-04T15:00Z,Brentford,West Ham United,Brentford,3.0,2.0,3.0 - 2.0,Gtech Community Stadium,17103,5400.0 + 360.0
+English Premier League,2023-10-28T11:30Z,Chelsea,Brentford,Brentford,0.0,2.0,0.0 - 2.0,Stamford Bridge,39575,5400.0 + 480.0
+English Premier League,2023-10-21T14:00Z,Brentford,Burnley,Brentford,3.0,0.0,3.0 - 0.0,Gtech Community Stadium,17029,5400.0 + 480.0
+English Premier League,2023-10-07T14:00Z,Manchester United,Brentford,Manchester United,2.0,1.0,2.0 - 1.0,Old Trafford,73453,5400.0 + 480.0
+English Premier League,2023-10-01T13:00Z,Nottingham Forest,Brentford,Draw,1.0,1.0,1.0 - 1.0,The City Ground,29004,5400.0 + 840.0
+English Premier League,2023-09-23T16:30Z,Brentford,Everton,Everton,1.0,3.0,1.0 - 3.0,Gtech Community Stadium,16981,5400.0 + 420.0
+English Premier League,2023-09-16T16:30Z,Newcastle United,Brentford,Newcastle United,1.0,0.0,1.0 - 0.0,St. James' Park,51670,5400.0 + 600.0
+English Premier League,2023-09-02T14:00Z,Brentford,AFC Bournemouth,Draw,2.0,2.0,2.0 - 2.0,Gtech Community Stadium,16973,5400.0 + 420.0
+English Premier League,2023-08-26T14:00Z,Brentford,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,Gtech Community Stadium,16997,5400.0 + 360.0
+English Premier League,2023-08-19T14:00Z,Fulham,Brentford,Brentford,0.0,3.0,0.0 - 3.0,Craven Cottage,24236,5400.0 + 600.0
+English Premier League,2023-08-13T13:00Z,Brentford,Tottenham Hotspur,Draw,2.0,2.0,2.0 - 2.0,Gtech Community Stadium,17066,5400.0 + 300.0

@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-06T19:00Z,Crystal Palace,Manchester United,Crystal Palace,4.0,0.0,4.0 - 0.0,Selhurst Park,25190,5400.0 + 360.0
+English Premier League,2024-04-27T14:00Z,Fulham,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,Craven Cottage,24142,5400.0 + 480.0
+English Premier League,2024-04-24T19:00Z,Crystal Palace,Newcastle United,Crystal Palace,2.0,0.0,2.0 - 0.0,Selhurst Park,25002,5400.0 + 420.0
+English Premier League,2024-04-21T14:00Z,Crystal Palace,West Ham United,Crystal Palace,5.0,2.0,5.0 - 2.0,Selhurst Park,25145,5400.0 + 420.0
+English Premier League,2024-04-14T13:00Z,Liverpool,Crystal Palace,Crystal Palace,0.0,1.0,0.0 - 1.0,Anfield,60090,5400.0 + 480.0
+English Premier League,2024-04-06T11:30Z,Crystal Palace,Manchester City,Manchester City,2.0,4.0,2.0 - 4.0,Selhurst Park,25132,5400.0 + 480.0
+English Premier League,2024-04-02T18:45Z,AFC Bournemouth,Crystal Palace,AFC Bournemouth,1.0,0.0,1.0 - 0.0,Vitality Stadium,11207,5400.0 + 360.0
+English Premier League,2024-03-30T15:00Z,Nottingham Forest,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,The City Ground,29520,5400.0 + 420.0
+English Premier League,2024-03-09T15:00Z,Crystal Palace,Luton Town,Draw,1.0,1.0,1.0 - 1.0,Selhurst Park,25103,5400.0 + 480.0
+English Premier League,2024-03-02T15:00Z,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,3.0,1.0,3.0 - 1.0,Tottenham Hotspur Stadium,61339,5400.0 + 480.0
+English Premier League,2024-02-24T15:00Z,Crystal Palace,Burnley,Crystal Palace,3.0,0.0,3.0 - 0.0,Selhurst Park,24042,5400.0 + 840.0
+English Premier League,2024-02-19T20:00Z,Everton,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,Goodison Park,38164,5400.0 + 420.0
+English Premier League,2024-02-12T20:00Z,Crystal Palace,Chelsea,Chelsea,1.0,3.0,1.0 - 3.0,Selhurst Park,25110,5400.0 + 480.0
+English Premier League,2024-02-03T15:00Z,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,4.0,1.0,4.0 - 1.0,American Express Stadium,31345,5400.0 + 300.0
+English Premier League,2024-01-30T20:00Z,Crystal Palace,Sheffield United,Crystal Palace,3.0,2.0,3.0 - 2.0,Selhurst Park,0,5400.0 + 780.0
+English Premier League,2024-01-20T12:30Z,Arsenal,Crystal Palace,Arsenal,5.0,0.0,5.0 - 0.0,Emirates Stadium,60284,5400.0 + 420.0
+English Premier League,2023-12-30T15:00Z,Crystal Palace,Brentford,Crystal Palace,3.0,1.0,3.0 - 1.0,Selhurst Park,25472,5400.0 + 300.0
+English Premier League,2023-12-27T19:30Z,Chelsea,Crystal Palace,Chelsea,2.0,1.0,2.0 - 1.0,Stamford Bridge,39618,5400.0 + 540.0
+English Premier League,2023-12-21T20:00Z,Crystal Palace,Brighton & Hove Albion,Draw,1.0,1.0,1.0 - 1.0,Selhurst Park,24171,5400.0 + 360.0
+English Premier League,2023-12-16T15:00Z,Manchester City,Crystal Palace,Draw,2.0,2.0,2.0 - 2.0,Etihad Stadium,53112,5400.0 + 480.0
+English Premier League,2023-12-09T12:30Z,Crystal Palace,Liverpool,Liverpool,1.0,2.0,1.0 - 2.0,Selhurst Park,25103,5400.0 + 780.0
+English Premier League,2023-12-06T19:30Z,Crystal Palace,AFC Bournemouth,AFC Bournemouth,0.0,2.0,0.0 - 2.0,Selhurst Park,25078,5400.0 + 360.0
+English Premier League,2023-12-03T14:00Z,West Ham United,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,London Stadium,62459,5400.0 + 420.0
+English Premier League,2023-11-25T15:00Z,Luton Town,Crystal Palace,Luton Town,2.0,1.0,2.0 - 1.0,Kenilworth Road,11029,5400.0 + 780.0
+English Premier League,2023-11-11T15:00Z,Crystal Palace,Everton,Everton,2.0,3.0,2.0 - 3.0,Selhurst Park,25103,5400.0 + 540.0
+English Premier League,2023-11-04T15:00Z,Burnley,Crystal Palace,Crystal Palace,0.0,2.0,0.0 - 2.0,Turf Moor,21578,5400.0 + 420.0
+English Premier League,2023-10-27T19:00Z,Crystal Palace,Tottenham Hotspur,Tottenham Hotspur,1.0,2.0,1.0 - 2.0,Selhurst Park,25074,5400.0 + 780.0
+English Premier League,2023-10-21T14:00Z,Newcastle United,Crystal Palace,Newcastle United,4.0,0.0,4.0 - 0.0,St. James' Park,52189,5400.0 + 300.0
+English Premier League,2023-10-07T16:30Z,Crystal Palace,Nottingham Forest,Draw,0.0,0.0,0.0 - 0.0,Selhurst Park,25017,5400.0 + 360.0
+English Premier League,2023-09-30T14:00Z,Manchester United,Crystal Palace,Crystal Palace,0.0,1.0,0.0 - 1.0,Old Trafford,73428,5400.0 + 300.0
+English Premier League,2023-09-23T14:00Z,Crystal Palace,Fulham,Draw,0.0,0.0,0.0 - 0.0,Selhurst Park,25072,5400.0 + 240.0
+English Premier League,2023-09-16T14:00Z,Aston Villa,Crystal Palace,Aston Villa,3.0,1.0,3.0 - 1.0,Villa Park,40809,5400.0 + 1020.0
+English Premier League,2023-09-03T13:00Z,Crystal Palace,Wolverhampton Wanderers,Crystal Palace,3.0,2.0,3.0 - 2.0,Selhurst Park,24741,5400.0 + 420.0
+English Premier League,2023-08-26T14:00Z,Brentford,Crystal Palace,Draw,1.0,1.0,1.0 - 1.0,Gtech Community Stadium,16997,5400.0 + 360.0
+English Premier League,2023-08-21T19:00Z,Crystal Palace,Arsenal,Arsenal,0.0,1.0,0.0 - 1.0,Selhurst Park,24189,5400.0 + 480.0
+English Premier League,2023-08-12T14:00Z,Sheffield United,Crystal Palace,Crystal Palace,0.0,1.0,0.0 - 1.0,Bramall Lane,31194,5400.0 + 360.0

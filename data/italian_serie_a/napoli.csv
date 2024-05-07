@@ -1,0 +1,36 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+Italian Serie A,2024-05-06T18:45Z,Udinese,Napoli,Draw,1.0,1.0,1.0 - 1.0,Bluenergy Stadium,0,5400.0 + 360.0
+Italian Serie A,2024-04-28T16:00Z,Napoli,AS Roma,Draw,2.0,2.0,2.0 - 2.0,Diego Armando Maradona,45000,5400.0 + 360.0
+Italian Serie A,2024-04-20T16:00Z,Empoli,Napoli,Empoli,1.0,0.0,1.0 - 0.0,Stadio Carlo Castellani – Computer Gross Arena,12916,5400.0 + 300.0
+Italian Serie A,2024-04-14T10:30Z,Napoli,Frosinone,Draw,2.0,2.0,2.0 - 2.0,Diego Armando Maradona,51000,5400.0 + 540.0
+Italian Serie A,2024-04-07T13:00Z,Monza,Napoli,Napoli,2.0,4.0,2.0 - 4.0,U-Power Stadium,13169,5400.0 + 300.0
+Italian Serie A,2024-03-30T11:30Z,Napoli,Atalanta,Atalanta,0.0,3.0,0.0 - 3.0,Diego Armando Maradona,49500,5400.0 + 300.0
+Italian Serie A,2024-03-17T19:45Z,Internazionale,Napoli,Draw,1.0,1.0,1.0 - 1.0,Stadio Giuseppe Meazza,71551,5400.0 + 240.0
+Italian Serie A,2024-03-08T19:45Z,Napoli,Torino,Draw,1.0,1.0,1.0 - 1.0,Diego Armando Maradona,47000,5400.0 + 480.0
+Italian Serie A,2024-03-03T19:45Z,Napoli,Juventus,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,50000,5400.0 + 360.0
+Italian Serie A,2024-02-28T17:00Z,Sassuolo,Napoli,Napoli,1.0,6.0,1.0 - 6.0,MAPEI Stadium - Città del Tricolore,17085,5400.0 + 60.0
+Italian Serie A,2024-02-25T14:00Z,Cagliari,Napoli,Draw,1.0,1.0,1.0 - 1.0,Unipol Domus,16382,5400.0 + 480.0
+Italian Serie A,2024-02-17T14:00Z,Napoli,Genoa,Draw,1.0,1.0,1.0 - 1.0,Diego Armando Maradona,50000,5400.0 + 480.0
+Italian Serie A,2024-02-11T19:45Z,AC Milan,Napoli,AC Milan,1.0,0.0,1.0 - 0.0,Stadio Giuseppe Meazza,73891,5400.0 + 420.0
+Italian Serie A,2024-02-04T14:00Z,Napoli,Hellas Verona,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,44000,5400.0 + 360.0
+Italian Serie A,2024-01-28T17:00Z,Lazio,Napoli,Draw,0.0,0.0,0.0 - 0.0,Olimpico,33000,5400.0 + 360.0
+Italian Serie A,2024-01-13T14:00Z,Napoli,Salernitana,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,40000,5400.0 + 660.0
+Italian Serie A,2024-01-07T14:00Z,Torino,Napoli,Torino,3.0,0.0,3.0 - 0.0,Olimpico Grande Torino,23960,5400.0 + 240.0
+Italian Serie A,2023-12-29T17:30Z,Napoli,Monza,Draw,0.0,0.0,0.0 - 0.0,Diego Armando Maradona,50636,5400.0 + 420.0
+Italian Serie A,2023-12-23T19:45Z,AS Roma,Napoli,AS Roma,2.0,0.0,2.0 - 0.0,Olimpico,62141,5400.0 + 420.0
+Italian Serie A,2023-12-16T17:30Z,Napoli,Cagliari,Napoli,2.0,1.0,2.0 - 1.0,Diego Armando Maradona,45000,5400.0 + 480.0
+Italian Serie A,2023-12-08T19:45Z,Juventus,Napoli,Juventus,1.0,0.0,1.0 - 0.0,Allianz Stadium,41400,5400.0 + 360.0
+Italian Serie A,2023-12-03T19:45Z,Napoli,Internazionale,Internazionale,0.0,3.0,0.0 - 3.0,Diego Armando Maradona,51000,5400.0 + 180.0
+Italian Serie A,2023-11-25T17:00Z,Atalanta,Napoli,Napoli,1.0,2.0,1.0 - 2.0,Gewiss Stadium,14743,5400.0 + 360.0
+Italian Serie A,2023-11-12T11:30Z,Napoli,Empoli,Empoli,0.0,1.0,0.0 - 1.0,Diego Armando Maradona,50500,5400.0 + 360.0
+Italian Serie A,2023-11-04T14:00Z,Salernitana,Napoli,Napoli,0.0,2.0,0.0 - 2.0,Arechi,16812,5400.0 + 300.0
+Italian Serie A,2023-10-29T19:45Z,Napoli,AC Milan,Draw,2.0,2.0,2.0 - 2.0,Diego Armando Maradona,52250,5400.0 + 300.0
+Italian Serie A,2023-10-21T13:00Z,Hellas Verona,Napoli,Napoli,1.0,3.0,1.0 - 3.0,Stadio Marcantonio Bentegodi,20549,5400.0 + 300.0
+Italian Serie A,2023-10-08T18:45Z,Napoli,Fiorentina,Fiorentina,1.0,3.0,1.0 - 3.0,Diego Armando Maradona,47500,5400.0 + 360.0
+Italian Serie A,2023-09-30T13:00Z,Lecce,Napoli,Napoli,0.0,4.0,0.0 - 4.0,Stadio Ettore Giardiniero - Via del Mare,27588,5400.0 + 360.0
+Italian Serie A,2023-09-27T18:45Z,Napoli,Udinese,Napoli,4.0,1.0,4.0 - 1.0,Diego Armando Maradona,45305,5400.0 + 240.0
+Italian Serie A,2023-09-24T16:00Z,Bologna,Napoli,Draw,0.0,0.0,0.0 - 0.0,Renato Dall'Ara,26621,5400.0 + 420.0
+Italian Serie A,2023-09-16T18:45Z,Genoa,Napoli,Draw,2.0,2.0,2.0 - 2.0,Luigi Ferraris,33275,5400.0 + 420.0
+Italian Serie A,2023-09-02T18:45Z,Napoli,Lazio,Lazio,1.0,2.0,1.0 - 2.0,Diego Armando Maradona,42765,5400.0 + 540.0
+Italian Serie A,2023-08-27T18:45Z,Napoli,Sassuolo,Napoli,2.0,0.0,2.0 - 0.0,Diego Armando Maradona,46925,5400.0 + 360.0
+Italian Serie A,2023-08-19T16:30Z,Frosinone,Napoli,Napoli,1.0,3.0,1.0 - 3.0,Benito Stirpe,15822,5400.0 + 360.0

@@ -1,0 +1,37 @@
+league,date,home_team,away_team,winner,home_team_goals,away_team_goals,score,venue,attendance,duration
+English Premier League,2024-05-04T16:30Z,Manchester City,Wolverhampton Wanderers,Manchester City,5.0,1.0,5.0 - 1.0,Etihad Stadium,0,5400.0 + 300.0
+English Premier League,2024-04-27T14:00Z,Wolverhampton Wanderers,Luton Town,Wolverhampton Wanderers,2.0,1.0,2.0 - 1.0,Molineux Stadium,31531,5400.0 + 420.0
+English Premier League,2024-04-24T18:45Z,Wolverhampton Wanderers,AFC Bournemouth,AFC Bournemouth,0.0,1.0,0.0 - 1.0,Molineux Stadium,25541,5400.0 + 780.0
+English Premier League,2024-04-20T18:30Z,Wolverhampton Wanderers,Arsenal,Arsenal,0.0,2.0,0.0 - 2.0,Molineux Stadium,31621,5400.0 + 420.0
+English Premier League,2024-04-13T14:00Z,Nottingham Forest,Wolverhampton Wanderers,Draw,2.0,2.0,2.0 - 2.0,The City Ground,29604,5400.0 + 420.0
+English Premier League,2024-04-06T14:00Z,Wolverhampton Wanderers,West Ham United,West Ham United,1.0,2.0,1.0 - 2.0,Molineux Stadium,31504,5400.0 + 840.0
+English Premier League,2024-04-02T18:45Z,Burnley,Wolverhampton Wanderers,Draw,1.0,1.0,1.0 - 1.0,Turf Moor,21528,5400.0 + 300.0
+English Premier League,2024-03-30T17:30Z,Aston Villa,Wolverhampton Wanderers,Aston Villa,2.0,0.0,2.0 - 0.0,Villa Park,42640,5400.0 + 600.0
+English Premier League,2024-03-09T15:00Z,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,2.0,1.0,2.0 - 1.0,Molineux Stadium,30860,5400.0 + 600.0
+English Premier League,2024-03-02T15:00Z,Newcastle United,Wolverhampton Wanderers,Newcastle United,3.0,0.0,3.0 - 0.0,St. James' Park,52206,5400.0 + 360.0
+English Premier League,2024-02-25T13:30Z,Wolverhampton Wanderers,Sheffield United,Wolverhampton Wanderers,1.0,0.0,1.0 - 0.0,Molineux Stadium,30789,5400.0 + 360.0
+English Premier League,2024-02-17T15:00Z,Tottenham Hotspur,Wolverhampton Wanderers,Wolverhampton Wanderers,1.0,2.0,1.0 - 2.0,Tottenham Hotspur Stadium,61532,5400.0 + 360.0
+English Premier League,2024-02-10T15:00Z,Wolverhampton Wanderers,Brentford,Brentford,0.0,2.0,0.0 - 2.0,Molineux Stadium,30731,5400.0 + 480.0
+English Premier League,2024-02-04T14:00Z,Chelsea,Wolverhampton Wanderers,Wolverhampton Wanderers,2.0,4.0,2.0 - 4.0,Stamford Bridge,39628,5400.0 + 660.0
+English Premier League,2024-02-01T20:15Z,Wolverhampton Wanderers,Manchester United,Manchester United,3.0,4.0,3.0 - 4.0,Molineux Stadium,31641,5400.0 + 720.0
+English Premier League,2024-01-22T19:45Z,Brighton & Hove Albion,Wolverhampton Wanderers,Draw,0.0,0.0,0.0 - 0.0,American Express Stadium,31505,5400.0 + 240.0
+English Premier League,2023-12-30T15:00Z,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,3.0,0.0,3.0 - 0.0,Molineux Stadium,31639,5400.0 + 600.0
+English Premier League,2023-12-27T19:30Z,Brentford,Wolverhampton Wanderers,Wolverhampton Wanderers,1.0,4.0,1.0 - 4.0,Gtech Community Stadium,17109,5400.0 + 420.0
+English Premier League,2023-12-24T13:00Z,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,2.0,1.0,2.0 - 1.0,Molineux Stadium,31641,5400.0 + 780.0
+English Premier League,2023-12-17T14:00Z,West Ham United,Wolverhampton Wanderers,West Ham United,3.0,0.0,3.0 - 0.0,London Stadium,62455,5400.0 + 480.0
+English Premier League,2023-12-09T15:00Z,Wolverhampton Wanderers,Nottingham Forest,Draw,1.0,1.0,1.0 - 1.0,Molineux Stadium,31543,5400.0 + 300.0
+English Premier League,2023-12-05T19:30Z,Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers,1.0,0.0,1.0 - 0.0,Molineux Stadium,30439,5400.0 + 360.0
+English Premier League,2023-12-02T15:00Z,Arsenal,Wolverhampton Wanderers,Arsenal,2.0,1.0,2.0 - 1.0,Emirates Stadium,60262,5400.0 + 540.0
+English Premier League,2023-11-27T20:00Z,Fulham,Wolverhampton Wanderers,Fulham,3.0,2.0,3.0 - 2.0,Craven Cottage,24366,5400.0 + 720.0
+English Premier League,2023-11-11T12:30Z,Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,2.0,1.0,2.0 - 1.0,Molineux Stadium,31642,5400.0 + 540.0
+English Premier League,2023-11-04T15:00Z,Sheffield United,Wolverhampton Wanderers,Sheffield United,2.0,1.0,2.0 - 1.0,Bramall Lane,29454,5400.0 + 660.0
+English Premier League,2023-10-28T16:30Z,Wolverhampton Wanderers,Newcastle United,Draw,2.0,2.0,2.0 - 2.0,Molineux Stadium,31584,5400.0 + 540.0
+English Premier League,2023-10-21T14:00Z,AFC Bournemouth,Wolverhampton Wanderers,Wolverhampton Wanderers,1.0,2.0,1.0 - 2.0,Vitality Stadium,11175,5400.0 + 420.0
+English Premier League,2023-10-08T13:00Z,Wolverhampton Wanderers,Aston Villa,Draw,1.0,1.0,1.0 - 1.0,Molineux Stadium,0,5400.0 + 840.0
+English Premier League,2023-09-30T14:00Z,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,2.0,1.0,2.0 - 1.0,Molineux Stadium,31415,5400.0 + 420.0
+English Premier League,2023-09-23T14:00Z,Luton Town,Wolverhampton Wanderers,Draw,1.0,1.0,1.0 - 1.0,Kenilworth Road,10893,5400.0 + 540.0
+English Premier League,2023-09-16T11:30Z,Wolverhampton Wanderers,Liverpool,Liverpool,1.0,3.0,1.0 - 3.0,Molineux Stadium,31257,5400.0 + 720.0
+English Premier League,2023-09-03T13:00Z,Crystal Palace,Wolverhampton Wanderers,Crystal Palace,3.0,2.0,3.0 - 2.0,Selhurst Park,24741,5400.0 + 420.0
+English Premier League,2023-08-26T14:00Z,Everton,Wolverhampton Wanderers,Wolverhampton Wanderers,0.0,1.0,0.0 - 1.0,Goodison Park,38851,5400.0 + 420.0
+English Premier League,2023-08-19T14:00Z,Wolverhampton Wanderers,Brighton & Hove Albion,Brighton & Hove Albion,1.0,4.0,1.0 - 4.0,Molineux Stadium,31317,5400.0 + 600.0
+English Premier League,2023-08-14T19:00Z,Manchester United,Wolverhampton Wanderers,Manchester United,1.0,0.0,1.0 - 0.0,Old Trafford,73358,5400.0 + 600.0
