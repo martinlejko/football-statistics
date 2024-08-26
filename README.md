@@ -384,7 +384,7 @@ plt.show()
 
 
     
-![png](praca_files/praca_6_0.png)
+![png](data/images/matrix1.png)
     
 
 
@@ -420,7 +420,7 @@ plt.show()
 
 
     
-![png](praca_files/praca_9_0.png)
+![png](data/images/matrix2.png
     
 
 
@@ -487,7 +487,7 @@ plt.show()
 
 
     
-![png](praca_files/praca_15_1.png)
+![png](data/images/graph1.png)
     
 
 
@@ -518,7 +518,7 @@ plt.show()
 
 
     
-![png](praca_files/praca_17_0.png)
+![png](data/images/graph2.png)
     
 
 
