@@ -420,7 +420,7 @@ plt.show()
 
 
     
-![png](data/images/matrix2.png
+![png](data/images/matrix2.png)
     
 
 
